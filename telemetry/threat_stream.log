@@ -1,1 +1,1 @@
-[2016-03-01 14:22:15 UTC] audit: parse /var/log/auth.log for failed SSH connection attempts (seq_96)
+[2016-03-01 17:06:18 UTC] shell: automate cron backup of configuration directories (seq_97)
