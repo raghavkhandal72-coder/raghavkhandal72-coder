@@ -1,1 +1,1 @@
-[2016-03-31 15:22:15 UTC] audit: parse /var/log/auth.log for failed SSH connection attempts (seq_135)
+[2016-03-31 16:26:17 UTC] c: implement basic TCP client socket in C (seq_136)
