@@ -1,1 +1,1 @@
-[2016-03-30 18:29:10 UTC] linux: configure basic iptables INPUT and OUTPUT chains (seq_134)
+[2016-03-31 15:22:15 UTC] audit: parse /var/log/auth.log for failed SSH connection attempts (seq_135)
