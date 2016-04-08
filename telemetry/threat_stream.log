@@ -1,1 +1,1 @@
-[2016-04-08 20:47:49 UTC] c: implement basic TCP client socket in C (seq_151)
+[2016-04-08 21:31:15 UTC] net: parse IP and UDP packet headers using POSIX sockets (seq_152)
