@@ -1,1 +1,1 @@
-[2016-05-13 10:45:28 UTC] net: parse IP and UDP packet headers using POSIX sockets (seq_205)
+[2016-05-13 16:02:35 UTC] socket: implement multi-client server using select() loop (seq_206)
