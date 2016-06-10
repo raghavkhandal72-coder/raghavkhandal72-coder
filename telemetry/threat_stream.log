@@ -1,1 +1,1 @@
-[2016-06-10 15:01:09 UTC] socket: implement multi-client server using select() loop (seq_256)
+[2016-06-10 17:06:16 UTC] crypto: implement RSA key generation and hashing in Python (seq_257)
