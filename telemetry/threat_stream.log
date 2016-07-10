@@ -1,1 +1,1 @@
-[2016-07-07 10:45:40 UTC] shell: write automated bash script for network monitoring (seq_305)
+[2016-07-10 12:39:29 UTC] net: parse IP and UDP packet headers using POSIX sockets (seq_306)
