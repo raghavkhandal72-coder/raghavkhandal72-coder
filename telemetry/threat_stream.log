@@ -1,1 +1,1 @@
-[2016-07-15 18:27:39 UTC] net: parse IP and UDP packet headers using POSIX sockets (seq_318)
+[2016-07-17 12:33:07 UTC] net: inspect ARP table entries and gateway routing tables (seq_319)
