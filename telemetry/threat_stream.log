@@ -1,1 +1,1 @@
-[2016-07-28 17:20:35 UTC] shell: automate cron backup of configuration directories (seq_343)
+[2016-07-29 14:06:40 UTC] socket: implement multi-client server using select() loop (seq_344)
