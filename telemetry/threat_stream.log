@@ -1,1 +1,1 @@
-[2016-08-17 17:38:19 UTC] crypto: implement RSA key generation and hashing in Python (seq_389)
+[2016-08-19 09:51:36 UTC] audit: parse /var/log/auth.log for failed SSH connection attempts (seq_390)
