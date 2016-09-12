@@ -1,1 +1,1 @@
-[2016-09-09 11:39:39 UTC] audit: parse /var/log/auth.log for failed SSH connection attempts (seq_416)
+[2016-09-12 19:23:43 UTC] crypto: implement RSA key generation and hashing in Python (seq_417)
