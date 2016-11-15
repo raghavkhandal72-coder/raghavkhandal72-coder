@@ -1,1 +1,1 @@
-[2016-11-15 08:25:22 UTC] crypto: implement RSA key generation and hashing in Python (seq_542)
+[2016-11-15 14:32:37 UTC] net: parse IP and UDP packet headers using POSIX sockets (seq_543)
