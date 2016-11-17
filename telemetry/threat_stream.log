@@ -1,1 +1,1 @@
-[2016-11-16 14:30:20 UTC] audit: parse /var/log/auth.log for failed SSH connection attempts (seq_547)
+[2016-11-17 11:49:48 UTC] socket: implement multi-client server using select() loop (seq_548)
