@@ -1,1 +1,1 @@
-[2016-11-29 11:54:31 UTC] audit: parse /var/log/auth.log for failed SSH connection attempts (seq_569)
+[2016-11-29 12:18:44 UTC] sys: learn process fork and execve syscall handling in C (seq_570)
