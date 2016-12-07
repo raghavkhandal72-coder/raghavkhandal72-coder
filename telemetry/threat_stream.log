@@ -1,1 +1,1 @@
-[2016-12-06 14:47:04 UTC] socket: implement multi-client server using select() loop (seq_585)
+[2016-12-07 08:17:34 UTC] net: inspect ARP table entries and gateway routing tables (seq_586)
