@@ -1,1 +1,1 @@
-[2016-12-15 12:27:30 UTC] linux: configure basic iptables INPUT and OUTPUT chains (seq_603)
+[2016-12-15 15:23:10 UTC] net: parse IP and UDP packet headers using POSIX sockets (seq_604)
