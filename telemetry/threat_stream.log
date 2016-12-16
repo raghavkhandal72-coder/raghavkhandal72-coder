@@ -1,1 +1,1 @@
-[2016-12-16 12:52:59 UTC] linux: configure basic iptables INPUT and OUTPUT chains (seq_606)
+[2016-12-16 15:55:11 UTC] socket: implement multi-client server using select() loop (seq_607)
