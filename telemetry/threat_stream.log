@@ -1,1 +1,1 @@
-[2016-12-22 14:08:06 UTC] audit: parse /var/log/auth.log for failed SSH connection attempts (seq_619)
+[2016-12-22 16:45:09 UTC] net: parse IP and UDP packet headers using POSIX sockets (seq_620)
