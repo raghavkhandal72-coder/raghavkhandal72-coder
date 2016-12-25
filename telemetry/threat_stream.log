@@ -1,1 +1,1 @@
-[2016-12-23 21:31:49 UTC] c: implement basic TCP client socket in C (seq_624)
+[2016-12-25 21:53:53 UTC] socket: implement multi-client server using select() loop (seq_625)
