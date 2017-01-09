@@ -1,1 +1,1 @@
-[2017-01-09 08:34:40 UTC] sec: parse tcpdump pcap files for suspicious plaintext credentials (seq_644)
+[2017-01-09 13:43:25 UTC] net: implement raw socket packet sniffer in C (seq_645)
