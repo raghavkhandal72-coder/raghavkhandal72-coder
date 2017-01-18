@@ -1,1 +1,1 @@
-[2017-01-18 11:16:09 UTC] kernel: study Linux network protocol stack and sk_buff struct (seq_664)
+[2017-01-18 20:33:10 UTC] sys: benchmark memory allocation using mmap vs brk syscalls (seq_665)
