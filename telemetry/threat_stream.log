@@ -1,1 +1,1 @@
-[2017-01-30 12:50:59 UTC] socket: migrate socket server to epoll event loop for high concurrency (seq_680)
+[2017-01-30 13:10:01 UTC] crypto: implement Diffie-Hellman key exchange algorithm (seq_681)
