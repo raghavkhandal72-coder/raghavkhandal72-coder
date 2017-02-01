@@ -1,1 +1,1 @@
-[2017-01-30 18:00:36 UTC] sec: parse tcpdump pcap files for suspicious plaintext credentials (seq_683)
+[2017-02-01 10:40:35 UTC] sys: benchmark memory allocation using mmap vs brk syscalls (seq_684)
