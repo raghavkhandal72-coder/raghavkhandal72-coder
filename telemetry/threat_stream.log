@@ -1,1 +1,1 @@
-[2017-02-19 19:54:02 UTC] socket: migrate socket server to epoll event loop for high concurrency (seq_710)
+[2017-02-20 09:42:43 UTC] kernel: study Linux network protocol stack and sk_buff struct (seq_711)
