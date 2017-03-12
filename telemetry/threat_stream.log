@@ -1,1 +1,1 @@
-[2017-03-11 20:54:46 UTC] audit: configure auditd rules to monitor /etc/passwd modifications (seq_748)
+[2017-03-12 10:44:01 UTC] crypto: implement Diffie-Hellman key exchange algorithm (seq_749)
