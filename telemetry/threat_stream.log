@@ -1,1 +1,1 @@
-[2017-03-13 15:15:47 UTC] firewall: block malformed TCP packets with invalid flag combinations (seq_754)
+[2017-03-14 09:07:40 UTC] audit: configure auditd rules to monitor /etc/passwd modifications (seq_755)
