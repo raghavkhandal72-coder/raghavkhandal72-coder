@@ -1,1 +1,1 @@
-[2017-04-05 17:50:41 UTC] audit: configure auditd rules to monitor /etc/passwd modifications (seq_792)
+[2017-04-05 20:13:23 UTC] firewall: block malformed TCP packets with invalid flag combinations (seq_793)
