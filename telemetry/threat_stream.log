@@ -1,1 +1,1 @@
-[2017-04-20 12:27:29 UTC] audit: configure auditd rules to monitor /etc/passwd modifications (seq_815)
+[2017-04-20 13:26:00 UTC] net: implement raw socket packet sniffer in C (seq_816)
