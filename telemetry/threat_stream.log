@@ -1,1 +1,1 @@
-[2017-04-26 09:56:02 UTC] firewall: block malformed TCP packets with invalid flag combinations (seq_823)
+[2017-04-26 16:15:15 UTC] sys: benchmark memory allocation using mmap vs brk syscalls (seq_824)
