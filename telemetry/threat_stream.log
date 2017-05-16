@@ -1,1 +1,1 @@
-[2017-05-16 08:29:37 UTC] crypto: implement Diffie-Hellman key exchange algorithm (seq_848)
+[2017-05-16 21:06:49 UTC] firewall: block malformed TCP packets with invalid flag combinations (seq_849)
