@@ -1,1 +1,1 @@
-[2017-05-22 20:26:42 UTC] firewall: block malformed TCP packets with invalid flag combinations (seq_856)
+[2017-05-24 12:00:30 UTC] shell: automate iptables firewall rule deployment on Linux gateway (seq_857)
