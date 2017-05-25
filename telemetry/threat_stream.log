@@ -1,1 +1,1 @@
-[2017-05-25 12:25:49 UTC] sec: parse tcpdump pcap files for suspicious plaintext credentials (seq_862)
+[2017-05-25 18:12:12 UTC] firewall: block malformed TCP packets with invalid flag combinations (seq_863)
