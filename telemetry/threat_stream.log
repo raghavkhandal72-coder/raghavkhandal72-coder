@@ -1,1 +1,1 @@
-[2017-05-26 10:46:00 UTC] sec: parse tcpdump pcap files for suspicious plaintext credentials (seq_865)
+[2017-05-26 21:50:02 UTC] audit: configure auditd rules to monitor /etc/passwd modifications (seq_866)
