@@ -1,1 +1,1 @@
-[2017-05-31 16:06:54 UTC] audit: configure auditd rules to monitor /etc/passwd modifications (seq_874)
+[2017-06-01 08:14:53 UTC] socket: migrate socket server to epoll event loop for high concurrency (seq_875)
