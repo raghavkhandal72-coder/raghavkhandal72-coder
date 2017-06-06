@@ -1,1 +1,1 @@
-[2017-06-06 09:38:48 UTC] socket: migrate socket server to epoll event loop for high concurrency (seq_886)
+[2017-06-06 11:11:00 UTC] shell: automate iptables firewall rule deployment on Linux gateway (seq_887)
