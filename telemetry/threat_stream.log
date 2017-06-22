@@ -1,1 +1,1 @@
-[2017-06-22 15:36:10 UTC] socket: migrate socket server to epoll event loop for high concurrency (seq_917)
+[2017-06-22 19:55:28 UTC] python: build automated port scanner with multithreading support (seq_918)
