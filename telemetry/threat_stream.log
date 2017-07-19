@@ -1,1 +1,1 @@
-[2017-07-19 16:26:03 UTC] firewall: block malformed TCP packets with invalid flag combinations (seq_960)
+[2017-07-19 20:46:27 UTC] net: implement raw socket packet sniffer in C (seq_961)
