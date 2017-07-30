@@ -1,1 +1,1 @@
-[2017-07-28 21:04:03 UTC] crypto: implement Diffie-Hellman key exchange algorithm (seq_976)
+[2017-07-30 10:09:58 UTC] sys: benchmark memory allocation using mmap vs brk syscalls (seq_977)
