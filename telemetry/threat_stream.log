@@ -1,1 +1,1 @@
-[2017-08-02 08:46:39 UTC] net: implement raw socket packet sniffer in C (seq_982)
+[2017-08-02 15:19:59 UTC] kernel: study Linux network protocol stack and sk_buff struct (seq_983)
