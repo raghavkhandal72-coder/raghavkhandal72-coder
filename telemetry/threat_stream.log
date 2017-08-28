@@ -1,1 +1,1 @@
-[2017-08-28 11:36:02 UTC] firewall: block malformed TCP packets with invalid flag combinations (seq_1027)
+[2017-08-28 15:43:56 UTC] kernel: study Linux network protocol stack and sk_buff struct (seq_1028)
