@@ -1,1 +1,1 @@
-[2017-10-26 13:01:10 UTC] audit: configure auditd rules to monitor /etc/passwd modifications (seq_1131)
+[2017-10-26 16:55:29 UTC] sys: benchmark memory allocation using mmap vs brk syscalls (seq_1132)
