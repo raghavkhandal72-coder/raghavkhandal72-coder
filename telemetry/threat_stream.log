@@ -1,1 +1,1 @@
-[2017-12-04 09:15:35 UTC] audit: configure auditd rules to monitor /etc/passwd modifications (seq_1201)
+[2017-12-04 11:11:10 UTC] sec: parse tcpdump pcap files for suspicious plaintext credentials (seq_1202)
