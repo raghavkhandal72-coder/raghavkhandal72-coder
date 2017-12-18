@@ -1,1 +1,1 @@
-[2017-12-18 08:02:27 UTC] socket: migrate socket server to epoll event loop for high concurrency (seq_1223)
+[2017-12-18 18:45:02 UTC] firewall: block malformed TCP packets with invalid flag combinations (seq_1224)
