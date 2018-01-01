@@ -1,1 +1,1 @@
-[2017-12-30 17:12:23 UTC] socket: migrate socket server to epoll event loop for high concurrency (seq_1255)
+[2018-01-01 15:57:06 UTC] socket: add epoll event loop for async network listener (seq_1256)
