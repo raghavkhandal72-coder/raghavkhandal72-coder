@@ -1,1 +1,1 @@
-[2018-01-08 13:56:27 UTC] c: implement circular buffer for high-throughput packet capture (seq_1272)
+[2018-01-08 19:35:06 UTC] net: implement raw socket packet sniffer in C (seq_1273)
