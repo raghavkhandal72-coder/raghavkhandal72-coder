@@ -1,1 +1,1 @@
-[2018-01-09 09:40:57 UTC] audit: configure auditd daemon rules for syscall monitoring (seq_1275)
+[2018-01-09 17:47:14 UTC] netfilter: add PREROUTING mangle rule for port knocking (seq_1276)
