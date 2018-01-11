@@ -1,1 +1,1 @@
-[2018-01-11 09:50:13 UTC] crypto: implement RSA key exchange and HMAC-SHA256 verification (seq_1280)
+[2018-01-11 10:17:59 UTC] network: tune TCP SYN backlog queue against flood vectors (seq_1281)
