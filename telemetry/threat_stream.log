@@ -1,1 +1,1 @@
-[2018-01-12 11:54:41 UTC] crypto: implement RSA key exchange and HMAC-SHA256 verification (seq_1285)
+[2018-01-12 12:14:03 UTC] sec: parse tcpdump pcap streams for malicious payload signatures (seq_1286)
