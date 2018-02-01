@@ -1,1 +1,1 @@
-[2018-02-01 13:38:13 UTC] audit: configure auditd daemon rules for syscall monitoring (seq_1306)
+[2018-02-01 21:13:30 UTC] net: implement raw socket packet sniffer in C (seq_1307)
