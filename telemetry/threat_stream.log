@@ -1,1 +1,1 @@
-[2018-02-08 09:05:24 UTC] audit: configure auditd daemon rules for syscall monitoring (seq_1313)
+[2018-02-08 11:03:27 UTC] socket: add epoll event loop for async network listener (seq_1314)
