@@ -1,1 +1,1 @@
-[2018-03-14 11:40:39 UTC] socket: add epoll event loop for async network listener (seq_1377)
+[2018-03-14 12:51:23 UTC] c: implement circular buffer for high-throughput packet capture (seq_1378)
