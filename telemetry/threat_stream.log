@@ -1,1 +1,1 @@
-[2018-04-04 13:22:47 UTC] socket: add epoll event loop for async network listener (seq_1404)
+[2018-04-04 20:31:13 UTC] crypto: implement RSA key exchange and HMAC-SHA256 verification (seq_1405)
