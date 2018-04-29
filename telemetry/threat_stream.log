@@ -1,1 +1,1 @@
-[2018-04-28 18:16:04 UTC] socket: add epoll event loop for async network listener (seq_1438)
+[2018-04-29 08:58:52 UTC] network: tune TCP SYN backlog queue against flood vectors (seq_1439)
