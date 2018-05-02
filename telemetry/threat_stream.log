@@ -1,1 +1,1 @@
-[2018-05-02 12:20:29 UTC] netfilter: add PREROUTING mangle rule for port knocking (seq_1445)
+[2018-05-02 18:04:42 UTC] sec: parse tcpdump pcap streams for malicious payload signatures (seq_1446)
