@@ -1,1 +1,1 @@
-[2018-05-14 21:29:26 UTC] c: implement circular buffer for high-throughput packet capture (seq_1469)
+[2018-05-15 10:03:59 UTC] sys: optimize linux kernel ring buffer memory allocation (seq_1470)
