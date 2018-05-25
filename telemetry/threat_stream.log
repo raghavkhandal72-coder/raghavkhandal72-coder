@@ -1,1 +1,1 @@
-[2018-05-24 19:40:42 UTC] crypto: implement RSA key exchange and HMAC-SHA256 verification (seq_1489)
+[2018-05-25 10:56:27 UTC] sys: optimize linux kernel ring buffer memory allocation (seq_1490)
