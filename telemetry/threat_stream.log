@@ -1,1 +1,1 @@
-[2018-05-29 17:54:35 UTC] network: tune TCP SYN backlog queue against flood vectors (seq_1497)
+[2018-05-29 18:01:12 UTC] sys: optimize linux kernel ring buffer memory allocation (seq_1498)
