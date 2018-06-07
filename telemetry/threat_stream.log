@@ -1,1 +1,1 @@
-[2018-06-06 16:11:47 UTC] socket: add epoll event loop for async network listener (seq_1506)
+[2018-06-07 14:14:34 UTC] net: implement raw socket packet sniffer in C (seq_1507)
