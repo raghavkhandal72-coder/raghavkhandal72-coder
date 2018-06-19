@@ -1,1 +1,1 @@
-[2018-06-19 14:00:21 UTC] audit: configure auditd daemon rules for syscall monitoring (seq_1528)
+[2018-06-19 19:17:30 UTC] sec: parse tcpdump pcap streams for malicious payload signatures (seq_1529)
