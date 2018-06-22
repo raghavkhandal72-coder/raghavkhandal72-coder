@@ -1,1 +1,1 @@
-[2018-06-22 12:37:57 UTC] crypto: implement RSA key exchange and HMAC-SHA256 verification (seq_1535)
+[2018-06-22 15:51:12 UTC] net: implement raw socket packet sniffer in C (seq_1536)
