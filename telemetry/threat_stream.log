@@ -1,1 +1,1 @@
-[2018-07-11 17:09:03 UTC] audit: configure auditd daemon rules for syscall monitoring (seq_1567)
+[2018-07-12 08:51:05 UTC] network: tune TCP SYN backlog queue against flood vectors (seq_1568)
