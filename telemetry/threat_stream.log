@@ -1,1 +1,1 @@
-[2018-07-17 11:13:23 UTC] crypto: implement RSA key exchange and HMAC-SHA256 verification (seq_1577)
+[2018-07-17 13:28:56 UTC] c: implement circular buffer for high-throughput packet capture (seq_1578)
