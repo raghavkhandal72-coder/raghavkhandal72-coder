@@ -1,1 +1,1 @@
-[2018-07-24 13:23:23 UTC] c: implement circular buffer for high-throughput packet capture (seq_1588)
+[2018-07-24 15:58:02 UTC] audit: configure auditd daemon rules for syscall monitoring (seq_1589)
