@@ -1,1 +1,1 @@
-[2018-07-25 21:07:55 UTC] socket: add epoll event loop for async network listener (seq_1593)
+[2018-07-26 11:05:44 UTC] sys: optimize linux kernel ring buffer memory allocation (seq_1594)
