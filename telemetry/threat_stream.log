@@ -1,1 +1,1 @@
-[2018-07-27 17:13:27 UTC] sys: optimize linux kernel ring buffer memory allocation (seq_1596)
+[2018-07-27 20:33:47 UTC] audit: configure auditd daemon rules for syscall monitoring (seq_1597)
