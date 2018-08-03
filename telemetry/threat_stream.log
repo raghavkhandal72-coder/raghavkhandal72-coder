@@ -1,1 +1,1 @@
-[2018-08-03 13:22:24 UTC] net: implement raw socket packet sniffer in C (seq_1607)
+[2018-08-03 16:29:46 UTC] sys: optimize linux kernel ring buffer memory allocation (seq_1608)
