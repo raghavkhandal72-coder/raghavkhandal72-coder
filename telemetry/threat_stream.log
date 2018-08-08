@@ -1,1 +1,1 @@
-[2018-08-08 10:18:40 UTC] net: implement raw socket packet sniffer in C (seq_1615)
+[2018-08-08 12:20:19 UTC] network: tune TCP SYN backlog queue against flood vectors (seq_1616)
