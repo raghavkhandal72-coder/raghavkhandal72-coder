@@ -1,1 +1,1 @@
-[2018-08-15 08:56:51 UTC] c: implement circular buffer for high-throughput packet capture (seq_1628)
+[2018-08-15 12:59:30 UTC] network: tune TCP SYN backlog queue against flood vectors (seq_1629)
