@@ -1,1 +1,1 @@
-[2018-08-22 15:21:51 UTC] net: implement raw socket packet sniffer in C (seq_1645)
+[2018-08-22 16:12:46 UTC] netfilter: add PREROUTING mangle rule for port knocking (seq_1646)
