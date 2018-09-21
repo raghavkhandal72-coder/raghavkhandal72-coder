@@ -1,1 +1,1 @@
-[2018-09-21 14:47:33 UTC] net: implement raw socket packet sniffer in C (seq_1702)
+[2018-09-21 15:54:25 UTC] sec: parse tcpdump pcap streams for malicious payload signatures (seq_1703)
