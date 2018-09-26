@@ -1,1 +1,1 @@
-[2018-09-26 08:48:22 UTC] c: implement circular buffer for high-throughput packet capture (seq_1709)
+[2018-09-26 11:51:36 UTC] netfilter: add PREROUTING mangle rule for port knocking (seq_1710)
