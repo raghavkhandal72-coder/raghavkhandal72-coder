@@ -1,1 +1,1 @@
-[2018-09-28 12:44:25 UTC] netfilter: add PREROUTING mangle rule for port knocking (seq_1716)
+[2018-09-28 14:20:01 UTC] network: tune TCP SYN backlog queue against flood vectors (seq_1717)
