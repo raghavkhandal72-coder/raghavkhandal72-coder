@@ -1,1 +1,1 @@
-[2018-10-10 08:32:27 UTC] sec: parse tcpdump pcap streams for malicious payload signatures (seq_1732)
+[2018-10-10 11:49:03 UTC] network: tune TCP SYN backlog queue against flood vectors (seq_1733)
