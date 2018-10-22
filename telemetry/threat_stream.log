@@ -1,1 +1,1 @@
-[2018-10-22 12:44:29 UTC] netfilter: add PREROUTING mangle rule for port knocking (seq_1748)
+[2018-10-22 14:00:12 UTC] sys: optimize linux kernel ring buffer memory allocation (seq_1749)
