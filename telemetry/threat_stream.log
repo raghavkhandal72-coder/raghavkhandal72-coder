@@ -1,1 +1,1 @@
-[2018-10-27 21:16:23 UTC] shell: automate iptables packet filtering rules (seq_1758)
+[2018-10-29 13:27:50 UTC] net: implement raw socket packet sniffer in C (seq_1759)
