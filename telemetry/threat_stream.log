@@ -1,1 +1,1 @@
-[2018-11-07 18:22:47 UTC] socket: add epoll event loop for async network listener (seq_1779)
+[2018-11-08 08:38:36 UTC] netfilter: add PREROUTING mangle rule for port knocking (seq_1780)
