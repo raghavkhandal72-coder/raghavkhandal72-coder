@@ -1,1 +1,1 @@
-[2018-12-11 21:53:17 UTC] shell: automate iptables packet filtering rules (seq_1843)
+[2018-12-12 13:43:51 UTC] network: tune TCP SYN backlog queue against flood vectors (seq_1844)
