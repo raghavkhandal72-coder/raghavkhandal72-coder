@@ -1,1 +1,1 @@
-[2018-12-13 16:41:31 UTC] c: implement circular buffer for high-throughput packet capture (seq_1850)
+[2018-12-14 08:14:48 UTC] sec: parse tcpdump pcap streams for malicious payload signatures (seq_1851)
