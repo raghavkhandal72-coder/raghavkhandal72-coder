@@ -1,1 +1,1 @@
-[2018-12-16 19:06:31 UTC] sec: parse tcpdump pcap streams for malicious payload signatures (seq_1855)
+[2018-12-18 13:51:27 UTC] socket: add epoll event loop for async network listener (seq_1856)
