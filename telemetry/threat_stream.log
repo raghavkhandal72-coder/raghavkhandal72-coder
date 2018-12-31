@@ -1,1 +1,1 @@
-[2018-12-30 15:34:06 UTC] shell: automate iptables packet filtering rules (seq_1876)
+[2018-12-31 11:42:28 UTC] netfilter: add PREROUTING mangle rule for port knocking (seq_1877)
