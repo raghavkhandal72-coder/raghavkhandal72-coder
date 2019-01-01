@@ -1,1 +1,1 @@
-[2018-12-31 20:25:20 UTC] sys: optimize linux kernel ring buffer memory allocation (seq_1879)
+[2019-01-01 09:58:56 UTC] log: normalize syslog events into CEF structured format (seq_1880)
