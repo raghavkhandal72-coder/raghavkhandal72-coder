@@ -1,1 +1,1 @@
-[2019-03-07 10:16:15 UTC] net: mitigate UDP amplification attacks with ratelimit buckets (seq_1989)
+[2019-03-08 11:49:42 UTC] sys: harden sysctl kernel parameters against ICMP redirects (seq_1990)
