@@ -1,1 +1,1 @@
-[2019-03-15 21:41:56 UTC] kernel: build custom netfilter kernel module for deep packet inspection (seq_2000)
+[2019-03-16 11:35:42 UTC] sys: harden sysctl kernel parameters against ICMP redirects (seq_2001)
