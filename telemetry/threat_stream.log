@@ -1,1 +1,1 @@
-[2019-04-02 13:41:10 UTC] sys: harden sysctl kernel parameters against ICMP redirects (seq_2031)
+[2019-04-02 20:00:41 UTC] ids: deploy Suricata sensor on perimeter gateway (seq_2032)
