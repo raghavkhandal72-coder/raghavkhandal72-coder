@@ -1,1 +1,1 @@
-[2019-04-01 19:05:15 UTC] log: normalize syslog events into CEF structured format (seq_2030)
+[2019-04-02 13:41:10 UTC] sys: harden sysctl kernel parameters against ICMP redirects (seq_2031)
