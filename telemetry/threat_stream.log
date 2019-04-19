@@ -1,1 +1,1 @@
-[2019-04-18 11:37:47 UTC] net: mitigate UDP amplification attacks with ratelimit buckets (seq_2058)
+[2019-04-19 10:14:45 UTC] auth: implement PAM module for two-factor hardware token validation (seq_2059)
