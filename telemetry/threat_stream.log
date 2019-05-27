@@ -1,1 +1,1 @@
-[2019-05-27 12:16:35 UTC] daemon: implement multi-threaded threat log aggregation daemon (seq_2127)
+[2019-05-27 13:10:46 UTC] log: normalize syslog events into CEF structured format (seq_2128)
