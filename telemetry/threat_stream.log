@@ -1,1 +1,1 @@
-[2019-06-09 16:21:06 UTC] daemon: implement multi-threaded threat log aggregation daemon (seq_2145)
+[2019-06-10 09:55:51 UTC] sys: harden sysctl kernel parameters against ICMP redirects (seq_2146)
