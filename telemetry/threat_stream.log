@@ -1,1 +1,1 @@
-[2019-07-10 11:25:43 UTC] sys: harden sysctl kernel parameters against ICMP redirects (seq_2206)
+[2019-07-10 13:27:17 UTC] crypto: rotate TLS 1.3 certificate pinning configurations (seq_2207)
