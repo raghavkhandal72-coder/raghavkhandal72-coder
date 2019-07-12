@@ -1,1 +1,1 @@
-[2019-07-12 10:36:19 UTC] net: mitigate UDP amplification attacks with ratelimit buckets (seq_2212)
+[2019-07-12 11:38:33 UTC] log: normalize syslog events into CEF structured format (seq_2213)
