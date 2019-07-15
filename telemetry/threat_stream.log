@@ -1,1 +1,1 @@
-[2019-07-15 17:59:06 UTC] net: mitigate UDP amplification attacks with ratelimit buckets (seq_2219)
+[2019-07-15 21:21:10 UTC] kernel: build custom netfilter kernel module for deep packet inspection (seq_2220)
