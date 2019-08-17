@@ -1,1 +1,1 @@
-[2019-08-17 14:11:12 UTC] daemon: implement multi-threaded threat log aggregation daemon (seq_2280)
+[2019-08-17 19:30:25 UTC] net: mitigate UDP amplification attacks with ratelimit buckets (seq_2281)
