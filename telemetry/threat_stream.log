@@ -1,1 +1,1 @@
-[2019-08-22 08:37:38 UTC] auth: implement PAM module for two-factor hardware token validation (seq_2292)
+[2019-08-22 11:27:46 UTC] log: normalize syslog events into CEF structured format (seq_2293)
