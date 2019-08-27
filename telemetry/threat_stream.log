@@ -1,1 +1,1 @@
-[2019-08-26 21:35:39 UTC] kernel: build custom netfilter kernel module for deep packet inspection (seq_2296)
+[2019-08-27 19:35:31 UTC] log: normalize syslog events into CEF structured format (seq_2297)
