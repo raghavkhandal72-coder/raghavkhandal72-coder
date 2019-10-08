@@ -1,1 +1,1 @@
-[2019-10-08 12:43:44 UTC] sys: harden sysctl kernel parameters against ICMP redirects (seq_2360)
+[2019-10-08 16:31:26 UTC] log: normalize syslog events into CEF structured format (seq_2361)
