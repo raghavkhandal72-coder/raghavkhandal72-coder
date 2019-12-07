@@ -1,1 +1,1 @@
-[2019-12-06 12:58:36 UTC] sys: harden sysctl kernel parameters against ICMP redirects (seq_2453)
+[2019-12-07 18:05:40 UTC] net: mitigate UDP amplification attacks with ratelimit buckets (seq_2454)
