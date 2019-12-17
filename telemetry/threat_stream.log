@@ -1,1 +1,1 @@
-[2019-12-17 15:44:16 UTC] auth: implement PAM module for two-factor hardware token validation (seq_2476)
+[2019-12-17 17:19:21 UTC] sys: harden sysctl kernel parameters against ICMP redirects (seq_2477)
