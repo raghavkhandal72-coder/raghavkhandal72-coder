@@ -1,1 +1,1 @@
-[2020-01-27 14:03:05 UTC] contain: enforce seccomp and AppArmor profiles for container isolation (seq_2555)
+[2020-01-27 17:08:42 UTC] secops: integrate CI/CD SAST pipeline scanner with git hooks (seq_2556)
