@@ -1,1 +1,1 @@
-[2020-01-31 20:19:05 UTC] docker: harden container runtime against root privilege escalation (seq_2571)
+[2020-02-01 16:09:33 UTC] ci: add Trivy container image vulnerability scanning stage (seq_2572)
