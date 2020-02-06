@@ -1,1 +1,1 @@
-[2020-02-04 20:39:09 UTC] tls: automate Let's Encrypt wildcard certificate renewals via ACME (seq_2580)
+[2020-02-06 08:55:48 UTC] api: implement JWT token signature verification gateway (seq_2581)
