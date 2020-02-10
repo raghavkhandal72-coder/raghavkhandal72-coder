@@ -1,1 +1,1 @@
-[2020-02-10 17:59:53 UTC] cgroup: enforce memory and CPU throttle limits on untrusted workloads (seq_2590)
+[2020-02-10 21:32:43 UTC] ci: add Trivy container image vulnerability scanning stage (seq_2591)
