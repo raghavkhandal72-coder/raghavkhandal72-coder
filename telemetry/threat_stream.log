@@ -1,1 +1,1 @@
-[2020-04-27 09:55:11 UTC] secops: integrate CI/CD SAST pipeline scanner with git hooks (seq_2722)
+[2020-04-27 12:53:38 UTC] cgroup: enforce memory and CPU throttle limits on untrusted workloads (seq_2723)
