@@ -1,1 +1,1 @@
-[2020-04-28 10:57:41 UTC] tls: automate Let's Encrypt wildcard certificate renewals via ACME (seq_2725)
+[2020-04-29 09:55:45 UTC] ci: add Trivy container image vulnerability scanning stage (seq_2726)
