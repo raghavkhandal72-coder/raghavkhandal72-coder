@@ -1,1 +1,1 @@
-[2020-05-15 14:31:11 UTC] contain: enforce seccomp and AppArmor profiles for container isolation (seq_2762)
+[2020-05-15 19:32:40 UTC] cgroup: enforce memory and CPU throttle limits on untrusted workloads (seq_2763)
