@@ -1,1 +1,1 @@
-[2020-05-20 09:16:34 UTC] cgroup: enforce memory and CPU throttle limits on untrusted workloads (seq_2770)
+[2020-05-20 10:44:01 UTC] docker: harden container runtime against root privilege escalation (seq_2771)
