@@ -1,1 +1,1 @@
-[2020-06-02 09:41:45 UTC] ci: add Trivy container image vulnerability scanning stage (seq_2793)
+[2020-06-02 13:36:04 UTC] contain: enforce seccomp and AppArmor profiles for container isolation (seq_2794)
