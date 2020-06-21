@@ -1,1 +1,1 @@
-[2020-06-20 12:00:14 UTC] contain: enforce seccomp and AppArmor profiles for container isolation (seq_2836)
+[2020-06-21 11:45:25 UTC] network: deploy WireGuard zero-trust mesh tunnels across nodes (seq_2837)
