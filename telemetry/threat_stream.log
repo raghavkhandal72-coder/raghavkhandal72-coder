@@ -1,1 +1,1 @@
-[2020-06-30 08:34:06 UTC] contain: enforce seccomp and AppArmor profiles for container isolation (seq_2855)
+[2020-07-01 09:58:25 UTC] docker: harden container runtime against root privilege escalation (seq_2856)
