@@ -1,1 +1,1 @@
-[2020-07-15 12:48:18 UTC] docker: harden container runtime against root privilege escalation (seq_2887)
+[2020-07-16 08:30:40 UTC] secops: integrate CI/CD SAST pipeline scanner with git hooks (seq_2888)
