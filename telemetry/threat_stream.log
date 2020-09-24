@@ -1,1 +1,1 @@
-[2020-09-23 21:06:15 UTC] metrics: build high-throughput Prometheus telemetry scraper in Go (seq_3006)
+[2020-09-24 09:47:11 UTC] go: build concurrency-safe worker pool for log ingestion (seq_3007)
