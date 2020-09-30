@@ -1,1 +1,1 @@
-[2020-09-29 20:07:34 UTC] tls: automate Let's Encrypt wildcard certificate renewals via ACME (seq_3018)
+[2020-09-30 09:31:34 UTC] docker: harden container runtime against root privilege escalation (seq_3019)
