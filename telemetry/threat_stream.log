@@ -1,1 +1,1 @@
-[2020-10-19 20:28:27 UTC] docker: harden container runtime against root privilege escalation (seq_3057)
+[2020-10-20 11:56:42 UTC] metrics: build high-throughput Prometheus telemetry scraper in Go (seq_3058)
