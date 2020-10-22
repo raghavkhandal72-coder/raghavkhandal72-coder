@@ -1,1 +1,1 @@
-[2020-10-22 10:29:04 UTC] contain: enforce seccomp and AppArmor profiles for container isolation (seq_3066)
+[2020-10-22 11:46:36 UTC] api: implement JWT token signature verification gateway (seq_3067)
