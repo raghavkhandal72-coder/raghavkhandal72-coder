@@ -1,1 +1,1 @@
-[2020-11-02 18:01:00 UTC] cgroup: enforce memory and CPU throttle limits on untrusted workloads (seq_3087)
+[2020-11-02 19:25:09 UTC] metrics: build high-throughput Prometheus telemetry scraper in Go (seq_3088)
