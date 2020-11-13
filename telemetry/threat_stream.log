@@ -1,1 +1,1 @@
-[2020-11-12 21:05:14 UTC] api: implement JWT token signature verification gateway (seq_3107)
+[2020-11-13 14:35:45 UTC] go: build concurrency-safe worker pool for log ingestion (seq_3108)
