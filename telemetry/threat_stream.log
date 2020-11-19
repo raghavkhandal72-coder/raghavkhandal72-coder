@@ -1,1 +1,1 @@
-[2020-11-18 18:15:11 UTC] go: build concurrency-safe worker pool for log ingestion (seq_3116)
+[2020-11-19 11:29:31 UTC] ci: add Trivy container image vulnerability scanning stage (seq_3117)
