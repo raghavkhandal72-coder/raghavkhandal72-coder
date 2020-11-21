@@ -1,1 +1,1 @@
-[2020-11-19 21:25:27 UTC] ci: add Trivy container image vulnerability scanning stage (seq_3119)
+[2020-11-21 10:29:22 UTC] api: implement JWT token signature verification gateway (seq_3120)
