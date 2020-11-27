@@ -1,1 +1,1 @@
-[2020-11-26 19:10:32 UTC] docker: harden container runtime against root privilege escalation (seq_3129)
+[2020-11-27 08:08:06 UTC] api: implement JWT token signature verification gateway (seq_3130)
