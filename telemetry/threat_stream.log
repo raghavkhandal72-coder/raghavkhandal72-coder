@@ -1,1 +1,1 @@
-[2020-11-27 08:08:06 UTC] api: implement JWT token signature verification gateway (seq_3130)
+[2020-11-30 08:27:39 UTC] cgroup: enforce memory and CPU throttle limits on untrusted workloads (seq_3131)
