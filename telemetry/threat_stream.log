@@ -1,1 +1,1 @@
-[2020-12-07 09:01:09 UTC] secops: integrate CI/CD SAST pipeline scanner with git hooks (seq_3146)
+[2020-12-07 12:06:28 UTC] ci: add Trivy container image vulnerability scanning stage (seq_3147)
