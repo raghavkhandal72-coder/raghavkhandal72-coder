@@ -1,1 +1,1 @@
-[2020-12-27 09:58:08 UTC] go: build concurrency-safe worker pool for log ingestion (seq_3181)
+[2020-12-29 08:15:37 UTC] docker: harden container runtime against root privilege escalation (seq_3182)
