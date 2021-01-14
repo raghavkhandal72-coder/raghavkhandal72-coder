@@ -1,1 +1,1 @@
-[2021-01-14 12:25:39 UTC] policy: write Open Policy Agent (OPA) Gatekeeper constraint templates (seq_3213)
+[2021-01-14 21:46:26 UTC] iam: enforce least-privilege RBAC role bindings across namespaces (seq_3214)
