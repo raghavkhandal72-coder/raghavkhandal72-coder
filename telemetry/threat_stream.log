@@ -1,1 +1,1 @@
-[2021-02-10 18:58:27 UTC] k8s: enforce read-only root filesystems across production pods (seq_3266)
+[2021-02-10 19:22:51 UTC] siem: ingest multi-cloud telemetry into Elasticsearch cluster (seq_3267)
