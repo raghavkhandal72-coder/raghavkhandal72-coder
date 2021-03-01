@@ -1,1 +1,1 @@
-[2021-02-27 17:35:26 UTC] iam: enforce least-privilege RBAC role bindings across namespaces (seq_3298)
+[2021-03-01 17:08:05 UTC] network: implement Calico network policies for egress lockdown (seq_3299)
