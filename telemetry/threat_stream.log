@@ -1,1 +1,1 @@
-[2021-04-28 09:15:41 UTC] network: implement Calico network policies for egress lockdown (seq_3394)
+[2021-04-28 15:21:28 UTC] k8s: enforce read-only root filesystems across production pods (seq_3395)
