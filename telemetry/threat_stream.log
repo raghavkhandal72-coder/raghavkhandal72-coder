@@ -1,1 +1,1 @@
-[2021-05-16 14:42:55 UTC] iam: enforce least-privilege RBAC role bindings across namespaces (seq_3418)
+[2021-05-17 09:09:18 UTC] k8s: enforce read-only root filesystems across production pods (seq_3419)
