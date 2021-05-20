@@ -1,1 +1,1 @@
-[2021-05-20 17:51:45 UTC] k8s: enforce read-only root filesystems across production pods (seq_3427)
+[2021-05-20 21:38:03 UTC] k8s: build admission webhook controller for pod security standards (seq_3428)
