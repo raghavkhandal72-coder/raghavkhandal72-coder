@@ -1,1 +1,1 @@
-[2021-07-02 18:08:07 UTC] cloud: configure AWS GuardDuty and VPC flow log streaming (seq_3527)
+[2021-07-05 15:27:37 UTC] siem: ingest multi-cloud telemetry into Elasticsearch cluster (seq_3528)
