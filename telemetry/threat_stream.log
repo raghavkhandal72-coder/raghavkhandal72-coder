@@ -1,1 +1,1 @@
-[2021-07-13 09:05:36 UTC] network: implement Calico network policies for egress lockdown (seq_3539)
+[2021-07-13 11:41:36 UTC] policy: write Open Policy Agent (OPA) Gatekeeper constraint templates (seq_3540)
