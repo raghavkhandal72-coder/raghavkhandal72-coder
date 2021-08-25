@@ -1,1 +1,1 @@
-[2021-08-25 15:03:58 UTC] iam: enforce least-privilege RBAC role bindings across namespaces (seq_3614)
+[2021-08-25 17:18:02 UTC] k8s: build admission webhook controller for pod security standards (seq_3615)
