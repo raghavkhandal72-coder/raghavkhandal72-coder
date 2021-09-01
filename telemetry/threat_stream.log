@@ -1,1 +1,1 @@
-[2021-09-01 13:27:51 UTC] k8s: enforce read-only root filesystems across production pods (seq_3627)
+[2021-09-01 16:52:02 UTC] policy: write Open Policy Agent (OPA) Gatekeeper constraint templates (seq_3628)
