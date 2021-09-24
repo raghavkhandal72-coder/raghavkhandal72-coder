@@ -1,1 +1,1 @@
-[2021-09-23 12:17:33 UTC] cloud: configure AWS GuardDuty and VPC flow log streaming (seq_3656)
+[2021-09-24 08:34:19 UTC] network: implement Calico network policies for egress lockdown (seq_3657)
