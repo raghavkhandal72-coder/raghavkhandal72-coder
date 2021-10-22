@@ -1,1 +1,1 @@
-[2021-10-21 11:26:17 UTC] audit: benchmark terraform infrastructure state against CIS AWS (seq_3702)
+[2021-10-22 11:24:54 UTC] k8s: enforce read-only root filesystems across production pods (seq_3703)
