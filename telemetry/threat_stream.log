@@ -1,1 +1,1 @@
-[2021-10-23 13:08:44 UTC] audit: benchmark terraform infrastructure state against CIS AWS (seq_3706)
+[2021-10-23 14:04:36 UTC] iam: enforce least-privilege RBAC role bindings across namespaces (seq_3707)
