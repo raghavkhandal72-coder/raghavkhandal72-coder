@@ -1,1 +1,1 @@
-[2021-10-26 14:21:36 UTC] k8s: enforce read-only root filesystems across production pods (seq_3710)
+[2021-10-26 19:13:15 UTC] cloud: configure AWS GuardDuty and VPC flow log streaming (seq_3711)
