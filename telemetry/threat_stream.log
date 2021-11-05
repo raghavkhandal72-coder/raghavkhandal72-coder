@@ -1,1 +1,1 @@
-[2021-11-05 13:31:10 UTC] iam: enforce least-privilege RBAC role bindings across namespaces (seq_3732)
+[2021-11-05 15:12:55 UTC] siem: ingest multi-cloud telemetry into Elasticsearch cluster (seq_3733)
