@@ -1,1 +1,1 @@
-[2021-11-08 15:59:30 UTC] iam: enforce least-privilege RBAC role bindings across namespaces (seq_3742)
+[2021-11-09 19:31:44 UTC] cloud: configure AWS GuardDuty and VPC flow log streaming (seq_3743)
