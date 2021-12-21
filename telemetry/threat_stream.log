@@ -1,1 +1,1 @@
-[2021-12-21 09:30:01 UTC] soar: automate slack alerting on suspicious privilege escalation (seq_3806)
+[2021-12-21 15:35:11 UTC] iam: enforce least-privilege RBAC role bindings across namespaces (seq_3807)
