@@ -1,1 +1,1 @@
-[2022-01-05 13:08:25 UTC] threat: analyze reverse shell payload execution patterns via bpftrace (seq_3835)
+[2022-01-05 15:33:30 UTC] ebpf: attach TC/XDP hook for line-rate DDoS packet mitigation (seq_3836)
