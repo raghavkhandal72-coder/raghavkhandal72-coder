@@ -1,1 +1,1 @@
-[2022-01-08 14:02:32 UTC] cve: patch fast-path exploit vector against CVE-2022-0847 Dirty Pipe (seq_3840)
+[2022-01-10 13:02:23 UTC] crypto: verify supply chain signatures using Sigstore and Cosign (seq_3841)
