@@ -1,1 +1,1 @@
-[2022-01-26 18:18:53 UTC] net: implement kernel-level connection tracking table analyzer (seq_3876)
+[2022-01-26 21:29:42 UTC] mesh: configure Cilium eBPF service mesh for L7 network observability (seq_3877)
