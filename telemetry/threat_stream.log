@@ -1,1 +1,1 @@
-[2022-03-16 11:51:34 UTC] ebpf: trace execve syscall invocations in kernel space via kprobes (seq_3961)
+[2022-03-16 12:49:40 UTC] ebpf: attach TC/XDP hook for line-rate DDoS packet mitigation (seq_3962)
