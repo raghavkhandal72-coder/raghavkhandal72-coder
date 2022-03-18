@@ -1,1 +1,1 @@
-[2022-03-18 18:33:49 UTC] audit: trace file integrity modifications with eBPF LSM hooks (seq_3965)
+[2022-03-18 20:39:57 UTC] mesh: configure Cilium eBPF service mesh for L7 network observability (seq_3966)
