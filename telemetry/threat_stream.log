@@ -1,1 +1,1 @@
-[2022-03-25 18:15:31 UTC] ebpf: attach TC/XDP hook for line-rate DDoS packet mitigation (seq_3977)
+[2022-03-25 21:27:26 UTC] mesh: configure Cilium eBPF service mesh for L7 network observability (seq_3978)
