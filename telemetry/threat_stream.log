@@ -1,1 +1,1 @@
-[2022-04-28 12:52:34 UTC] telemetry: export low-overhead kernel ring buffer events via perf (seq_4026)
+[2022-04-28 18:15:02 UTC] ebpf: trace execve syscall invocations in kernel space via kprobes (seq_4027)
