@@ -1,1 +1,1 @@
-[2022-05-05 19:35:36 UTC] audit: trace file integrity modifications with eBPF LSM hooks (seq_4038)
+[2022-05-06 13:00:22 UTC] ebpf: trace execve syscall invocations in kernel space via kprobes (seq_4039)
