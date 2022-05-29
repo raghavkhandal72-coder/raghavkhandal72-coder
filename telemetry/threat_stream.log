@@ -1,1 +1,1 @@
-[2022-05-29 15:15:14 UTC] mesh: configure Cilium eBPF service mesh for L7 network observability (seq_4078)
+[2022-05-29 21:37:40 UTC] telemetry: export low-overhead kernel ring buffer events via perf (seq_4079)
