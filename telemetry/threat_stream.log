@@ -1,1 +1,1 @@
-[2022-06-02 13:15:24 UTC] cve: patch fast-path exploit vector against CVE-2022-0847 Dirty Pipe (seq_4091)
+[2022-06-02 16:34:53 UTC] telemetry: export low-overhead kernel ring buffer events via perf (seq_4092)
