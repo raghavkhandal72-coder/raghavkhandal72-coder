@@ -1,1 +1,1 @@
-[2022-07-28 18:49:13 UTC] telemetry: export low-overhead kernel ring buffer events via perf (seq_4185)
+[2022-07-29 15:22:09 UTC] threat: analyze reverse shell payload execution patterns via bpftrace (seq_4186)
