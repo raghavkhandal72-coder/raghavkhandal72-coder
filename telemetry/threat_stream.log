@@ -1,1 +1,1 @@
-[2022-08-14 19:28:48 UTC] cve: patch fast-path exploit vector against CVE-2022-0847 Dirty Pipe (seq_4215)
+[2022-08-15 09:18:53 UTC] mesh: configure Cilium eBPF service mesh for L7 network observability (seq_4216)
