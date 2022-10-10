@@ -1,1 +1,1 @@
-[2022-10-10 18:02:08 UTC] telemetry: export low-overhead kernel ring buffer events via perf (seq_4307)
+[2022-10-10 21:23:28 UTC] ebpf: attach TC/XDP hook for line-rate DDoS packet mitigation (seq_4308)
