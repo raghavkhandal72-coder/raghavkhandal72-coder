@@ -1,1 +1,1 @@
-[2022-10-27 09:44:54 UTC] audit: trace file integrity modifications with eBPF LSM hooks (seq_4336)
+[2022-10-27 13:33:42 UTC] threat: analyze reverse shell payload execution patterns via bpftrace (seq_4337)
