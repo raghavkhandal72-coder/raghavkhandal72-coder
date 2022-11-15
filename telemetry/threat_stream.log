@@ -1,1 +1,1 @@
-[2022-11-15 19:03:41 UTC] audit: trace file integrity modifications with eBPF LSM hooks (seq_4366)
+[2022-11-15 20:22:23 UTC] cve: patch fast-path exploit vector against CVE-2022-0847 Dirty Pipe (seq_4367)
