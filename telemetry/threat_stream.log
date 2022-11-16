@@ -1,1 +1,1 @@
-[2022-11-16 08:24:28 UTC] ebpf: trace execve syscall invocations in kernel space via kprobes (seq_4368)
+[2022-11-16 09:33:07 UTC] threat: analyze reverse shell payload execution patterns via bpftrace (seq_4369)
