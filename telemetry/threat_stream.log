@@ -1,1 +1,1 @@
-[2022-11-18 15:25:53 UTC] cve: patch fast-path exploit vector against CVE-2022-0847 Dirty Pipe (seq_4374)
+[2022-11-18 16:14:23 UTC] threat: analyze reverse shell payload execution patterns via bpftrace (seq_4375)
