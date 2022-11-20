@@ -1,1 +1,1 @@
-[2022-11-18 21:48:49 UTC] ebpf: trace execve syscall invocations in kernel space via kprobes (seq_4376)
+[2022-11-20 15:05:47 UTC] mesh: configure Cilium eBPF service mesh for L7 network observability (seq_4377)
