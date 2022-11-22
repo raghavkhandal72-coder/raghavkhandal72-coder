@@ -1,1 +1,1 @@
-[2022-11-22 16:48:10 UTC] telemetry: export low-overhead kernel ring buffer events via perf (seq_4379)
+[2022-11-22 18:41:03 UTC] audit: trace file integrity modifications with eBPF LSM hooks (seq_4380)
