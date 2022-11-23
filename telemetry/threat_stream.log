@@ -1,1 +1,1 @@
-[2022-11-22 18:41:03 UTC] audit: trace file integrity modifications with eBPF LSM hooks (seq_4380)
+[2022-11-23 09:11:11 UTC] ebpf: attach TC/XDP hook for line-rate DDoS packet mitigation (seq_4381)
