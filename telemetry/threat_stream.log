@@ -1,1 +1,1 @@
-[2022-11-29 12:08:33 UTC] cve: patch fast-path exploit vector against CVE-2022-0847 Dirty Pipe (seq_4392)
+[2022-11-29 18:16:05 UTC] ebpf: attach TC/XDP hook for line-rate DDoS packet mitigation (seq_4393)
