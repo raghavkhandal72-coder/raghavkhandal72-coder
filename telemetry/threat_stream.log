@@ -1,1 +1,1 @@
-[2022-12-02 16:11:23 UTC] cve: patch fast-path exploit vector against CVE-2022-0847 Dirty Pipe (seq_4400)
+[2022-12-03 09:02:16 UTC] net: implement kernel-level connection tracking table analyzer (seq_4401)
