@@ -1,1 +1,1 @@
-[2023-01-09 18:30:57 UTC] kql: optimize multi-table join query for credential stuffing detection (seq_4456)
+[2023-01-09 19:51:06 UTC] detection: implement behavioral anomaly scoring on Azure AD Sign-in logs (seq_4457)
