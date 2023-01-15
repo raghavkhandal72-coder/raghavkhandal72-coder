@@ -1,1 +1,1 @@
-[2023-01-13 20:03:04 UTC] sentinel: stream CEF firewall logs to Log Analytics workspace (seq_4462)
+[2023-01-15 09:46:10 UTC] kql: optimize multi-table join query for credential stuffing detection (seq_4463)
