@@ -1,1 +1,1 @@
-[2023-01-31 09:33:31 UTC] kql: write hunting query for malicious PowerShell encoded commands (seq_4491)
+[2023-01-31 20:30:47 UTC] sentinel: stream CEF firewall logs to Log Analytics workspace (seq_4492)
