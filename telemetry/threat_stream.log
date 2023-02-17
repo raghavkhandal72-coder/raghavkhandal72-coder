@@ -1,1 +1,1 @@
-[2023-02-17 11:48:05 UTC] kql: optimize multi-table join query for credential stuffing detection (seq_4519)
+[2023-02-17 13:37:19 UTC] kql: write hunting query for malicious PowerShell encoded commands (seq_4520)
