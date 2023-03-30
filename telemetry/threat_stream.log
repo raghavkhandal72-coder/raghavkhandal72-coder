@@ -1,1 +1,1 @@
-[2023-03-30 15:23:49 UTC] mitre: map cloud attack surface coverage to MITRE ATT&CK Cloud Matrix (seq_4583)
+[2023-03-30 21:49:50 UTC] detection: implement behavioral anomaly scoring on Azure AD Sign-in logs (seq_4584)
