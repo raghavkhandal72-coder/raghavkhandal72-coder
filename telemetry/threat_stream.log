@@ -1,1 +1,1 @@
-[2023-03-30 21:49:50 UTC] detection: implement behavioral anomaly scoring on Azure AD Sign-in logs (seq_4584)
+[2023-03-31 13:29:25 UTC] sentinel: deploy analytic detection rule for anomalous OAuth grants (seq_4585)
