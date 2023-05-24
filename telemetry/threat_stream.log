@@ -1,1 +1,1 @@
-[2023-05-24 19:38:52 UTC] kql: write hunting query for malicious PowerShell encoded commands (seq_4682)
+[2023-05-24 21:47:49 UTC] detection: implement behavioral anomaly scoring on Azure AD Sign-in logs (seq_4683)
