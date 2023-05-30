@@ -1,1 +1,1 @@
-[2023-05-30 14:44:34 UTC] sentinel: deploy analytic detection rule for anomalous OAuth grants (seq_4691)
+[2023-05-30 15:02:22 UTC] kql: optimize multi-table join query for credential stuffing detection (seq_4692)
