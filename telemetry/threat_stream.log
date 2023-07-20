@@ -1,1 +1,1 @@
-[2023-07-20 11:40:59 UTC] sentinel: stream CEF firewall logs to Log Analytics workspace (seq_4779)
+[2023-07-20 15:40:12 UTC] detection: implement behavioral anomaly scoring on Azure AD Sign-in logs (seq_4780)
