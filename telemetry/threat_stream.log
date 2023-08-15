@@ -1,1 +1,1 @@
-[2023-08-15 14:10:37 UTC] misp: automate threat feed ingestion into Microsoft Defender TI (seq_4829)
+[2023-08-15 21:47:02 UTC] detection: implement behavioral anomaly scoring on Azure AD Sign-in logs (seq_4830)
