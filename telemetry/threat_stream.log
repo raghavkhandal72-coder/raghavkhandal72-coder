@@ -1,1 +1,1 @@
-[2023-09-06 10:33:15 UTC] honeypot: deploy decoy RDP/SSH nodes with instant alert triggers (seq_4866)
+[2023-09-06 18:05:08 UTC] detection: implement behavioral anomaly scoring on Azure AD Sign-in logs (seq_4867)
