@@ -1,1 +1,1 @@
-[2023-10-07 15:44:06 UTC] sentinel: deploy analytic detection rule for anomalous OAuth grants (seq_4922)
+[2023-10-07 16:11:07 UTC] sentinel: stream CEF firewall logs to Log Analytics workspace (seq_4923)
