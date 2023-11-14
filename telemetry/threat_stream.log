@@ -1,1 +1,1 @@
-[2023-11-14 09:21:01 UTC] kql: write hunting query for malicious PowerShell encoded commands (seq_4986)
+[2023-11-14 15:00:44 UTC] sentinel: deploy analytic detection rule for anomalous OAuth grants (seq_4987)
