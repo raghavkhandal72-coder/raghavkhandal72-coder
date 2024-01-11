@@ -1,1 +1,1 @@
-[2024-01-11 10:58:55 UTC] ai: build LLM red-teaming pipeline for adversarial prompt injections (seq_5076)
+[2024-01-11 12:28:13 UTC] redteam: test jailbreak robustness across multi-turn system prompts (seq_5077)
