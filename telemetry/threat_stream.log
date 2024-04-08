@@ -1,1 +1,1 @@
-[2024-04-08 10:22:51 UTC] sec: implement output validation layer against indirect prompt injection (seq_5235)
+[2024-04-08 12:58:44 UTC] tool: enforce strict JSON schema verification on AI tool execution calls (seq_5236)
