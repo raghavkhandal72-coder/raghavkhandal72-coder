@@ -1,1 +1,1 @@
-[2024-04-07 09:19:52 UTC] eval: benchmark LLM guardrail evasion attempts across jailbreak datasets (seq_5234)
+[2024-04-08 10:22:51 UTC] sec: implement output validation layer against indirect prompt injection (seq_5235)
