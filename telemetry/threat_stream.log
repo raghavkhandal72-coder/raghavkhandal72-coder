@@ -1,1 +1,1 @@
-[2024-04-26 09:20:12 UTC] guardrail: deploy NeMo guardrails with custom threat containment policies (seq_5272)
+[2024-04-26 14:58:13 UTC] sec: implement output validation layer against indirect prompt injection (seq_5273)
