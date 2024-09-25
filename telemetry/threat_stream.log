@@ -1,1 +1,1 @@
-[2024-09-23 21:30:14 UTC] eval: benchmark LLM guardrail evasion attempts across jailbreak datasets (seq_5544)
+[2024-09-25 13:57:17 UTC] redteam: test jailbreak robustness across multi-turn system prompts (seq_5545)
