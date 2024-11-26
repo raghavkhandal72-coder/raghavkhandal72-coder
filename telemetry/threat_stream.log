@@ -1,1 +1,1 @@
-[2024-11-26 15:25:43 UTC] rag: construct retrieval-augmented generation index for SOC playbooks (seq_5660)
+[2024-11-26 16:21:11 UTC] sec: implement output validation layer against indirect prompt injection (seq_5661)
