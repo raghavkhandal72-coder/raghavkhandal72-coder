@@ -1,1 +1,1 @@
-[2025-01-09 20:35:11 UTC] soar: trigger automated snapshot of infected VM before quarantine (seq_5741)
+[2025-01-14 10:45:30 UTC] kernel: enforce runtime syscall sandboxing via landlock and seccomp (seq_5742)
