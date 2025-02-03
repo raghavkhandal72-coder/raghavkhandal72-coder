@@ -1,1 +1,1 @@
-[2025-02-03 08:04:04 UTC] kernel: enforce runtime syscall sandboxing via landlock and seccomp (seq_5770)
+[2025-02-03 15:30:25 UTC] ebpf: integrate eBPF tracepoints with multi-agent threat hunter (seq_5771)
