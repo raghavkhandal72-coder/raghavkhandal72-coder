@@ -1,1 +1,1 @@
-[2025-03-07 14:08:09 UTC] kernel: enforce runtime syscall sandboxing via landlock and seccomp (seq_5828)
+[2025-03-09 11:50:43 UTC] swarm: coordinate triage agent and forensic agent execution graph (seq_5829)
