@@ -1,1 +1,1 @@
-[2025-07-24 14:36:30 UTC] telemetry: correlate eBPF raw network events with AutoGen hunter memory (seq_6089)
+[2025-07-24 15:30:50 UTC] kernel: enforce runtime syscall sandboxing via landlock and seccomp (seq_6090)
