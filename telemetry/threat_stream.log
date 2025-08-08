@@ -1,1 +1,1 @@
-[2025-08-07 16:26:27 UTC] autogen: add human-in-the-loop escalation gate for critical asset locks (seq_6108)
+[2025-08-08 16:14:59 UTC] telemetry: correlate eBPF raw network events with AutoGen hunter memory (seq_6109)
