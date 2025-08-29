@@ -1,1 +1,1 @@
-[2025-08-28 21:37:17 UTC] kernel: enforce runtime syscall sandboxing via landlock and seccomp (seq_6148)
+[2025-08-29 08:49:11 UTC] kernel: enforce runtime syscall sandboxing via landlock and seccomp (seq_6149)
