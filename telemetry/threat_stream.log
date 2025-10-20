@@ -1,1 +1,1 @@
-[2025-10-20 18:45:58 UTC] mcp: build Model Context Protocol server for firewall orchestration (seq_6302)
+[2025-10-20 21:00:20 UTC] kernel: enforce runtime syscall sandboxing via landlock and seccomp (seq_6303)
