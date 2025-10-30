@@ -1,1 +1,1 @@
-[2025-10-30 16:30:07 UTC] kernel: enforce runtime syscall sandboxing via landlock and seccomp (seq_6351)
+[2025-10-30 20:52:55 UTC] autogen: add human-in-the-loop escalation gate for critical asset locks (seq_6352)
