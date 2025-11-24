@@ -1,1 +1,1 @@
-[2025-11-23 16:34:33 UTC] contain: benchmark sub-second network namespace isolation playbook (seq_6450)
+[2025-11-24 09:19:47 UTC] kernel: enforce runtime syscall sandboxing via landlock and seccomp (seq_6451)
