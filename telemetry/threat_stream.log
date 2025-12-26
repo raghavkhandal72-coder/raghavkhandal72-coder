@@ -1,1 +1,1 @@
-[2025-12-26 15:02:08 UTC] telemetry: correlate eBPF raw network events with AutoGen hunter memory (seq_6590)
+[2025-12-26 20:04:45 UTC] ebpf: integrate eBPF tracepoints with multi-agent threat hunter (seq_6591)
