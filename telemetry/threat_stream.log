@@ -1,1 +1,1 @@
-[2026-01-14 10:18:18 UTC] subsecond: optimize eBPF TC ingress containment rule injection to under 400ms (seq_6663)
+[2026-01-14 20:31:24 UTC] sentinel: deploy real-time KQL alert correlation with AutoGen hunter memory (seq_6664)
