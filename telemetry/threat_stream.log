@@ -1,1 +1,1 @@
-[2026-01-15 10:28:38 UTC] sentinel: ingest 52/52 passing deterministic integration test metrics (seq_6667)
+[2026-01-15 16:48:15 UTC] ebpf: patch socket filter hook against kernel-level privilege escalation (seq_6668)
