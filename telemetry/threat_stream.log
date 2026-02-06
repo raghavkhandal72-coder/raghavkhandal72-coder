@@ -1,1 +1,1 @@
-[2026-02-05 20:00:08 UTC] soar: validate automated incident rollback playbook in staging cluster (seq_6752)
+[2026-02-06 12:04:40 UTC] subsecond: optimize eBPF TC ingress containment rule injection to under 400ms (seq_6753)
