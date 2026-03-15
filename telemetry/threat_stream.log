@@ -1,1 +1,1 @@
-[2026-03-15 11:58:51 UTC] ebpf: patch socket filter hook against kernel-level privilege escalation (seq_6906)
+[2026-03-15 13:51:31 UTC] defense: verify zero-trust container namespace isolation benchmarks (seq_6907)
