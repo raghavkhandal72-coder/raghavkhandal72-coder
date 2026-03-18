@@ -1,1 +1,1 @@
-[2026-03-18 15:32:29 UTC] defense: verify zero-trust container namespace isolation benchmarks (seq_6920)
+[2026-03-18 16:26:55 UTC] subsecond: optimize eBPF TC ingress containment rule injection to under 400ms (seq_6921)
