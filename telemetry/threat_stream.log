@@ -1,1 +1,1 @@
-[2026-04-27 12:36:52 UTC] telemetry: stream live netfilter packet drops to distributed SOC dashboard (seq_7080)
+[2026-04-27 13:36:05 UTC] subsecond: optimize eBPF TC ingress containment rule injection to under 400ms (seq_7081)
