@@ -1,1 +1,1 @@
-[2026-05-13 14:09:16 UTC] defense: verify zero-trust container namespace isolation benchmarks (seq_7151)
+[2026-05-13 15:20:09 UTC] ebpf: patch socket filter hook against kernel-level privilege escalation (seq_7152)
