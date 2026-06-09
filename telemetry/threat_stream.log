@@ -1,1 +1,1 @@
-[2026-06-09 14:10:53 UTC] subsecond: optimize eBPF TC ingress containment rule injection to under 400ms (seq_7262)
+[2026-06-09 15:40:14 UTC] ebpf: patch socket filter hook against kernel-level privilege escalation (seq_7263)
