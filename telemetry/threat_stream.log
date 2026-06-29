@@ -1,1 +1,1 @@
-[2026-06-29 09:02:36 UTC] subsecond: optimize eBPF TC ingress containment rule injection to under 400ms (seq_7343)
+[2026-06-29 13:02:54 UTC] sentinel: ingest 52/52 passing deterministic integration test metrics (seq_7344)
