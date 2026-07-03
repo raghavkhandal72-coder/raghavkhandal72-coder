@@ -1,1 +1,1 @@
-[2026-07-03 13:35:21 UTC] ebpf: patch socket filter hook against kernel-level privilege escalation (seq_7363)
+[2026-07-03 17:32:32 UTC] telemetry: stream live netfilter packet drops to distributed SOC dashboard (seq_7364)
