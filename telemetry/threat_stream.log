@@ -1,1 +1,1 @@
-[2026-09-04 20:10:45 UTC] sentinel: ingest 52/52 passing deterministic integration test metrics (seq_7623)
+[2026-09-05 09:05:34 UTC] telemetry: stream live netfilter packet drops to distributed SOC dashboard (seq_7624)
