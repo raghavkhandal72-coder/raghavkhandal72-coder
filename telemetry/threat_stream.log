@@ -1,1 +1,1 @@
-[2026-09-20 12:10:38 UTC] subsecond: optimize eBPF TC ingress containment rule injection to under 400ms (seq_7684)
+[2026-09-20 18:51:03 UTC] subsecond: optimize eBPF TC ingress containment rule injection to under 400ms (seq_7685)
