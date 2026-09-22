@@ -42,7 +42,7 @@
   </p>
 
   <p align="center">
-    <a href="https://raghavkhandal72-coder.github.io" target="_blank">
+    <a href="https://raghavkhandal72-coder.github.io/raghavkhandal72-coder/" target="_blank">
       <img src="https://img.shields.io/badge/%E2%9A%A1_LAUNCH_3D_COCKPIT-ENTER_AWWWARDS_PORTFOLIO-00ff66?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=050811" alt="Live Awwwards Portfolio" />
     </a>
   </p>
@@ -331,6 +331,50 @@
 
 ---
 
+### 🛡️ MITRE ATT&CK® Enterprise Defense Matrix Coverage
+
+| Tactic | Technique ID & Name | Autonomous Detection & Mitigation Mechanism | Defense Weapon / Repository |
+| :--- | :--- | :--- | :--- |
+| **Initial Access** | `T1190` Exploit Public-Facing Application | Sub-second ingress packet inspection; automated `iptables -I DOCKER-USER` drop rule injection | [sentinel-autogen-hunter](https://github.com/raghavkhandal72-coder/sentinel-autogen-hunter) |
+| **Execution** | `T1059` Command & Scripting Interpreter | Deterministic call-stack recursion limits & heap allocation telemetry profiling | [SpaceTechnologist-Profiler](https://github.com/raghavkhandal72-coder/SpaceTechnologist-Profiler) |
+| **Privilege Escalation** | `T1068` Exploitation for Privilege Escalation | Linux Kernel eBPF/XDP ring-buffer syscall monitoring & zero-trust container namespace isolation | [Core Defense Systems](https://github.com/raghavkhandal72-coder) |
+| **Lateral Movement** | `T1021` Remote Services (SSH / RDP) | Streaming honeypot log listener with real-time AbuseIPDB IOC reputation scoring | [sentinel-autogen-hunter](https://github.com/raghavkhandal72-coder/sentinel-autogen-hunter) |
+| **Defense Evasion** | `T1562` Impair Defenses | Append-only encrypted telemetry audit log streaming to Azure Log Analytics via KQL | [CloudSentinel](https://github.com/raghavkhandal72-coder/CloudSentinel) |
+| **Impact / Disruption** | `T1486` Data Encrypted for Impact | Continuous multi-cloud IAM anomaly detection and automated CSPM posture lockdown | [CloudSentinel](https://github.com/raghavkhandal72-coder/CloudSentinel) |
+
+---
+
+### 📜 Architectural RFCs & Technical Specifications
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📄 <a href="./docs/rfc/RFC-0001-subsecond-ebpf-swarm-containment.md">RFC-0001: Sub-Second eBPF Swarm Containment</a></h4>
+      <p><b>Standard:</b> Production Architecture / Zero-Trust Standards Track</p>
+      <p>Formal specification detailing the hybrid kernel-space (eBPF/XDP) and Microsoft AutoGen consensus protocol for sub-second (&lt;400ms) ingress threat interception without Docker NAT bypass.</p>
+      <p>
+        <a href="./docs/rfc/RFC-0001-subsecond-ebpf-swarm-containment.md">
+          <img src="https://img.shields.io/badge/SPEC-RFC--0001-00ff66?style=flat-square&logo=markdown&logoColor=black" />
+        </a>
+        <img src="https://img.shields.io/badge/STATUS-ACTIVE-blue?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📄 <a href="./docs/rfc/RFC-0002-space-datacenter-algorithm-governance.md">RFC-0002: Orbital Compute Algorithm Governance</a></h4>
+      <p><b>Standard:</b> Spaceborne Algorithmic Telemetry & Resource Model</p>
+      <p>Mathematical framework formulating the <i>Kure-Governor Unified Resource Equation</i> for autonomous algorithm selection under radiation flux, thermal dissipation, and interstellar latency constraints.</p>
+      <p>
+        <a href="./docs/rfc/RFC-0002-space-datacenter-algorithm-governance.md">
+          <img src="https://img.shields.io/badge/SPEC-RFC--0002-00f2fe?style=flat-square&logo=markdown&logoColor=black" />
+        </a>
+        <img src="https://img.shields.io/badge/STATUS-PROTOTYPE-purple?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 📡 Encrypted Uplink & Tactical Channels
 
 <div align="center">
@@ -352,6 +396,24 @@
   </a>
 
   <br /><br />
+
+  <!-- ═══════════════════ RECRUITER / THREAT-HUNTER CTF CHALLENGE ═══════════════════ -->
+  <details>
+  <summary><b>🚩 [RECRUITER & THREAT-HUNTER CTF CHALLENGE - CLICK TO DECRYPT]</b></summary>
+  <br />
+
+  ```bash
+  # FAST-TRACK RECRUITMENT VERIFICATION PROTOCOL:
+  # Decode the hex-encoded cryptographic challenge below to reveal the authorization token:
+
+  $ echo "73656375726974792d6172636869746563742d32303138" | xxd -r -p
+
+  # FLAG FORMAT: flag{<decoded_token>}
+  # Send verified flag to: raghavkhandal72@gmail.com for priority interview routing.
+  ```
+  </details>
+
+  <br />
 
   ```
   [SECURE KEY FINGERPRINT]
