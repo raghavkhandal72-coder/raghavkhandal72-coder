@@ -1477,3 +1477,4 @@ test line 1
 test line 2
 test line 3
 test line 4
+[2026-09-22 06:24:30 UTC] ebpf: verified zero-copy driver probe bounds
