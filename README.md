@@ -53,7 +53,7 @@
       <img src="https://img.shields.io/github/forks/raghavkhandal72-coder/raghavkhandal72-coder?label=FORK%20HQ&style=for-the-badge&color=00f2fe&logo=github&labelColor=0d1117" alt="Fork Repository" />
     </a>
     <a href="https://github.com/raghavkhandal72-coder?tab=achievements">
-      <img src="https://img.shields.io/badge/ACHIEVEMENTS-PULL_SHARK_•_QUICKDRAW_•_YOLO-purple?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0d1117" alt="Achievements" />
+      <img src="https://img.shields.io/badge/ACHIEVEMENTS-YOLO_•_QUICKDRAW_•_PULL_SHARK_•_GALAXY_BRAIN-purple?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0d1117" alt="Achievements" />
     </a>
   </p>
 
