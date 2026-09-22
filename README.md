@@ -2,12 +2,12 @@
 
   <!-- ═══════════════════ 3D AWWWARDS WAVE & GLITCH HEADER ═══════════════════ -->
   <a href="https://github.com/raghavkhandal72-coder">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050811,35:08131e,70:0d223a,100:00ff66&height=280&section=header&text=RAGHAV%20KHANDAL&fontSize=64&fontColor=00ff66&animation=glitch&fontAlignY=36&desc=%2F%2F%20AUTONOMOUS%20AI%20SECURITY%20ARCHITECT%20%E2%80%A2%20KERNEL%20THREAT%20HUNTER%20%E2%80%A2%20ZERO-TRUST&descSize=15&descAlignY=58&descAlign=50&stroke=00f2fe&strokeWidth=1.8" width="100%" alt="Raghav Khandal 3D Header" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050811,35:08131e,70:0d223a,100:00ff66&height=280&section=header&text=RAGHAV%20KHANDAL&fontSize=62&fontColor=00ff66&animation=glitch&fontAlignY=36&desc=%2F%2F%20AUTONOMOUS%20AI%20SECURITY%20ARCHITECT%20%E2%80%A2%20KERNEL%20THREAT%20HUNTER%20%E2%80%A2%20OPERATIONAL%20SINCE%202018&descSize=14&descAlignY=58&descAlign=50&stroke=00f2fe&strokeWidth=1.8" width="100%" alt="Raghav Khandal 3D Header" />
   </a>
 
   <!-- ═══════════════════ REAL-TIME TYPING TERMINAL HUD ═══════════════════ -->
   <a href="https://github.com/raghavkhandal72-coder">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2400&pause=800&color=00FF66&center=true&vCenter=true&multiline=false&width=940&height=48&lines=%5B%E2%9A%A1%5D+INITIALIZING+AUTONOMOUS+AI+THREAT-HUNTING+SWARM+(AUTOGEN+%2B+MCP)...;%5B%F0%9F%9B%A1%EF%B8%8F%5D+HOOKING+LINUX+NETFILTER+%26+eBPF+PACKET+INSPECTION+PIPELINES...;%5B%F0%9F%94%8E%5D+SYNTHESIZING+REAL-TIME+KQL+DETECTION+RULES+FOR+AZURE+SENTINEL...;%5B%F0%9F%94%92%5D+SUB-SECOND+CONTAINMENT+ENFORCED+VIA+IPTABLES+DOCKER-USER+CHAINS...;%5B%F0%9F%9B%B0%EF%B8%8F%5D+SPACE+DATA-CENTER+ALGORITHM+GOVERNANCE+(KURE-GOVERNOR)+ACTIVE...;%5B%F0%9F%A7%A0%5D+ORCHESTRATING+ZERO-TRUST+MULTI-AGENT+SECURITY+INTELLIGENCE..." alt="Typing Terminal HUD" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2400&pause=800&color=00FF66&center=true&vCenter=true&multiline=false&width=940&height=48&lines=%5B%E2%9A%A1%5D+ACTIVE+IN+CYBERSPACE+SINCE+2018+%E2%80%A2+8%2B+YEARS+AUTONOMOUS+SYSTEMS+%26+KERNEL+DEFENSE...;%5B%F0%9F%9B%A1%EF%B8%8F%5D+HOOKING+LINUX+NETFILTER+%26+eBPF+PACKET+INSPECTION+PIPELINES...;%5B%F0%9F%94%8E%5D+SYNTHESIZING+REAL-TIME+KQL+DETECTION+RULES+FOR+AZURE+SENTINEL...;%5B%F0%9F%94%92%5D+SUB-SECOND+CONTAINMENT+ENFORCED+VIA+IPTABLES+DOCKER-USER+CHAINS...;%5B%F0%9F%A7%A0%5D+ORCHESTRATING+MULTI-AGENT+SECURITY+INTELLIGENCE+SWARMS+(AUTOGEN+%2B+MCP)..." alt="Typing Terminal HUD" />
   </a>
 
   <br />
@@ -22,6 +22,12 @@
   <!-- ═══════════════════ TACTICAL STATUS BADGES ═══════════════════ -->
   <p align="center">
     <a href="https://github.com/raghavkhandal72-coder">
+      <img src="https://img.shields.io/badge/OPERATIONAL_SINCE-2018_(8+_YEARS)-ffaa00?style=for-the-badge&logo=clockify&logoColor=000&labelColor=050811" alt="Operational Since 2018" />
+    </a>
+    <a href="https://github.com/raghavkhandal72-coder">
+      <img src="https://img.shields.io/badge/LIFETIME_COMMITS-7%2C600+_VERIFIED-00ff66?style=for-the-badge&logo=git&logoColor=000&labelColor=050811" alt="Lifetime Commits" />
+    </a>
+    <a href="https://github.com/raghavkhandal72-coder">
       <img src="https://img.shields.io/badge/SECURITY_CLEARANCE-ROOT_OVERRIDE-00ff66?style=for-the-badge&logo=gnubash&logoColor=000&labelColor=050811" alt="Clearance Root" />
     </a>
     <a href="https://github.com/raghavkhandal72-coder">
@@ -32,9 +38,6 @@
     </a>
     <a href="https://github.com/raghavkhandal72-coder">
       <img src="https://komarev.com/ghpvc/?username=raghavkhandal72-coder&label=TELEMETRY_LOGS&color=00ff66&style=for-the-badge" alt="Profile Telemetry" />
-    </a>
-    <a href="https://github.com/raghavkhandal72-coder">
-      <img src="https://img.shields.io/github/followers/raghavkhandal72-coder?label=NETWORK_NODES&style=for-the-badge&logo=github&color=7928ca&labelColor=050811" alt="Network Nodes" />
     </a>
   </p>
 
@@ -54,15 +57,39 @@
 ╔═══════════════════════════════════════════════════════════════════════════════════════════════╗
 ║  AGENT IDENTITY : Raghav Khandal                                                             ║
 ║  CLASSIFICATION : Autonomous AI Security Architect & Kernel-Level Threat Hunter              ║
+║  OPERATIONAL ERA: Active in Cyberspace Since 2018 (8+ Years Systems & Threat Defense)        ║
 ║  CORE DIRECTIVE : Cloud-Native Zero-Trust Infrastructure & Multi-Agent Cyber Defense Swarms  ║
 ║  TACTICAL CREED : "Assume breach. Verify explicitly. Automate containment before ingress."   ║
 ║  SPECIALTY      : Multi-Agent AI Swarms (AutoGen/MCP) | Linux Netfilter/eBPF | Azure Sentinel║
 ╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
 
 [+] System Kernel   : Linux threat-hunter 6.8.0-zen-sec #1 SMP PREEMPT_DYNAMIC x86_64
+[+] Active Tenure   : 2018 ➔ Present (Continuous 8+ Year Cryptographic Production Ledger)
 [+] Isolation Mode  : Strict Zero-Trust Docker Network Namespaces + iptables DOCKER-USER
 [+] Defense Matrix  : AutoGen Consensus Swarm ➔ Streaming Log Daemon ➔ Instant Netfilter DROP
 [+] Test Harness    : 52/52 Passing Unit & Integration Tests (100% Deterministic Coverage)
+```
+
+---
+
+### ⏳ Engineering Trajectory & Domain Milestones (2018 ➔ Present)
+
+```bash
+[2018 — 2020] ➔ SYSTEMS & NETWORK FOUNDATIONS
+                • Linux Kernel Ring Buffers, C Socket Programming, Raw AF_PACKET Sniffers
+                • Custom iptables Mangle Chains, TCP/IP Stack Hardening, Syscall Auditing
+
+[2021 — 2022] ➔ CLOUD INFRASTRUCTURE & eBPF
+                • Kubernetes Admission Webhooks, OPA Gatekeeper Policy Enforcement
+                • Cilium eBPF Service Mesh, TC/XDP Line-Rate DDoS Mitigation, SPIRE Attestation
+
+[2023 — 2024] ➔ DETECTION ENGINEERING & AI RED-TEAMING
+                • Azure Sentinel Analytical Rules, Advanced KQL Hunting Queries, Logic App SOAR
+                • LLM Jailbreak Defense, Adversarial Prompt Injection Mitigations, Vector Firewalls
+
+[2025 — 2026] ➔ AUTONOMOUS THREAT-HUNTING SWARMS
+                • Microsoft AutoGen Multi-Agent Swarms with Consensus Security Voting
+                • Model Context Protocol (MCP) Tools, Sub-Second Kernel Packet Containment (<400ms)
 ```
 
 ---
@@ -308,13 +335,23 @@
 
 <div align="center">
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050811)](https://www.linkedin.com/in/raghav-khandal/)
-  [![GitHub HQ](https://img.shields.io/badge/GitHub_HQ-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=050811)](https://github.com/raghavkhandal72-coder)
-  [![Email Direct](https://img.shields.io/badge/Email_Uplink-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050811)](mailto:raghavkhandal72@gmail.com)
-  [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=050811)](https://twitter.com/)
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=050811)](https://discord.com)
+  <a href="https://www.linkedin.com/in/raghav-khandal/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050811" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/raghavkhandal72-coder">
+    <img src="https://img.shields.io/badge/GitHub_HQ-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=050811" alt="GitHub" />
+  </a>
+  <a href="mailto:raghavkhandal72@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Uplink-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050811" alt="Email" />
+  </a>
+  <a href="https://twitter.com/">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=050811" alt="X" />
+  </a>
+  <a href="https://discord.com">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=050811" alt="Discord" />
+  </a>
 
-  <br />
+  <br /><br />
 
   ```
   [SECURE KEY FINGERPRINT]
