@@ -41,12 +41,6 @@
     </a>
   </p>
 
-  <p align="center">
-    <a href="https://raghavkhandal72-coder.github.io/raghavkhandal72-coder/" target="_blank">
-      <img src="https://img.shields.io/badge/%E2%9A%A1_LAUNCH_3D_COCKPIT-ENTER_AWWWARDS_PORTFOLIO-00ff66?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=050811" alt="Live Awwwards Portfolio" />
-    </a>
-  </p>
-
 </div>
 
 ---
@@ -417,8 +411,8 @@
 
   ```
   [SECURE KEY FINGERPRINT]
-  PGP FINGERPRINT : 89AF 4C12 90D4 E871 B5A3  9821 72FA 610C 3349 DE01
-  VERIFIED DOMAIN : raghavkhandal72-coder.github.io
+  PGP FINGERPRINT   : 89AF 4C12 90D4 E871 B5A3  9821 72FA 610C 3349 DE01
+  VERIFIED IDENTITY : github.com/raghavkhandal72-coder
   ```
 
   <p align="center">
