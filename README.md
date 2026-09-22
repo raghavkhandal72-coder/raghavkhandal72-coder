@@ -41,6 +41,22 @@
     </a>
   </p>
 
+  <!-- ═══════════════════ FOLLOWER & COMMUNITY ENGAGEMENT MATRIX ═══════════════════ -->
+  <p align="center">
+    <a href="https://github.com/raghavkhandal72-coder?tab=followers">
+      <img src="https://img.shields.io/github/followers/raghavkhandal72-coder?label=FOLLOW%20ENGINEER&style=for-the-badge&color=00ff66&logo=github&labelColor=0d1117" alt="Follow Raghav" />
+    </a>
+    <a href="https://github.com/raghavkhandal72-coder/raghavkhandal72-coder/stargazers">
+      <img src="https://img.shields.io/github/stars/raghavkhandal72-coder/raghavkhandal72-coder?label=STAR%20ARSENAL&style=for-the-badge&color=ffaa00&logo=github&labelColor=0d1117" alt="Star Repository" />
+    </a>
+    <a href="https://github.com/raghavkhandal72-coder/raghavkhandal72-coder/fork">
+      <img src="https://img.shields.io/github/forks/raghavkhandal72-coder/raghavkhandal72-coder?label=FORK%20HQ&style=for-the-badge&color=00f2fe&logo=github&labelColor=0d1117" alt="Fork Repository" />
+    </a>
+    <a href="https://github.com/raghavkhandal72-coder?tab=achievements">
+      <img src="https://img.shields.io/badge/ACHIEVEMENTS-PULL_SHARK_•_QUICKDRAW_•_YOLO-purple?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0d1117" alt="Achievements" />
+    </a>
+  </p>
+
 </div>
 
 ---
@@ -455,6 +471,41 @@ CONFIG_DEFAULT_SECURITY_APPARMOR=y   # Zero-trust application profile enforcemen
   <img src="https://raw.githubusercontent.com/raghavkhandal72-coder/raghavkhandal72-coder/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake" />
 
 </div>
+
+---
+
+### 🤝 Open-Source Collaboration & Mentorship (Community Hub)
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ Why Follow My Engineering Ledger?</h4>
+      <ul>
+        <li><b>Daily Autonomous Telemetry:</b> Real-time IOC ingestion feeds, KQL threat hunting rules, and Netfilter containment patterns updated daily.</li>
+        <li><b>Zero-Cost Production Tools:</b> Open-source security architectures, MITRE ATT&CK detection scripts, and eBPF instrumentation hooks.</li>
+        <li><b>Staff Architectural RFCs:</b> Rigorous open-source RFC whitepapers on distributed computing and AI swarms.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/raghavkhandal72-coder?tab=followers">
+          <img src="https://img.shields.io/badge/%2B_FOLLOW_ENGINEER-00ff66?style=for-the-badge&logo=github&logoColor=black" alt="Follow Raghav" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🚀 Research & Development Advisory</h4>
+      <ul>
+        <li><b>Consulting & Systems Architecture:</b> Zero-Trust migration, eBPF line-rate observability, and Azure Sentinel rule tuning.</li>
+        <li><b>AI Swarm Engineering:</b> Designing deterministic guardrails for AutoGen and Model Context Protocol (MCP) agents.</li>
+        <li><b>Open-Source Contributions:</b> Actively reviewing and merging community PRs across security tooling repositories.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/raghavkhandal72-coder/sentinel-autogen-hunter">
+          <img src="https://img.shields.io/badge/%E2%98%85_STAR_FLAGSHIP_SYSTEM-ffaa00?style=for-the-badge&logo=github&logoColor=black" alt="Star Flagship" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
