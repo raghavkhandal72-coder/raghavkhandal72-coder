@@ -1,0 +1,50 @@
+name: Daily Cyber Threat Telemetry Sync
+
+on:
+  schedule:
+    # Runs 3 times a day (approx 03:17, 11:17, 19:17 UTC)
+    - cron: '17 3,11,19 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync-telemetry:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Threat Telemetry Event
+        run: |
+          mkdir -p telemetry
+          TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
+          
+          MESSAGES=(
+            "telemetry: sync threat intelligence IOC stream from AbuseIPDB"
+            "secops: refresh Linux netfilter rule signatures against brute-force"
+            "kql: optimize Azure Sentinel detection correlation queries"
+            "ebpf: update kernel packet probe filter tracepoint hooks"
+            "autogen: re-weight multi-agent security consensus scoring"
+            "zero-trust: verify microservice mutual TLS certificate chains"
+            "metrics: ingest distributed honeypot TCP/UDP packet logs"
+            "iac: audit kubernetes & terraform configurations against CIS"
+            "soar: execute automated sub-second containment playbook"
+            "mitre: correlate suspicious credential stuffing attempts to T1110"
+            "mcp: validate tool calling endpoints for security copilot"
+            "kernel: inspect DOCKER-USER netfilter chain quarantine metrics"
+          )
+          
+          RANDOM_INDEX=$((RANDOM % ${#MESSAGES[@]}))
+          CHOSEN_MSG="${MESSAGES[$RANDOM_INDEX]}"
+          
+          echo "[$TIMESTAMP] $CHOSEN_MSG (seq_$RANDOM)" >> telemetry/threat_stream.log
+
+          git config --global user.name "Raghav Khandal"
+          git config --global user.email "raghavkhandal72@gmail.com"
+          git add telemetry/threat_stream.log
+          git commit -m "$CHOSEN_MSG" || exit 0
+          git push

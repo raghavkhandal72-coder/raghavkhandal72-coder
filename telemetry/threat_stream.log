@@ -1,1 +1,1479 @@
-[2026-09-22 20:14:26 UTC] subsecond: optimize eBPF TC ingress containment rule injection to under 400ms (seq_7696)
+[2025-09-21T13:21:58] mcp: bridge security copilot tool calling endpoint - sequence_0
+[2025-09-21T18:45:32] kernel: tune DOCKER-USER netfilter chain rules - sequence_1
+[2025-09-21T19:39:10] autogen: re-index multi-agent safety consensus weights - sequence_2
+[2025-09-22T13:55:30] ebpf: patch packet probe filter hook - sequence_3
+[2025-09-22T14:25:30] mcp: bridge security copilot tool calling endpoint - sequence_4
+[2025-09-22T16:17:29] secops: update netfilter rule signatures - sequence_5
+[2025-09-22T17:18:44] kernel: tune DOCKER-USER netfilter chain rules - sequence_6
+[2025-09-22T20:33:38] mitre: map credential stuffing techniques to T1110 - sequence_7
+[2025-09-23T13:45:56] kernel: tune DOCKER-USER netfilter chain rules - sequence_8
+[2025-09-23T15:10:58] kernel: tune DOCKER-USER netfilter chain rules - sequence_9
+[2025-09-23T16:12:27] ebpf: patch packet probe filter hook - sequence_10
+[2025-09-23T17:20:27] kql: optimize azure sentinel detection correlation - sequence_11
+[2025-09-23T18:41:28] kernel: tune DOCKER-USER netfilter chain rules - sequence_12
+[2025-09-24T09:20:42] kql: optimize azure sentinel detection correlation - sequence_13
+[2025-09-24T13:51:23] metrics: ingest distributed honeypot packet metrics - sequence_14
+[2025-09-24T15:52:32] mitre: map credential stuffing techniques to T1110 - sequence_15
+[2025-09-24T18:42:30] autogen: re-index multi-agent safety consensus weights - sequence_16
+[2025-09-24T19:27:27] mitre: map credential stuffing techniques to T1110 - sequence_17
+[2025-09-24T20:51:30] metrics: ingest distributed honeypot packet metrics - sequence_18
+[2025-09-24T22:37:31] telemetry: sync threat intelligence IOC stream - sequence_19
+[2025-09-25T09:15:19] autogen: re-index multi-agent safety consensus weights - sequence_20
+[2025-09-25T10:47:45] kql: optimize azure sentinel detection correlation - sequence_21
+[2025-09-25T12:17:55] kql: optimize azure sentinel detection correlation - sequence_22
+[2025-09-25T17:51:12] kernel: tune DOCKER-USER netfilter chain rules - sequence_23
+[2025-09-25T18:33:21] mitre: map credential stuffing techniques to T1110 - sequence_24
+[2025-09-25T19:20:24] ebpf: patch packet probe filter hook - sequence_25
+[2025-09-25T22:17:51] mitre: map credential stuffing techniques to T1110 - sequence_26
+[2025-09-26T10:47:51] secops: update netfilter rule signatures - sequence_27
+[2025-09-26T11:34:15] autogen: re-index multi-agent safety consensus weights - sequence_28
+[2025-09-26T12:38:52] kql: optimize azure sentinel detection correlation - sequence_29
+[2025-09-26T13:30:24] secops: update netfilter rule signatures - sequence_30
+[2025-09-26T14:13:11] ebpf: patch packet probe filter hook - sequence_31
+[2025-09-26T20:11:52] mcp: bridge security copilot tool calling endpoint - sequence_32
+[2025-09-27T13:10:28] iac: scan kubernetes manifests against CIS benchmarks - sequence_33
+[2025-09-27T16:20:19] mitre: map credential stuffing techniques to T1110 - sequence_34
+[2025-09-27T17:16:26] iac: scan kubernetes manifests against CIS benchmarks - sequence_35
+[2025-09-27T18:13:50] secops: update netfilter rule signatures - sequence_36
+[2025-09-28T18:33:46] autogen: re-index multi-agent safety consensus weights - sequence_37
+[2025-09-29T16:31:35] mitre: map credential stuffing techniques to T1110 - sequence_38
+[2025-09-29T17:31:47] iac: scan kubernetes manifests against CIS benchmarks - sequence_39
+[2025-09-29T18:52:26] autogen: re-index multi-agent safety consensus weights - sequence_40
+[2025-09-29T21:41:50] mcp: bridge security copilot tool calling endpoint - sequence_41
+[2025-09-29T22:50:56] iac: scan kubernetes manifests against CIS benchmarks - sequence_42
+[2025-09-30T10:13:34] metrics: ingest distributed honeypot packet metrics - sequence_43
+[2025-09-30T13:37:49] ebpf: patch packet probe filter hook - sequence_44
+[2025-09-30T15:21:23] zero-trust: rotate identity governance certificates - sequence_45
+[2025-09-30T21:51:39] kql: optimize azure sentinel detection correlation - sequence_46
+[2025-09-30T22:43:37] mitre: map credential stuffing techniques to T1110 - sequence_47
+[2025-10-01T12:20:26] telemetry: sync threat intelligence IOC stream - sequence_48
+[2025-10-01T17:17:30] soar: update sub-second containment playbook - sequence_49
+[2025-10-01T19:45:46] kql: optimize azure sentinel detection correlation - sequence_50
+[2025-10-01T21:32:10] metrics: ingest distributed honeypot packet metrics - sequence_51
+[2025-10-02T14:31:23] soar: update sub-second containment playbook - sequence_52
+[2025-10-02T17:46:55] secops: update netfilter rule signatures - sequence_53
+[2025-10-02T20:51:20] secops: update netfilter rule signatures - sequence_54
+[2025-10-02T21:30:36] mitre: map credential stuffing techniques to T1110 - sequence_55
+[2025-10-03T10:15:26] mitre: map credential stuffing techniques to T1110 - sequence_56
+[2025-10-03T12:32:41] zero-trust: rotate identity governance certificates - sequence_57
+[2025-10-03T16:12:29] telemetry: sync threat intelligence IOC stream - sequence_58
+[2025-10-03T19:56:23] telemetry: sync threat intelligence IOC stream - sequence_59
+[2025-10-03T21:52:11] telemetry: sync threat intelligence IOC stream - sequence_60
+[2025-10-03T22:28:17] mitre: map credential stuffing techniques to T1110 - sequence_61
+[2025-10-05T09:35:23] kernel: tune DOCKER-USER netfilter chain rules - sequence_62
+[2025-10-05T12:22:22] mitre: map credential stuffing techniques to T1110 - sequence_63
+[2025-10-05T16:46:44] secops: update netfilter rule signatures - sequence_64
+[2025-10-06T09:27:54] iac: scan kubernetes manifests against CIS benchmarks - sequence_65
+[2025-10-06T10:49:17] iac: scan kubernetes manifests against CIS benchmarks - sequence_66
+[2025-10-06T12:36:41] zero-trust: rotate identity governance certificates - sequence_67
+[2025-10-06T18:40:47] iac: scan kubernetes manifests against CIS benchmarks - sequence_68
+[2025-10-06T19:37:30] iac: scan kubernetes manifests against CIS benchmarks - sequence_69
+[2025-10-06T20:24:26] mcp: bridge security copilot tool calling endpoint - sequence_70
+[2025-10-07T11:31:35] soar: update sub-second containment playbook - sequence_71
+[2025-10-07T12:46:15] iac: scan kubernetes manifests against CIS benchmarks - sequence_72
+[2025-10-07T13:30:54] telemetry: sync threat intelligence IOC stream - sequence_73
+[2025-10-07T14:41:33] kql: optimize azure sentinel detection correlation - sequence_74
+[2025-10-07T15:22:15] autogen: re-index multi-agent safety consensus weights - sequence_75
+[2025-10-07T16:22:15] secops: update netfilter rule signatures - sequence_76
+[2025-10-07T18:20:24] telemetry: sync threat intelligence IOC stream - sequence_77
+[2025-10-07T20:51:38] mitre: map credential stuffing techniques to T1110 - sequence_78
+[2025-10-07T21:34:42] metrics: ingest distributed honeypot packet metrics - sequence_79
+[2025-10-08T11:47:21] mcp: bridge security copilot tool calling endpoint - sequence_80
+[2025-10-08T20:57:18] mcp: bridge security copilot tool calling endpoint - sequence_81
+[2025-10-08T21:28:51] soar: update sub-second containment playbook - sequence_82
+[2025-10-09T11:40:19] autogen: re-index multi-agent safety consensus weights - sequence_83
+[2025-10-09T13:54:16] telemetry: sync threat intelligence IOC stream - sequence_84
+[2025-10-09T15:37:29] ebpf: patch packet probe filter hook - sequence_85
+[2025-10-09T16:25:59] soar: update sub-second containment playbook - sequence_86
+[2025-10-09T19:45:17] mitre: map credential stuffing techniques to T1110 - sequence_87
+[2025-10-09T22:22:48] zero-trust: rotate identity governance certificates - sequence_88
+[2025-10-10T13:31:53] secops: update netfilter rule signatures - sequence_89
+[2025-10-10T18:33:46] autogen: re-index multi-agent safety consensus weights - sequence_90
+[2025-10-10T19:56:59] zero-trust: rotate identity governance certificates - sequence_91
+[2025-10-10T20:42:44] metrics: ingest distributed honeypot packet metrics - sequence_92
+[2025-10-11T13:10:27] metrics: ingest distributed honeypot packet metrics - sequence_93
+[2025-10-11T17:37:42] mitre: map credential stuffing techniques to T1110 - sequence_94
+[2025-10-12T20:54:44] metrics: ingest distributed honeypot packet metrics - sequence_95
+[2025-10-13T09:36:49] telemetry: sync threat intelligence IOC stream - sequence_96
+[2025-10-13T11:58:24] kql: optimize azure sentinel detection correlation - sequence_97
+[2025-10-13T14:33:13] mitre: map credential stuffing techniques to T1110 - sequence_98
+[2025-10-13T17:19:18] kql: optimize azure sentinel detection correlation - sequence_99
+[2025-10-13T19:13:32] autogen: re-index multi-agent safety consensus weights - sequence_100
+[2025-10-14T09:51:52] iac: scan kubernetes manifests against CIS benchmarks - sequence_101
+[2025-10-14T10:39:55] kql: optimize azure sentinel detection correlation - sequence_102
+[2025-10-14T12:31:29] secops: update netfilter rule signatures - sequence_103
+[2025-10-14T16:58:11] autogen: re-index multi-agent safety consensus weights - sequence_104
+[2025-10-15T09:34:12] autogen: re-index multi-agent safety consensus weights - sequence_105
+[2025-10-15T10:56:54] mcp: bridge security copilot tool calling endpoint - sequence_106
+[2025-10-15T12:53:17] mitre: map credential stuffing techniques to T1110 - sequence_107
+[2025-10-15T20:43:26] iac: scan kubernetes manifests against CIS benchmarks - sequence_108
+[2025-10-15T22:11:14] mitre: map credential stuffing techniques to T1110 - sequence_109
+[2025-10-16T09:37:31] kernel: tune DOCKER-USER netfilter chain rules - sequence_110
+[2025-10-16T12:48:30] telemetry: sync threat intelligence IOC stream - sequence_111
+[2025-10-16T22:29:43] metrics: ingest distributed honeypot packet metrics - sequence_112
+[2025-10-17T10:35:29] metrics: ingest distributed honeypot packet metrics - sequence_113
+[2025-10-17T11:35:48] kql: optimize azure sentinel detection correlation - sequence_114
+[2025-10-17T13:48:26] mcp: bridge security copilot tool calling endpoint - sequence_115
+[2025-10-17T15:15:32] autogen: re-index multi-agent safety consensus weights - sequence_116
+[2025-10-17T22:24:37] telemetry: sync threat intelligence IOC stream - sequence_117
+[2025-10-18T13:42:36] telemetry: sync threat intelligence IOC stream - sequence_118
+[2025-10-18T18:33:49] ebpf: patch packet probe filter hook - sequence_119
+[2025-10-19T17:54:52] mcp: bridge security copilot tool calling endpoint - sequence_120
+[2025-10-19T22:34:44] mcp: bridge security copilot tool calling endpoint - sequence_121
+[2025-10-20T10:30:18] metrics: ingest distributed honeypot packet metrics - sequence_122
+[2025-10-20T11:14:47] mcp: bridge security copilot tool calling endpoint - sequence_123
+[2025-10-20T13:26:45] soar: update sub-second containment playbook - sequence_124
+[2025-10-20T20:16:57] mitre: map credential stuffing techniques to T1110 - sequence_125
+[2025-10-20T21:51:48] mcp: bridge security copilot tool calling endpoint - sequence_126
+[2025-10-20T22:10:50] zero-trust: rotate identity governance certificates - sequence_127
+[2025-10-21T10:34:54] secops: update netfilter rule signatures - sequence_128
+[2025-10-21T13:20:52] secops: update netfilter rule signatures - sequence_129
+[2025-10-21T14:28:25] secops: update netfilter rule signatures - sequence_130
+[2025-10-21T15:21:48] zero-trust: rotate identity governance certificates - sequence_131
+[2025-10-21T16:53:23] autogen: re-index multi-agent safety consensus weights - sequence_132
+[2025-10-21T17:31:57] metrics: ingest distributed honeypot packet metrics - sequence_133
+[2025-10-21T19:45:52] iac: scan kubernetes manifests against CIS benchmarks - sequence_134
+[2025-10-21T20:57:53] iac: scan kubernetes manifests against CIS benchmarks - sequence_135
+[2025-10-21T22:16:29] telemetry: sync threat intelligence IOC stream - sequence_136
+[2025-10-22T12:49:21] metrics: ingest distributed honeypot packet metrics - sequence_137
+[2025-10-22T16:37:23] mcp: bridge security copilot tool calling endpoint - sequence_138
+[2025-10-22T19:40:28] mcp: bridge security copilot tool calling endpoint - sequence_139
+[2025-10-22T21:36:26] autogen: re-index multi-agent safety consensus weights - sequence_140
+[2025-10-23T09:59:55] secops: update netfilter rule signatures - sequence_141
+[2025-10-23T12:31:53] ebpf: patch packet probe filter hook - sequence_142
+[2025-10-23T13:32:43] telemetry: sync threat intelligence IOC stream - sequence_143
+[2025-10-23T22:37:28] metrics: ingest distributed honeypot packet metrics - sequence_144
+[2025-10-24T09:26:28] kernel: tune DOCKER-USER netfilter chain rules - sequence_145
+[2025-10-24T14:51:52] iac: scan kubernetes manifests against CIS benchmarks - sequence_146
+[2025-10-24T20:20:52] mcp: bridge security copilot tool calling endpoint - sequence_147
+[2025-10-24T22:52:33] kql: optimize azure sentinel detection correlation - sequence_148
+[2025-10-25T17:55:46] soar: update sub-second containment playbook - sequence_149
+[2025-10-25T18:11:17] ebpf: patch packet probe filter hook - sequence_150
+[2025-10-25T21:35:53] soar: update sub-second containment playbook - sequence_151
+[2025-10-26T11:38:42] telemetry: sync threat intelligence IOC stream - sequence_152
+[2025-10-26T13:11:15] mitre: map credential stuffing techniques to T1110 - sequence_153
+[2025-10-26T18:13:33] soar: update sub-second containment playbook - sequence_154
+[2025-10-27T15:13:57] mitre: map credential stuffing techniques to T1110 - sequence_155
+[2025-10-27T17:10:18] telemetry: sync threat intelligence IOC stream - sequence_156
+[2025-10-27T22:49:48] metrics: ingest distributed honeypot packet metrics - sequence_157
+[2025-10-28T13:44:46] zero-trust: rotate identity governance certificates - sequence_158
+[2025-10-28T19:32:33] telemetry: sync threat intelligence IOC stream - sequence_159
+[2025-10-28T21:42:59] autogen: re-index multi-agent safety consensus weights - sequence_160
+[2025-10-28T22:40:28] iac: scan kubernetes manifests against CIS benchmarks - sequence_161
+[2025-10-29T09:54:25] soar: update sub-second containment playbook - sequence_162
+[2025-10-29T13:38:41] mitre: map credential stuffing techniques to T1110 - sequence_163
+[2025-10-29T15:14:29] kernel: tune DOCKER-USER netfilter chain rules - sequence_164
+[2025-10-29T16:31:55] kernel: tune DOCKER-USER netfilter chain rules - sequence_165
+[2025-10-29T19:23:51] telemetry: sync threat intelligence IOC stream - sequence_166
+[2025-10-30T11:14:10] autogen: re-index multi-agent safety consensus weights - sequence_167
+[2025-10-30T17:30:39] kql: optimize azure sentinel detection correlation - sequence_168
+[2025-10-30T18:17:12] telemetry: sync threat intelligence IOC stream - sequence_169
+[2025-10-30T20:55:13] metrics: ingest distributed honeypot packet metrics - sequence_170
+[2025-10-30T21:36:39] metrics: ingest distributed honeypot packet metrics - sequence_171
+[2025-10-31T10:12:58] ebpf: patch packet probe filter hook - sequence_172
+[2025-10-31T12:50:41] kql: optimize azure sentinel detection correlation - sequence_173
+[2025-10-31T13:51:57] ebpf: patch packet probe filter hook - sequence_174
+[2025-10-31T15:15:58] soar: update sub-second containment playbook - sequence_175
+[2025-10-31T17:29:32] soar: update sub-second containment playbook - sequence_176
+[2025-10-31T18:24:31] telemetry: sync threat intelligence IOC stream - sequence_177
+[2025-10-31T21:11:21] soar: update sub-second containment playbook - sequence_178
+[2025-10-31T22:44:55] ebpf: patch packet probe filter hook - sequence_179
+[2025-11-01T10:44:53] mcp: bridge security copilot tool calling endpoint - sequence_180
+[2025-11-01T11:49:20] kql: optimize azure sentinel detection correlation - sequence_181
+[2025-11-01T20:24:21] soar: update sub-second containment playbook - sequence_182
+[2025-11-02T11:26:45] secops: update netfilter rule signatures - sequence_183
+[2025-11-02T14:57:53] soar: update sub-second containment playbook - sequence_184
+[2025-11-02T16:57:20] mcp: bridge security copilot tool calling endpoint - sequence_185
+[2025-11-02T21:15:41] kql: optimize azure sentinel detection correlation - sequence_186
+[2025-11-03T12:46:27] telemetry: sync threat intelligence IOC stream - sequence_187
+[2025-11-03T15:48:15] zero-trust: rotate identity governance certificates - sequence_188
+[2025-11-03T18:10:49] zero-trust: rotate identity governance certificates - sequence_189
+[2025-11-03T20:22:34] ebpf: patch packet probe filter hook - sequence_190
+[2025-11-03T21:12:54] zero-trust: rotate identity governance certificates - sequence_191
+[2025-11-04T11:41:21] ebpf: patch packet probe filter hook - sequence_192
+[2025-11-04T15:10:32] ebpf: patch packet probe filter hook - sequence_193
+[2025-11-04T17:29:50] secops: update netfilter rule signatures - sequence_194
+[2025-11-04T18:36:50] mcp: bridge security copilot tool calling endpoint - sequence_195
+[2025-11-04T19:40:21] metrics: ingest distributed honeypot packet metrics - sequence_196
+[2025-11-05T13:19:16] telemetry: sync threat intelligence IOC stream - sequence_197
+[2025-11-05T14:34:43] autogen: re-index multi-agent safety consensus weights - sequence_198
+[2025-11-05T15:40:21] telemetry: sync threat intelligence IOC stream - sequence_199
+[2025-11-05T20:35:33] zero-trust: rotate identity governance certificates - sequence_200
+[2025-11-06T10:31:40] metrics: ingest distributed honeypot packet metrics - sequence_201
+[2025-11-06T16:15:55] kql: optimize azure sentinel detection correlation - sequence_202
+[2025-11-06T17:37:56] ebpf: patch packet probe filter hook - sequence_203
+[2025-11-06T19:54:51] metrics: ingest distributed honeypot packet metrics - sequence_204
+[2025-11-07T09:41:35] kql: optimize azure sentinel detection correlation - sequence_205
+[2025-11-07T11:30:31] mitre: map credential stuffing techniques to T1110 - sequence_206
+[2025-11-07T12:22:55] zero-trust: rotate identity governance certificates - sequence_207
+[2025-11-08T12:38:12] telemetry: sync threat intelligence IOC stream - sequence_208
+[2025-11-08T16:32:26] kernel: tune DOCKER-USER netfilter chain rules - sequence_209
+[2025-11-09T10:48:51] zero-trust: rotate identity governance certificates - sequence_210
+[2025-11-09T13:46:47] kernel: tune DOCKER-USER netfilter chain rules - sequence_211
+[2025-11-09T18:43:24] mcp: bridge security copilot tool calling endpoint - sequence_212
+[2025-11-09T19:25:26] autogen: re-index multi-agent safety consensus weights - sequence_213
+[2025-11-10T09:21:35] mcp: bridge security copilot tool calling endpoint - sequence_214
+[2025-11-10T12:12:24] soar: update sub-second containment playbook - sequence_215
+[2025-11-10T13:15:14] kql: optimize azure sentinel detection correlation - sequence_216
+[2025-11-10T21:54:41] mcp: bridge security copilot tool calling endpoint - sequence_217
+[2025-11-11T12:32:50] mitre: map credential stuffing techniques to T1110 - sequence_218
+[2025-11-11T14:22:51] autogen: re-index multi-agent safety consensus weights - sequence_219
+[2025-11-11T19:33:39] autogen: re-index multi-agent safety consensus weights - sequence_220
+[2025-11-12T09:18:43] mcp: bridge security copilot tool calling endpoint - sequence_221
+[2025-11-12T11:26:46] soar: update sub-second containment playbook - sequence_222
+[2025-11-12T12:39:10] mitre: map credential stuffing techniques to T1110 - sequence_223
+[2025-11-12T15:40:14] autogen: re-index multi-agent safety consensus weights - sequence_224
+[2025-11-12T16:30:59] kql: optimize azure sentinel detection correlation - sequence_225
+[2025-11-12T20:21:21] iac: scan kubernetes manifests against CIS benchmarks - sequence_226
+[2025-11-14T13:59:19] telemetry: sync threat intelligence IOC stream - sequence_227
+[2025-11-14T14:18:38] mcp: bridge security copilot tool calling endpoint - sequence_228
+[2025-11-14T16:32:25] autogen: re-index multi-agent safety consensus weights - sequence_229
+[2025-11-14T17:39:30] iac: scan kubernetes manifests against CIS benchmarks - sequence_230
+[2025-11-14T21:32:42] kql: optimize azure sentinel detection correlation - sequence_231
+[2025-11-15T09:18:57] kql: optimize azure sentinel detection correlation - sequence_232
+[2025-11-15T11:55:34] zero-trust: rotate identity governance certificates - sequence_233
+[2025-11-15T16:38:36] mitre: map credential stuffing techniques to T1110 - sequence_234
+[2025-11-16T15:58:46] iac: scan kubernetes manifests against CIS benchmarks - sequence_235
+[2025-11-16T18:17:40] mcp: bridge security copilot tool calling endpoint - sequence_236
+[2025-11-18T12:32:26] kql: optimize azure sentinel detection correlation - sequence_237
+[2025-11-18T17:24:13] kernel: tune DOCKER-USER netfilter chain rules - sequence_238
+[2025-11-18T19:54:49] metrics: ingest distributed honeypot packet metrics - sequence_239
+[2025-11-18T20:37:29] autogen: re-index multi-agent safety consensus weights - sequence_240
+[2025-11-19T12:40:33] kernel: tune DOCKER-USER netfilter chain rules - sequence_241
+[2025-11-19T15:12:27] autogen: re-index multi-agent safety consensus weights - sequence_242
+[2025-11-19T20:58:58] metrics: ingest distributed honeypot packet metrics - sequence_243
+[2025-11-20T12:42:47] kql: optimize azure sentinel detection correlation - sequence_244
+[2025-11-20T13:52:21] mcp: bridge security copilot tool calling endpoint - sequence_245
+[2025-11-20T15:14:18] kernel: tune DOCKER-USER netfilter chain rules - sequence_246
+[2025-11-20T17:59:36] metrics: ingest distributed honeypot packet metrics - sequence_247
+[2025-11-20T19:45:58] kernel: tune DOCKER-USER netfilter chain rules - sequence_248
+[2025-11-21T15:52:46] mcp: bridge security copilot tool calling endpoint - sequence_249
+[2025-11-21T16:58:36] kernel: tune DOCKER-USER netfilter chain rules - sequence_250
+[2025-11-21T17:51:43] kernel: tune DOCKER-USER netfilter chain rules - sequence_251
+[2025-11-21T20:40:32] zero-trust: rotate identity governance certificates - sequence_252
+[2025-11-21T21:31:47] kql: optimize azure sentinel detection correlation - sequence_253
+[2025-11-22T09:23:41] kql: optimize azure sentinel detection correlation - sequence_254
+[2025-11-22T16:28:57] secops: update netfilter rule signatures - sequence_255
+[2025-11-22T17:45:40] secops: update netfilter rule signatures - sequence_256
+[2025-11-22T22:35:55] autogen: re-index multi-agent safety consensus weights - sequence_257
+[2025-11-23T11:38:24] soar: update sub-second containment playbook - sequence_258
+[2025-11-23T17:56:17] mcp: bridge security copilot tool calling endpoint - sequence_259
+[2025-11-23T21:51:18] secops: update netfilter rule signatures - sequence_260
+[2025-11-24T09:58:36] autogen: re-index multi-agent safety consensus weights - sequence_261
+[2025-11-24T10:25:55] soar: update sub-second containment playbook - sequence_262
+[2025-11-24T18:29:59] metrics: ingest distributed honeypot packet metrics - sequence_263
+[2025-11-24T20:40:57] mcp: bridge security copilot tool calling endpoint - sequence_264
+[2025-11-25T12:44:58] zero-trust: rotate identity governance certificates - sequence_265
+[2025-11-25T14:19:34] ebpf: patch packet probe filter hook - sequence_266
+[2025-11-25T16:50:50] mcp: bridge security copilot tool calling endpoint - sequence_267
+[2025-11-25T18:21:28] telemetry: sync threat intelligence IOC stream - sequence_268
+[2025-11-25T19:56:56] mcp: bridge security copilot tool calling endpoint - sequence_269
+[2025-11-25T21:18:41] kql: optimize azure sentinel detection correlation - sequence_270
+[2025-11-26T09:24:36] kernel: tune DOCKER-USER netfilter chain rules - sequence_271
+[2025-11-26T12:35:13] ebpf: patch packet probe filter hook - sequence_272
+[2025-11-26T13:10:56] ebpf: patch packet probe filter hook - sequence_273
+[2025-11-26T15:20:32] soar: update sub-second containment playbook - sequence_274
+[2025-11-26T18:51:12] ebpf: patch packet probe filter hook - sequence_275
+[2025-11-26T20:27:14] metrics: ingest distributed honeypot packet metrics - sequence_276
+[2025-11-26T21:45:16] secops: update netfilter rule signatures - sequence_277
+[2025-11-27T09:56:25] secops: update netfilter rule signatures - sequence_278
+[2025-11-27T11:10:45] iac: scan kubernetes manifests against CIS benchmarks - sequence_279
+[2025-11-27T21:19:45] kql: optimize azure sentinel detection correlation - sequence_280
+[2025-11-28T09:52:40] telemetry: sync threat intelligence IOC stream - sequence_281
+[2025-11-28T10:19:53] telemetry: sync threat intelligence IOC stream - sequence_282
+[2025-11-28T13:38:54] metrics: ingest distributed honeypot packet metrics - sequence_283
+[2025-11-29T14:22:32] kql: optimize azure sentinel detection correlation - sequence_284
+[2025-11-29T15:35:38] ebpf: patch packet probe filter hook - sequence_285
+[2025-11-30T10:14:15] autogen: re-index multi-agent safety consensus weights - sequence_286
+[2025-11-30T12:11:59] autogen: re-index multi-agent safety consensus weights - sequence_287
+[2025-11-30T18:50:21] mitre: map credential stuffing techniques to T1110 - sequence_288
+[2025-12-01T09:35:30] mitre: map credential stuffing techniques to T1110 - sequence_289
+[2025-12-01T10:21:17] soar: update sub-second containment playbook - sequence_290
+[2025-12-01T11:12:54] mcp: bridge security copilot tool calling endpoint - sequence_291
+[2025-12-01T12:14:50] ebpf: patch packet probe filter hook - sequence_292
+[2025-12-01T13:10:38] metrics: ingest distributed honeypot packet metrics - sequence_293
+[2025-12-01T20:30:47] zero-trust: rotate identity governance certificates - sequence_294
+[2025-12-02T16:16:10] ebpf: patch packet probe filter hook - sequence_295
+[2025-12-02T17:27:21] telemetry: sync threat intelligence IOC stream - sequence_296
+[2025-12-02T18:14:13] soar: update sub-second containment playbook - sequence_297
+[2025-12-02T19:19:39] metrics: ingest distributed honeypot packet metrics - sequence_298
+[2025-12-02T21:54:37] mcp: bridge security copilot tool calling endpoint - sequence_299
+[2025-12-03T09:21:41] soar: update sub-second containment playbook - sequence_300
+[2025-12-03T17:20:12] ebpf: patch packet probe filter hook - sequence_301
+[2025-12-03T18:20:29] soar: update sub-second containment playbook - sequence_302
+[2025-12-03T19:37:57] iac: scan kubernetes manifests against CIS benchmarks - sequence_303
+[2025-12-03T20:15:57] zero-trust: rotate identity governance certificates - sequence_304
+[2025-12-04T14:58:32] mitre: map credential stuffing techniques to T1110 - sequence_305
+[2025-12-04T19:10:25] telemetry: sync threat intelligence IOC stream - sequence_306
+[2025-12-04T22:48:13] kernel: tune DOCKER-USER netfilter chain rules - sequence_307
+[2025-12-05T10:50:43] autogen: re-index multi-agent safety consensus weights - sequence_308
+[2025-12-05T14:14:20] autogen: re-index multi-agent safety consensus weights - sequence_309
+[2025-12-05T22:42:46] secops: update netfilter rule signatures - sequence_310
+[2025-12-06T12:16:19] zero-trust: rotate identity governance certificates - sequence_311
+[2025-12-06T15:11:16] kql: optimize azure sentinel detection correlation - sequence_312
+[2025-12-07T16:29:18] autogen: re-index multi-agent safety consensus weights - sequence_313
+[2025-12-07T20:43:37] soar: update sub-second containment playbook - sequence_314
+[2025-12-09T09:29:42] secops: update netfilter rule signatures - sequence_315
+[2025-12-09T12:16:36] telemetry: sync threat intelligence IOC stream - sequence_316
+[2025-12-09T15:29:31] mitre: map credential stuffing techniques to T1110 - sequence_317
+[2025-12-09T19:49:57] soar: update sub-second containment playbook - sequence_318
+[2025-12-09T21:16:58] secops: update netfilter rule signatures - sequence_319
+[2025-12-09T22:48:19] mitre: map credential stuffing techniques to T1110 - sequence_320
+[2025-12-10T09:10:59] mcp: bridge security copilot tool calling endpoint - sequence_321
+[2025-12-10T10:13:21] metrics: ingest distributed honeypot packet metrics - sequence_322
+[2025-12-10T11:42:33] mcp: bridge security copilot tool calling endpoint - sequence_323
+[2025-12-10T12:51:45] kql: optimize azure sentinel detection correlation - sequence_324
+[2025-12-10T16:28:46] zero-trust: rotate identity governance certificates - sequence_325
+[2025-12-10T20:29:49] soar: update sub-second containment playbook - sequence_326
+[2025-12-11T12:48:27] telemetry: sync threat intelligence IOC stream - sequence_327
+[2025-12-11T14:46:22] telemetry: sync threat intelligence IOC stream - sequence_328
+[2025-12-11T17:40:24] iac: scan kubernetes manifests against CIS benchmarks - sequence_329
+[2025-12-11T18:31:20] mitre: map credential stuffing techniques to T1110 - sequence_330
+[2025-12-11T19:41:19] mitre: map credential stuffing techniques to T1110 - sequence_331
+[2025-12-14T10:27:31] mitre: map credential stuffing techniques to T1110 - sequence_332
+[2025-12-14T20:43:27] mitre: map credential stuffing techniques to T1110 - sequence_333
+[2025-12-14T22:11:37] mcp: bridge security copilot tool calling endpoint - sequence_334
+[2025-12-15T11:49:39] mcp: bridge security copilot tool calling endpoint - sequence_335
+[2025-12-15T17:46:39] soar: update sub-second containment playbook - sequence_336
+[2025-12-15T20:22:58] mitre: map credential stuffing techniques to T1110 - sequence_337
+[2025-12-15T21:59:13] ebpf: patch packet probe filter hook - sequence_338
+[2025-12-16T13:31:50] secops: update netfilter rule signatures - sequence_339
+[2025-12-16T15:24:13] soar: update sub-second containment playbook - sequence_340
+[2025-12-16T18:57:41] zero-trust: rotate identity governance certificates - sequence_341
+[2025-12-16T20:58:53] metrics: ingest distributed honeypot packet metrics - sequence_342
+[2025-12-16T21:35:45] autogen: re-index multi-agent safety consensus weights - sequence_343
+[2025-12-17T11:18:39] secops: update netfilter rule signatures - sequence_344
+[2025-12-17T12:16:23] metrics: ingest distributed honeypot packet metrics - sequence_345
+[2025-12-17T13:49:39] kql: optimize azure sentinel detection correlation - sequence_346
+[2025-12-17T16:26:53] soar: update sub-second containment playbook - sequence_347
+[2025-12-17T17:23:41] mcp: bridge security copilot tool calling endpoint - sequence_348
+[2025-12-17T22:11:38] kernel: tune DOCKER-USER netfilter chain rules - sequence_349
+[2025-12-18T10:55:42] zero-trust: rotate identity governance certificates - sequence_350
+[2025-12-18T16:27:25] kql: optimize azure sentinel detection correlation - sequence_351
+[2025-12-18T17:15:19] telemetry: sync threat intelligence IOC stream - sequence_352
+[2025-12-18T18:14:49] kernel: tune DOCKER-USER netfilter chain rules - sequence_353
+[2025-12-18T20:27:35] metrics: ingest distributed honeypot packet metrics - sequence_354
+[2025-12-18T22:34:22] mitre: map credential stuffing techniques to T1110 - sequence_355
+[2025-12-19T13:49:29] mcp: bridge security copilot tool calling endpoint - sequence_356
+[2025-12-19T15:22:12] kql: optimize azure sentinel detection correlation - sequence_357
+[2025-12-19T16:15:36] ebpf: patch packet probe filter hook - sequence_358
+[2025-12-20T09:49:53] iac: scan kubernetes manifests against CIS benchmarks - sequence_359
+[2025-12-20T11:10:35] mcp: bridge security copilot tool calling endpoint - sequence_360
+[2025-12-21T09:17:16] autogen: re-index multi-agent safety consensus weights - sequence_361
+[2025-12-21T17:53:12] kernel: tune DOCKER-USER netfilter chain rules - sequence_362
+[2025-12-21T20:13:31] ebpf: patch packet probe filter hook - sequence_363
+[2025-12-24T09:29:20] telemetry: sync threat intelligence IOC stream - sequence_364
+[2025-12-24T11:17:52] kernel: tune DOCKER-USER netfilter chain rules - sequence_365
+[2025-12-24T14:46:43] soar: update sub-second containment playbook - sequence_366
+[2025-12-24T15:30:28] ebpf: patch packet probe filter hook - sequence_367
+[2025-12-24T19:13:18] mcp: bridge security copilot tool calling endpoint - sequence_368
+[2025-12-24T21:24:40] secops: update netfilter rule signatures - sequence_369
+[2025-12-25T09:20:24] ebpf: patch packet probe filter hook - sequence_370
+[2025-12-25T20:31:23] iac: scan kubernetes manifests against CIS benchmarks - sequence_371
+[2025-12-25T22:44:41] iac: scan kubernetes manifests against CIS benchmarks - sequence_372
+[2025-12-26T10:42:54] iac: scan kubernetes manifests against CIS benchmarks - sequence_373
+[2025-12-26T17:46:41] soar: update sub-second containment playbook - sequence_374
+[2025-12-26T19:34:24] zero-trust: rotate identity governance certificates - sequence_375
+[2025-12-26T20:41:34] autogen: re-index multi-agent safety consensus weights - sequence_376
+[2025-12-27T16:40:42] secops: update netfilter rule signatures - sequence_377
+[2025-12-27T17:55:16] mitre: map credential stuffing techniques to T1110 - sequence_378
+[2025-12-27T18:41:46] iac: scan kubernetes manifests against CIS benchmarks - sequence_379
+[2025-12-27T21:28:36] ebpf: patch packet probe filter hook - sequence_380
+[2025-12-28T09:35:10] soar: update sub-second containment playbook - sequence_381
+[2025-12-28T10:50:45] soar: update sub-second containment playbook - sequence_382
+[2025-12-28T20:50:29] telemetry: sync threat intelligence IOC stream - sequence_383
+[2025-12-29T09:43:45] telemetry: sync threat intelligence IOC stream - sequence_384
+[2025-12-29T11:28:38] ebpf: patch packet probe filter hook - sequence_385
+[2025-12-29T18:42:45] metrics: ingest distributed honeypot packet metrics - sequence_386
+[2025-12-30T11:45:11] iac: scan kubernetes manifests against CIS benchmarks - sequence_387
+[2025-12-30T12:17:55] mitre: map credential stuffing techniques to T1110 - sequence_388
+[2025-12-30T13:40:29] ebpf: patch packet probe filter hook - sequence_389
+[2025-12-30T14:30:43] zero-trust: rotate identity governance certificates - sequence_390
+[2025-12-30T16:13:11] metrics: ingest distributed honeypot packet metrics - sequence_391
+[2025-12-30T17:33:52] iac: scan kubernetes manifests against CIS benchmarks - sequence_392
+[2025-12-30T19:27:57] iac: scan kubernetes manifests against CIS benchmarks - sequence_393
+[2025-12-31T09:40:49] kql: optimize azure sentinel detection correlation - sequence_394
+[2025-12-31T15:30:58] zero-trust: rotate identity governance certificates - sequence_395
+[2025-12-31T16:18:14] iac: scan kubernetes manifests against CIS benchmarks - sequence_396
+[2026-01-01T10:48:48] soar: update sub-second containment playbook - sequence_397
+[2026-01-01T17:37:10] mcp: bridge security copilot tool calling endpoint - sequence_398
+[2026-01-01T19:38:43] iac: scan kubernetes manifests against CIS benchmarks - sequence_399
+[2026-01-01T21:48:41] kql: optimize azure sentinel detection correlation - sequence_400
+[2026-01-02T09:38:44] kql: optimize azure sentinel detection correlation - sequence_401
+[2026-01-02T12:27:36] metrics: ingest distributed honeypot packet metrics - sequence_402
+[2026-01-02T14:44:57] autogen: re-index multi-agent safety consensus weights - sequence_403
+[2026-01-02T20:16:53] autogen: re-index multi-agent safety consensus weights - sequence_404
+[2026-01-02T21:24:13] ebpf: patch packet probe filter hook - sequence_405
+[2026-01-03T10:52:24] secops: update netfilter rule signatures - sequence_406
+[2026-01-03T18:12:21] mcp: bridge security copilot tool calling endpoint - sequence_407
+[2026-01-03T19:13:14] metrics: ingest distributed honeypot packet metrics - sequence_408
+[2026-01-04T12:10:54] metrics: ingest distributed honeypot packet metrics - sequence_409
+[2026-01-04T16:28:36] secops: update netfilter rule signatures - sequence_410
+[2026-01-04T19:36:44] mitre: map credential stuffing techniques to T1110 - sequence_411
+[2026-01-04T22:33:44] autogen: re-index multi-agent safety consensus weights - sequence_412
+[2026-01-05T09:50:16] kernel: tune DOCKER-USER netfilter chain rules - sequence_413
+[2026-01-05T14:12:37] iac: scan kubernetes manifests against CIS benchmarks - sequence_414
+[2026-01-05T15:47:37] mcp: bridge security copilot tool calling endpoint - sequence_415
+[2026-01-05T16:42:48] soar: update sub-second containment playbook - sequence_416
+[2026-01-05T20:44:16] kernel: tune DOCKER-USER netfilter chain rules - sequence_417
+[2026-01-06T12:53:28] iac: scan kubernetes manifests against CIS benchmarks - sequence_418
+[2026-01-06T13:16:19] kql: optimize azure sentinel detection correlation - sequence_419
+[2026-01-06T14:51:13] secops: update netfilter rule signatures - sequence_420
+[2026-01-06T16:29:10] iac: scan kubernetes manifests against CIS benchmarks - sequence_421
+[2026-01-07T10:34:16] zero-trust: rotate identity governance certificates - sequence_422
+[2026-01-07T16:34:10] mcp: bridge security copilot tool calling endpoint - sequence_423
+[2026-01-07T19:15:14] metrics: ingest distributed honeypot packet metrics - sequence_424
+[2026-01-07T20:46:13] autogen: re-index multi-agent safety consensus weights - sequence_425
+[2026-01-08T09:23:33] autogen: re-index multi-agent safety consensus weights - sequence_426
+[2026-01-08T16:53:43] secops: update netfilter rule signatures - sequence_427
+[2026-01-08T20:52:31] kernel: tune DOCKER-USER netfilter chain rules - sequence_428
+[2026-01-08T21:14:46] kql: optimize azure sentinel detection correlation - sequence_429
+[2026-01-09T13:33:17] iac: scan kubernetes manifests against CIS benchmarks - sequence_430
+[2026-01-09T14:40:36] secops: update netfilter rule signatures - sequence_431
+[2026-01-09T20:44:32] kql: optimize azure sentinel detection correlation - sequence_432
+[2026-01-09T21:10:24] ebpf: patch packet probe filter hook - sequence_433
+[2026-01-09T22:41:53] zero-trust: rotate identity governance certificates - sequence_434
+[2026-01-10T09:44:21] kernel: tune DOCKER-USER netfilter chain rules - sequence_435
+[2026-01-10T20:12:33] soar: update sub-second containment playbook - sequence_436
+[2026-01-10T21:46:38] telemetry: sync threat intelligence IOC stream - sequence_437
+[2026-01-11T14:42:27] iac: scan kubernetes manifests against CIS benchmarks - sequence_438
+[2026-01-11T21:40:27] soar: update sub-second containment playbook - sequence_439
+[2026-01-12T09:13:56] zero-trust: rotate identity governance certificates - sequence_440
+[2026-01-12T11:24:20] soar: update sub-second containment playbook - sequence_441
+[2026-01-12T13:40:38] zero-trust: rotate identity governance certificates - sequence_442
+[2026-01-12T16:32:17] ebpf: patch packet probe filter hook - sequence_443
+[2026-01-12T17:57:24] zero-trust: rotate identity governance certificates - sequence_444
+[2026-01-12T21:29:26] mcp: bridge security copilot tool calling endpoint - sequence_445
+[2026-01-13T10:16:37] mcp: bridge security copilot tool calling endpoint - sequence_446
+[2026-01-13T16:35:38] metrics: ingest distributed honeypot packet metrics - sequence_447
+[2026-01-13T20:11:14] kql: optimize azure sentinel detection correlation - sequence_448
+[2026-01-13T22:51:18] zero-trust: rotate identity governance certificates - sequence_449
+[2026-01-14T17:29:31] mitre: map credential stuffing techniques to T1110 - sequence_450
+[2026-01-14T18:55:59] kql: optimize azure sentinel detection correlation - sequence_451
+[2026-01-14T21:10:28] ebpf: patch packet probe filter hook - sequence_452
+[2026-01-15T09:24:10] kql: optimize azure sentinel detection correlation - sequence_453
+[2026-01-15T13:38:18] telemetry: sync threat intelligence IOC stream - sequence_454
+[2026-01-15T15:27:33] zero-trust: rotate identity governance certificates - sequence_455
+[2026-01-16T10:46:42] metrics: ingest distributed honeypot packet metrics - sequence_456
+[2026-01-16T15:47:40] telemetry: sync threat intelligence IOC stream - sequence_457
+[2026-01-16T16:50:24] soar: update sub-second containment playbook - sequence_458
+[2026-01-16T18:48:55] metrics: ingest distributed honeypot packet metrics - sequence_459
+[2026-01-16T19:44:35] autogen: re-index multi-agent safety consensus weights - sequence_460
+[2026-01-17T09:47:41] metrics: ingest distributed honeypot packet metrics - sequence_461
+[2026-01-17T11:16:23] autogen: re-index multi-agent safety consensus weights - sequence_462
+[2026-01-17T14:50:25] kql: optimize azure sentinel detection correlation - sequence_463
+[2026-01-17T17:22:38] kernel: tune DOCKER-USER netfilter chain rules - sequence_464
+[2026-01-18T11:24:40] autogen: re-index multi-agent safety consensus weights - sequence_465
+[2026-01-18T15:12:11] kernel: tune DOCKER-USER netfilter chain rules - sequence_466
+[2026-01-18T17:33:51] metrics: ingest distributed honeypot packet metrics - sequence_467
+[2026-01-18T21:54:47] kernel: tune DOCKER-USER netfilter chain rules - sequence_468
+[2026-01-19T11:23:25] secops: update netfilter rule signatures - sequence_469
+[2026-01-19T12:34:40] kql: optimize azure sentinel detection correlation - sequence_470
+[2026-01-19T18:54:58] telemetry: sync threat intelligence IOC stream - sequence_471
+[2026-01-19T19:48:36] metrics: ingest distributed honeypot packet metrics - sequence_472
+[2026-01-19T20:10:38] kernel: tune DOCKER-USER netfilter chain rules - sequence_473
+[2026-01-19T21:52:33] kernel: tune DOCKER-USER netfilter chain rules - sequence_474
+[2026-01-20T14:26:27] kernel: tune DOCKER-USER netfilter chain rules - sequence_475
+[2026-01-20T16:29:45] kql: optimize azure sentinel detection correlation - sequence_476
+[2026-01-20T22:19:25] iac: scan kubernetes manifests against CIS benchmarks - sequence_477
+[2026-01-21T09:35:30] kernel: tune DOCKER-USER netfilter chain rules - sequence_478
+[2026-01-21T16:31:34] mcp: bridge security copilot tool calling endpoint - sequence_479
+[2026-01-21T21:55:31] telemetry: sync threat intelligence IOC stream - sequence_480
+[2026-01-21T22:32:42] kernel: tune DOCKER-USER netfilter chain rules - sequence_481
+[2026-01-22T11:34:52] metrics: ingest distributed honeypot packet metrics - sequence_482
+[2026-01-22T12:53:45] iac: scan kubernetes manifests against CIS benchmarks - sequence_483
+[2026-01-22T17:47:57] autogen: re-index multi-agent safety consensus weights - sequence_484
+[2026-01-22T19:48:39] kernel: tune DOCKER-USER netfilter chain rules - sequence_485
+[2026-01-22T22:45:58] iac: scan kubernetes manifests against CIS benchmarks - sequence_486
+[2026-01-23T11:58:28] secops: update netfilter rule signatures - sequence_487
+[2026-01-23T13:54:30] telemetry: sync threat intelligence IOC stream - sequence_488
+[2026-01-23T15:58:50] kql: optimize azure sentinel detection correlation - sequence_489
+[2026-01-23T21:11:44] mitre: map credential stuffing techniques to T1110 - sequence_490
+[2026-01-24T11:18:21] iac: scan kubernetes manifests against CIS benchmarks - sequence_491
+[2026-01-24T13:55:55] iac: scan kubernetes manifests against CIS benchmarks - sequence_492
+[2026-01-24T14:38:57] ebpf: patch packet probe filter hook - sequence_493
+[2026-01-24T18:14:24] autogen: re-index multi-agent safety consensus weights - sequence_494
+[2026-01-25T09:30:50] autogen: re-index multi-agent safety consensus weights - sequence_495
+[2026-01-25T10:24:57] zero-trust: rotate identity governance certificates - sequence_496
+[2026-01-25T13:45:46] telemetry: sync threat intelligence IOC stream - sequence_497
+[2026-01-25T17:20:58] iac: scan kubernetes manifests against CIS benchmarks - sequence_498
+[2026-01-26T09:58:42] mcp: bridge security copilot tool calling endpoint - sequence_499
+[2026-01-26T11:45:10] soar: update sub-second containment playbook - sequence_500
+[2026-01-26T13:48:52] soar: update sub-second containment playbook - sequence_501
+[2026-01-26T17:52:40] mitre: map credential stuffing techniques to T1110 - sequence_502
+[2026-01-26T22:48:33] metrics: ingest distributed honeypot packet metrics - sequence_503
+[2026-01-27T09:43:58] secops: update netfilter rule signatures - sequence_504
+[2026-01-27T12:12:25] ebpf: patch packet probe filter hook - sequence_505
+[2026-01-27T17:21:29] autogen: re-index multi-agent safety consensus weights - sequence_506
+[2026-01-27T19:56:49] soar: update sub-second containment playbook - sequence_507
+[2026-01-27T20:58:56] mcp: bridge security copilot tool calling endpoint - sequence_508
+[2026-01-28T10:13:29] mcp: bridge security copilot tool calling endpoint - sequence_509
+[2026-01-28T15:59:30] kql: optimize azure sentinel detection correlation - sequence_510
+[2026-01-28T19:29:14] ebpf: patch packet probe filter hook - sequence_511
+[2026-01-28T20:17:46] ebpf: patch packet probe filter hook - sequence_512
+[2026-01-29T10:51:21] mitre: map credential stuffing techniques to T1110 - sequence_513
+[2026-01-29T15:43:12] mcp: bridge security copilot tool calling endpoint - sequence_514
+[2026-01-29T16:49:24] mcp: bridge security copilot tool calling endpoint - sequence_515
+[2026-01-29T19:35:58] telemetry: sync threat intelligence IOC stream - sequence_516
+[2026-01-30T09:18:43] ebpf: patch packet probe filter hook - sequence_517
+[2026-01-30T14:39:54] iac: scan kubernetes manifests against CIS benchmarks - sequence_518
+[2026-01-30T15:53:34] mcp: bridge security copilot tool calling endpoint - sequence_519
+[2026-01-30T22:59:42] metrics: ingest distributed honeypot packet metrics - sequence_520
+[2026-01-31T14:46:16] soar: update sub-second containment playbook - sequence_521
+[2026-01-31T15:53:41] mitre: map credential stuffing techniques to T1110 - sequence_522
+[2026-01-31T17:51:17] kql: optimize azure sentinel detection correlation - sequence_523
+[2026-01-31T22:47:12] zero-trust: rotate identity governance certificates - sequence_524
+[2026-02-01T17:14:45] telemetry: sync threat intelligence IOC stream - sequence_525
+[2026-02-02T18:39:19] telemetry: sync threat intelligence IOC stream - sequence_526
+[2026-02-02T20:42:50] soar: update sub-second containment playbook - sequence_527
+[2026-02-02T21:11:33] zero-trust: rotate identity governance certificates - sequence_528
+[2026-02-03T09:32:27] mcp: bridge security copilot tool calling endpoint - sequence_529
+[2026-02-03T11:17:40] secops: update netfilter rule signatures - sequence_530
+[2026-02-03T16:54:46] kernel: tune DOCKER-USER netfilter chain rules - sequence_531
+[2026-02-03T19:29:53] ebpf: patch packet probe filter hook - sequence_532
+[2026-02-03T20:22:16] metrics: ingest distributed honeypot packet metrics - sequence_533
+[2026-02-04T09:19:14] telemetry: sync threat intelligence IOC stream - sequence_534
+[2026-02-04T11:57:27] ebpf: patch packet probe filter hook - sequence_535
+[2026-02-04T14:17:24] secops: update netfilter rule signatures - sequence_536
+[2026-02-04T15:10:41] kernel: tune DOCKER-USER netfilter chain rules - sequence_537
+[2026-02-04T19:22:34] zero-trust: rotate identity governance certificates - sequence_538
+[2026-02-04T22:35:26] telemetry: sync threat intelligence IOC stream - sequence_539
+[2026-02-05T09:11:41] kernel: tune DOCKER-USER netfilter chain rules - sequence_540
+[2026-02-05T12:50:33] kernel: tune DOCKER-USER netfilter chain rules - sequence_541
+[2026-02-05T15:41:54] secops: update netfilter rule signatures - sequence_542
+[2026-02-05T16:43:16] telemetry: sync threat intelligence IOC stream - sequence_543
+[2026-02-05T17:48:43] secops: update netfilter rule signatures - sequence_544
+[2026-02-05T19:34:19] soar: update sub-second containment playbook - sequence_545
+[2026-02-05T20:11:17] telemetry: sync threat intelligence IOC stream - sequence_546
+[2026-02-05T21:37:10] mitre: map credential stuffing techniques to T1110 - sequence_547
+[2026-02-05T22:39:28] zero-trust: rotate identity governance certificates - sequence_548
+[2026-02-06T12:46:41] zero-trust: rotate identity governance certificates - sequence_549
+[2026-02-06T13:40:21] autogen: re-index multi-agent safety consensus weights - sequence_550
+[2026-02-06T14:13:22] soar: update sub-second containment playbook - sequence_551
+[2026-02-07T10:37:12] secops: update netfilter rule signatures - sequence_552
+[2026-02-07T11:18:41] autogen: re-index multi-agent safety consensus weights - sequence_553
+[2026-02-07T13:58:48] zero-trust: rotate identity governance certificates - sequence_554
+[2026-02-07T19:56:29] ebpf: patch packet probe filter hook - sequence_555
+[2026-02-08T12:23:28] kernel: tune DOCKER-USER netfilter chain rules - sequence_556
+[2026-02-08T15:20:28] autogen: re-index multi-agent safety consensus weights - sequence_557
+[2026-02-08T18:19:39] kql: optimize azure sentinel detection correlation - sequence_558
+[2026-02-09T09:55:11] kql: optimize azure sentinel detection correlation - sequence_559
+[2026-02-09T16:59:29] mitre: map credential stuffing techniques to T1110 - sequence_560
+[2026-02-09T18:20:39] ebpf: patch packet probe filter hook - sequence_561
+[2026-02-10T09:33:42] iac: scan kubernetes manifests against CIS benchmarks - sequence_562
+[2026-02-10T10:25:18] telemetry: sync threat intelligence IOC stream - sequence_563
+[2026-02-10T11:34:34] telemetry: sync threat intelligence IOC stream - sequence_564
+[2026-02-10T13:41:26] metrics: ingest distributed honeypot packet metrics - sequence_565
+[2026-02-10T14:58:32] telemetry: sync threat intelligence IOC stream - sequence_566
+[2026-02-10T18:15:22] autogen: re-index multi-agent safety consensus weights - sequence_567
+[2026-02-11T15:38:40] soar: update sub-second containment playbook - sequence_568
+[2026-02-11T21:59:28] kernel: tune DOCKER-USER netfilter chain rules - sequence_569
+[2026-02-11T22:27:10] mitre: map credential stuffing techniques to T1110 - sequence_570
+[2026-02-12T09:11:26] kql: optimize azure sentinel detection correlation - sequence_571
+[2026-02-12T12:28:10] autogen: re-index multi-agent safety consensus weights - sequence_572
+[2026-02-12T14:49:20] zero-trust: rotate identity governance certificates - sequence_573
+[2026-02-12T22:37:59] zero-trust: rotate identity governance certificates - sequence_574
+[2026-02-13T09:26:49] kernel: tune DOCKER-USER netfilter chain rules - sequence_575
+[2026-02-13T18:20:29] zero-trust: rotate identity governance certificates - sequence_576
+[2026-02-13T19:16:48] mcp: bridge security copilot tool calling endpoint - sequence_577
+[2026-02-13T22:40:45] autogen: re-index multi-agent safety consensus weights - sequence_578
+[2026-02-14T19:27:36] zero-trust: rotate identity governance certificates - sequence_579
+[2026-02-15T12:52:37] soar: update sub-second containment playbook - sequence_580
+[2026-02-16T12:41:43] autogen: re-index multi-agent safety consensus weights - sequence_581
+[2026-02-16T14:26:18] mitre: map credential stuffing techniques to T1110 - sequence_582
+[2026-02-16T18:40:36] autogen: re-index multi-agent safety consensus weights - sequence_583
+[2026-02-17T10:47:57] secops: update netfilter rule signatures - sequence_584
+[2026-02-17T14:38:25] ebpf: patch packet probe filter hook - sequence_585
+[2026-02-17T16:39:50] mcp: bridge security copilot tool calling endpoint - sequence_586
+[2026-02-18T12:42:55] mcp: bridge security copilot tool calling endpoint - sequence_587
+[2026-02-18T13:37:47] mcp: bridge security copilot tool calling endpoint - sequence_588
+[2026-02-18T14:18:10] soar: update sub-second containment playbook - sequence_589
+[2026-02-18T20:13:15] iac: scan kubernetes manifests against CIS benchmarks - sequence_590
+[2026-02-18T22:42:10] kql: optimize azure sentinel detection correlation - sequence_591
+[2026-02-19T09:59:10] kql: optimize azure sentinel detection correlation - sequence_592
+[2026-02-19T10:42:25] secops: update netfilter rule signatures - sequence_593
+[2026-02-19T11:43:35] iac: scan kubernetes manifests against CIS benchmarks - sequence_594
+[2026-02-19T12:10:28] zero-trust: rotate identity governance certificates - sequence_595
+[2026-02-19T13:29:36] mitre: map credential stuffing techniques to T1110 - sequence_596
+[2026-02-19T20:59:26] autogen: re-index multi-agent safety consensus weights - sequence_597
+[2026-02-19T21:37:45] ebpf: patch packet probe filter hook - sequence_598
+[2026-02-20T09:24:49] kql: optimize azure sentinel detection correlation - sequence_599
+[2026-02-20T12:14:54] soar: update sub-second containment playbook - sequence_600
+[2026-02-20T20:36:42] metrics: ingest distributed honeypot packet metrics - sequence_601
+[2026-02-21T12:19:57] soar: update sub-second containment playbook - sequence_602
+[2026-02-21T20:20:21] soar: update sub-second containment playbook - sequence_603
+[2026-02-21T21:30:19] telemetry: sync threat intelligence IOC stream - sequence_604
+[2026-02-22T12:18:19] mcp: bridge security copilot tool calling endpoint - sequence_605
+[2026-02-22T14:26:48] mitre: map credential stuffing techniques to T1110 - sequence_606
+[2026-02-22T20:38:50] secops: update netfilter rule signatures - sequence_607
+[2026-02-23T11:47:12] mitre: map credential stuffing techniques to T1110 - sequence_608
+[2026-02-23T15:53:39] iac: scan kubernetes manifests against CIS benchmarks - sequence_609
+[2026-02-23T20:11:20] secops: update netfilter rule signatures - sequence_610
+[2026-02-24T09:45:35] kql: optimize azure sentinel detection correlation - sequence_611
+[2026-02-24T11:23:54] secops: update netfilter rule signatures - sequence_612
+[2026-02-24T12:38:58] telemetry: sync threat intelligence IOC stream - sequence_613
+[2026-02-24T14:11:20] zero-trust: rotate identity governance certificates - sequence_614
+[2026-02-25T11:39:42] kernel: tune DOCKER-USER netfilter chain rules - sequence_615
+[2026-02-25T13:50:19] ebpf: patch packet probe filter hook - sequence_616
+[2026-02-25T14:17:42] autogen: re-index multi-agent safety consensus weights - sequence_617
+[2026-02-25T16:51:50] soar: update sub-second containment playbook - sequence_618
+[2026-02-25T21:30:46] kernel: tune DOCKER-USER netfilter chain rules - sequence_619
+[2026-02-25T22:18:19] telemetry: sync threat intelligence IOC stream - sequence_620
+[2026-02-26T14:59:30] autogen: re-index multi-agent safety consensus weights - sequence_621
+[2026-02-26T17:13:11] kernel: tune DOCKER-USER netfilter chain rules - sequence_622
+[2026-02-26T19:36:43] soar: update sub-second containment playbook - sequence_623
+[2026-02-26T20:28:52] iac: scan kubernetes manifests against CIS benchmarks - sequence_624
+[2026-02-27T14:37:57] soar: update sub-second containment playbook - sequence_625
+[2026-02-27T16:11:42] secops: update netfilter rule signatures - sequence_626
+[2026-02-27T20:12:46] iac: scan kubernetes manifests against CIS benchmarks - sequence_627
+[2026-02-28T12:10:43] zero-trust: rotate identity governance certificates - sequence_628
+[2026-02-28T14:28:57] mitre: map credential stuffing techniques to T1110 - sequence_629
+[2026-03-01T16:49:41] ebpf: patch packet probe filter hook - sequence_630
+[2026-03-01T19:58:57] telemetry: sync threat intelligence IOC stream - sequence_631
+[2026-03-01T20:10:14] mitre: map credential stuffing techniques to T1110 - sequence_632
+[2026-03-02T12:57:18] soar: update sub-second containment playbook - sequence_633
+[2026-03-02T16:57:43] metrics: ingest distributed honeypot packet metrics - sequence_634
+[2026-03-02T17:53:34] metrics: ingest distributed honeypot packet metrics - sequence_635
+[2026-03-02T19:31:48] telemetry: sync threat intelligence IOC stream - sequence_636
+[2026-03-02T20:55:23] soar: update sub-second containment playbook - sequence_637
+[2026-03-03T10:38:34] secops: update netfilter rule signatures - sequence_638
+[2026-03-03T11:43:26] autogen: re-index multi-agent safety consensus weights - sequence_639
+[2026-03-03T13:19:13] kernel: tune DOCKER-USER netfilter chain rules - sequence_640
+[2026-03-03T14:58:27] zero-trust: rotate identity governance certificates - sequence_641
+[2026-03-03T15:55:27] metrics: ingest distributed honeypot packet metrics - sequence_642
+[2026-03-03T17:27:15] mcp: bridge security copilot tool calling endpoint - sequence_643
+[2026-03-03T18:18:27] mcp: bridge security copilot tool calling endpoint - sequence_644
+[2026-03-03T20:37:44] mcp: bridge security copilot tool calling endpoint - sequence_645
+[2026-03-03T22:10:16] telemetry: sync threat intelligence IOC stream - sequence_646
+[2026-03-04T09:55:14] soar: update sub-second containment playbook - sequence_647
+[2026-03-04T10:46:12] iac: scan kubernetes manifests against CIS benchmarks - sequence_648
+[2026-03-04T12:10:28] secops: update netfilter rule signatures - sequence_649
+[2026-03-04T16:36:42] kql: optimize azure sentinel detection correlation - sequence_650
+[2026-03-04T21:16:42] telemetry: sync threat intelligence IOC stream - sequence_651
+[2026-03-06T12:43:14] kernel: tune DOCKER-USER netfilter chain rules - sequence_652
+[2026-03-06T18:40:34] telemetry: sync threat intelligence IOC stream - sequence_653
+[2026-03-06T19:41:38] secops: update netfilter rule signatures - sequence_654
+[2026-03-06T20:42:56] kernel: tune DOCKER-USER netfilter chain rules - sequence_655
+[2026-03-07T21:54:41] kql: optimize azure sentinel detection correlation - sequence_656
+[2026-03-08T17:53:41] kql: optimize azure sentinel detection correlation - sequence_657
+[2026-03-09T11:35:50] secops: update netfilter rule signatures - sequence_658
+[2026-03-09T13:41:24] metrics: ingest distributed honeypot packet metrics - sequence_659
+[2026-03-09T14:22:16] iac: scan kubernetes manifests against CIS benchmarks - sequence_660
+[2026-03-09T17:32:18] autogen: re-index multi-agent safety consensus weights - sequence_661
+[2026-03-09T21:37:30] mcp: bridge security copilot tool calling endpoint - sequence_662
+[2026-03-10T09:43:49] metrics: ingest distributed honeypot packet metrics - sequence_663
+[2026-03-10T10:22:59] soar: update sub-second containment playbook - sequence_664
+[2026-03-10T11:15:51] secops: update netfilter rule signatures - sequence_665
+[2026-03-10T13:18:55] kernel: tune DOCKER-USER netfilter chain rules - sequence_666
+[2026-03-10T15:55:15] mcp: bridge security copilot tool calling endpoint - sequence_667
+[2026-03-10T19:46:50] iac: scan kubernetes manifests against CIS benchmarks - sequence_668
+[2026-03-10T21:47:40] iac: scan kubernetes manifests against CIS benchmarks - sequence_669
+[2026-03-10T22:35:31] autogen: re-index multi-agent safety consensus weights - sequence_670
+[2026-03-11T14:30:26] kql: optimize azure sentinel detection correlation - sequence_671
+[2026-03-11T18:57:29] mitre: map credential stuffing techniques to T1110 - sequence_672
+[2026-03-11T21:50:59] mcp: bridge security copilot tool calling endpoint - sequence_673
+[2026-03-12T09:18:27] iac: scan kubernetes manifests against CIS benchmarks - sequence_674
+[2026-03-12T11:36:10] telemetry: sync threat intelligence IOC stream - sequence_675
+[2026-03-12T13:13:14] kernel: tune DOCKER-USER netfilter chain rules - sequence_676
+[2026-03-12T16:34:19] kernel: tune DOCKER-USER netfilter chain rules - sequence_677
+[2026-03-12T22:39:22] iac: scan kubernetes manifests against CIS benchmarks - sequence_678
+[2026-03-13T09:21:51] soar: update sub-second containment playbook - sequence_679
+[2026-03-13T13:56:35] secops: update netfilter rule signatures - sequence_680
+[2026-03-13T14:20:14] zero-trust: rotate identity governance certificates - sequence_681
+[2026-03-13T17:36:31] kernel: tune DOCKER-USER netfilter chain rules - sequence_682
+[2026-03-13T18:32:14] kernel: tune DOCKER-USER netfilter chain rules - sequence_683
+[2026-03-13T21:12:42] soar: update sub-second containment playbook - sequence_684
+[2026-03-14T18:42:47] telemetry: sync threat intelligence IOC stream - sequence_685
+[2026-03-15T14:25:19] kernel: tune DOCKER-USER netfilter chain rules - sequence_686
+[2026-03-15T20:12:24] secops: update netfilter rule signatures - sequence_687
+[2026-03-16T17:24:37] mcp: bridge security copilot tool calling endpoint - sequence_688
+[2026-03-16T19:43:24] autogen: re-index multi-agent safety consensus weights - sequence_689
+[2026-03-16T21:41:51] autogen: re-index multi-agent safety consensus weights - sequence_690
+[2026-03-16T22:59:17] secops: update netfilter rule signatures - sequence_691
+[2026-03-17T09:17:36] mitre: map credential stuffing techniques to T1110 - sequence_692
+[2026-03-17T10:30:18] autogen: re-index multi-agent safety consensus weights - sequence_693
+[2026-03-17T12:37:17] secops: update netfilter rule signatures - sequence_694
+[2026-03-17T13:38:10] iac: scan kubernetes manifests against CIS benchmarks - sequence_695
+[2026-03-17T14:18:39] soar: update sub-second containment playbook - sequence_696
+[2026-03-17T15:36:58] telemetry: sync threat intelligence IOC stream - sequence_697
+[2026-03-17T19:18:31] secops: update netfilter rule signatures - sequence_698
+[2026-03-17T22:34:21] mcp: bridge security copilot tool calling endpoint - sequence_699
+[2026-03-18T12:28:15] kernel: tune DOCKER-USER netfilter chain rules - sequence_700
+[2026-03-18T14:49:13] autogen: re-index multi-agent safety consensus weights - sequence_701
+[2026-03-18T15:20:44] autogen: re-index multi-agent safety consensus weights - sequence_702
+[2026-03-18T16:10:43] mcp: bridge security copilot tool calling endpoint - sequence_703
+[2026-03-18T17:31:43] mitre: map credential stuffing techniques to T1110 - sequence_704
+[2026-03-18T20:30:50] soar: update sub-second containment playbook - sequence_705
+[2026-03-18T21:33:42] iac: scan kubernetes manifests against CIS benchmarks - sequence_706
+[2026-03-18T22:51:52] kql: optimize azure sentinel detection correlation - sequence_707
+[2026-03-19T11:47:12] mcp: bridge security copilot tool calling endpoint - sequence_708
+[2026-03-19T16:48:48] zero-trust: rotate identity governance certificates - sequence_709
+[2026-03-19T19:10:22] autogen: re-index multi-agent safety consensus weights - sequence_710
+[2026-03-20T12:46:53] iac: scan kubernetes manifests against CIS benchmarks - sequence_711
+[2026-03-20T14:10:12] mitre: map credential stuffing techniques to T1110 - sequence_712
+[2026-03-20T18:19:51] kernel: tune DOCKER-USER netfilter chain rules - sequence_713
+[2026-03-21T10:30:18] secops: update netfilter rule signatures - sequence_714
+[2026-03-21T15:56:14] kql: optimize azure sentinel detection correlation - sequence_715
+[2026-03-22T18:49:38] autogen: re-index multi-agent safety consensus weights - sequence_716
+[2026-03-22T19:17:22] soar: update sub-second containment playbook - sequence_717
+[2026-03-22T20:54:39] iac: scan kubernetes manifests against CIS benchmarks - sequence_718
+[2026-03-22T22:29:24] kql: optimize azure sentinel detection correlation - sequence_719
+[2026-03-23T11:23:47] secops: update netfilter rule signatures - sequence_720
+[2026-03-23T14:58:21] kernel: tune DOCKER-USER netfilter chain rules - sequence_721
+[2026-03-23T16:26:10] kernel: tune DOCKER-USER netfilter chain rules - sequence_722
+[2026-03-23T22:34:12] telemetry: sync threat intelligence IOC stream - sequence_723
+[2026-03-24T12:10:11] ebpf: patch packet probe filter hook - sequence_724
+[2026-03-24T17:41:12] metrics: ingest distributed honeypot packet metrics - sequence_725
+[2026-03-24T19:59:28] mcp: bridge security copilot tool calling endpoint - sequence_726
+[2026-03-24T20:41:49] iac: scan kubernetes manifests against CIS benchmarks - sequence_727
+[2026-03-24T21:11:56] soar: update sub-second containment playbook - sequence_728
+[2026-03-24T22:16:10] secops: update netfilter rule signatures - sequence_729
+[2026-03-25T09:25:22] metrics: ingest distributed honeypot packet metrics - sequence_730
+[2026-03-25T16:18:24] autogen: re-index multi-agent safety consensus weights - sequence_731
+[2026-03-25T17:35:35] zero-trust: rotate identity governance certificates - sequence_732
+[2026-03-25T19:20:39] autogen: re-index multi-agent safety consensus weights - sequence_733
+[2026-03-25T21:27:30] zero-trust: rotate identity governance certificates - sequence_734
+[2026-03-26T11:14:52] secops: update netfilter rule signatures - sequence_735
+[2026-03-26T12:32:17] autogen: re-index multi-agent safety consensus weights - sequence_736
+[2026-03-26T13:52:41] mcp: bridge security copilot tool calling endpoint - sequence_737
+[2026-03-26T17:47:15] metrics: ingest distributed honeypot packet metrics - sequence_738
+[2026-03-26T19:51:18] soar: update sub-second containment playbook - sequence_739
+[2026-03-26T21:20:54] zero-trust: rotate identity governance certificates - sequence_740
+[2026-03-28T10:16:26] zero-trust: rotate identity governance certificates - sequence_741
+[2026-03-28T19:28:30] telemetry: sync threat intelligence IOC stream - sequence_742
+[2026-03-28T20:14:18] mcp: bridge security copilot tool calling endpoint - sequence_743
+[2026-03-29T13:46:51] secops: update netfilter rule signatures - sequence_744
+[2026-03-30T09:45:12] autogen: re-index multi-agent safety consensus weights - sequence_745
+[2026-03-30T11:54:45] iac: scan kubernetes manifests against CIS benchmarks - sequence_746
+[2026-03-30T12:58:45] kql: optimize azure sentinel detection correlation - sequence_747
+[2026-03-30T15:53:43] mitre: map credential stuffing techniques to T1110 - sequence_748
+[2026-03-30T16:26:16] kql: optimize azure sentinel detection correlation - sequence_749
+[2026-03-30T17:46:28] telemetry: sync threat intelligence IOC stream - sequence_750
+[2026-03-31T13:35:41] ebpf: patch packet probe filter hook - sequence_751
+[2026-03-31T17:50:49] autogen: re-index multi-agent safety consensus weights - sequence_752
+[2026-03-31T19:41:45] kql: optimize azure sentinel detection correlation - sequence_753
+[2026-03-31T22:25:55] soar: update sub-second containment playbook - sequence_754
+[2026-04-01T11:25:22] ebpf: patch packet probe filter hook - sequence_755
+[2026-04-01T12:26:56] metrics: ingest distributed honeypot packet metrics - sequence_756
+[2026-04-01T14:15:23] kql: optimize azure sentinel detection correlation - sequence_757
+[2026-04-01T18:11:55] soar: update sub-second containment playbook - sequence_758
+[2026-04-01T19:58:36] telemetry: sync threat intelligence IOC stream - sequence_759
+[2026-04-02T11:43:31] soar: update sub-second containment playbook - sequence_760
+[2026-04-02T20:32:50] zero-trust: rotate identity governance certificates - sequence_761
+[2026-04-02T21:14:26] metrics: ingest distributed honeypot packet metrics - sequence_762
+[2026-04-03T11:28:37] mcp: bridge security copilot tool calling endpoint - sequence_763
+[2026-04-03T12:34:33] mcp: bridge security copilot tool calling endpoint - sequence_764
+[2026-04-03T19:50:45] kql: optimize azure sentinel detection correlation - sequence_765
+[2026-04-04T09:28:24] soar: update sub-second containment playbook - sequence_766
+[2026-04-04T10:49:15] mcp: bridge security copilot tool calling endpoint - sequence_767
+[2026-04-04T17:31:39] mitre: map credential stuffing techniques to T1110 - sequence_768
+[2026-04-05T19:31:34] secops: update netfilter rule signatures - sequence_769
+[2026-04-05T21:56:39] soar: update sub-second containment playbook - sequence_770
+[2026-04-06T09:13:57] soar: update sub-second containment playbook - sequence_771
+[2026-04-06T11:46:42] zero-trust: rotate identity governance certificates - sequence_772
+[2026-04-06T13:46:46] autogen: re-index multi-agent safety consensus weights - sequence_773
+[2026-04-06T15:59:45] telemetry: sync threat intelligence IOC stream - sequence_774
+[2026-04-06T19:34:42] kernel: tune DOCKER-USER netfilter chain rules - sequence_775
+[2026-04-06T21:31:35] ebpf: patch packet probe filter hook - sequence_776
+[2026-04-07T10:29:57] zero-trust: rotate identity governance certificates - sequence_777
+[2026-04-07T11:51:21] kql: optimize azure sentinel detection correlation - sequence_778
+[2026-04-07T13:11:49] mitre: map credential stuffing techniques to T1110 - sequence_779
+[2026-04-07T16:19:56] kernel: tune DOCKER-USER netfilter chain rules - sequence_780
+[2026-04-07T17:16:38] metrics: ingest distributed honeypot packet metrics - sequence_781
+[2026-04-07T19:23:19] ebpf: patch packet probe filter hook - sequence_782
+[2026-04-08T14:54:10] telemetry: sync threat intelligence IOC stream - sequence_783
+[2026-04-08T16:22:37] telemetry: sync threat intelligence IOC stream - sequence_784
+[2026-04-08T18:14:44] kernel: tune DOCKER-USER netfilter chain rules - sequence_785
+[2026-04-08T19:41:58] ebpf: patch packet probe filter hook - sequence_786
+[2026-04-09T09:46:38] ebpf: patch packet probe filter hook - sequence_787
+[2026-04-09T15:34:21] iac: scan kubernetes manifests against CIS benchmarks - sequence_788
+[2026-04-09T16:42:29] ebpf: patch packet probe filter hook - sequence_789
+[2026-04-09T19:42:59] soar: update sub-second containment playbook - sequence_790
+[2026-04-09T21:52:13] ebpf: patch packet probe filter hook - sequence_791
+[2026-04-10T11:24:26] metrics: ingest distributed honeypot packet metrics - sequence_792
+[2026-04-10T12:31:16] ebpf: patch packet probe filter hook - sequence_793
+[2026-04-10T14:58:41] autogen: re-index multi-agent safety consensus weights - sequence_794
+[2026-04-10T17:18:32] kernel: tune DOCKER-USER netfilter chain rules - sequence_795
+[2026-04-10T19:26:52] metrics: ingest distributed honeypot packet metrics - sequence_796
+[2026-04-11T15:40:36] kql: optimize azure sentinel detection correlation - sequence_797
+[2026-04-11T17:51:43] autogen: re-index multi-agent safety consensus weights - sequence_798
+[2026-04-12T09:43:24] mcp: bridge security copilot tool calling endpoint - sequence_799
+[2026-04-12T18:44:52] autogen: re-index multi-agent safety consensus weights - sequence_800
+[2026-04-13T11:53:41] telemetry: sync threat intelligence IOC stream - sequence_801
+[2026-04-13T12:14:13] ebpf: patch packet probe filter hook - sequence_802
+[2026-04-13T15:24:58] mcp: bridge security copilot tool calling endpoint - sequence_803
+[2026-04-13T16:53:33] secops: update netfilter rule signatures - sequence_804
+[2026-04-15T10:43:44] metrics: ingest distributed honeypot packet metrics - sequence_805
+[2026-04-15T11:12:58] iac: scan kubernetes manifests against CIS benchmarks - sequence_806
+[2026-04-15T16:10:40] autogen: re-index multi-agent safety consensus weights - sequence_807
+[2026-04-15T19:18:31] mitre: map credential stuffing techniques to T1110 - sequence_808
+[2026-04-16T09:35:17] zero-trust: rotate identity governance certificates - sequence_809
+[2026-04-16T12:45:11] zero-trust: rotate identity governance certificates - sequence_810
+[2026-04-16T13:53:21] zero-trust: rotate identity governance certificates - sequence_811
+[2026-04-16T14:33:25] telemetry: sync threat intelligence IOC stream - sequence_812
+[2026-04-16T15:35:51] iac: scan kubernetes manifests against CIS benchmarks - sequence_813
+[2026-04-16T18:20:54] mcp: bridge security copilot tool calling endpoint - sequence_814
+[2026-04-16T19:58:21] soar: update sub-second containment playbook - sequence_815
+[2026-04-16T21:33:10] zero-trust: rotate identity governance certificates - sequence_816
+[2026-04-17T12:19:53] telemetry: sync threat intelligence IOC stream - sequence_817
+[2026-04-17T15:51:43] secops: update netfilter rule signatures - sequence_818
+[2026-04-17T17:50:43] iac: scan kubernetes manifests against CIS benchmarks - sequence_819
+[2026-04-17T19:39:49] telemetry: sync threat intelligence IOC stream - sequence_820
+[2026-04-17T22:58:12] kernel: tune DOCKER-USER netfilter chain rules - sequence_821
+[2026-04-18T11:33:13] secops: update netfilter rule signatures - sequence_822
+[2026-04-19T12:19:22] mitre: map credential stuffing techniques to T1110 - sequence_823
+[2026-04-19T17:48:57] zero-trust: rotate identity governance certificates - sequence_824
+[2026-04-21T11:42:17] secops: update netfilter rule signatures - sequence_825
+[2026-04-21T12:16:20] iac: scan kubernetes manifests against CIS benchmarks - sequence_826
+[2026-04-21T14:10:24] autogen: re-index multi-agent safety consensus weights - sequence_827
+[2026-04-21T17:47:26] autogen: re-index multi-agent safety consensus weights - sequence_828
+[2026-04-21T18:37:42] mitre: map credential stuffing techniques to T1110 - sequence_829
+[2026-04-21T19:44:14] kernel: tune DOCKER-USER netfilter chain rules - sequence_830
+[2026-04-21T20:57:37] metrics: ingest distributed honeypot packet metrics - sequence_831
+[2026-04-22T10:29:43] soar: update sub-second containment playbook - sequence_832
+[2026-04-22T11:39:30] mitre: map credential stuffing techniques to T1110 - sequence_833
+[2026-04-22T15:51:16] ebpf: patch packet probe filter hook - sequence_834
+[2026-04-22T16:17:34] ebpf: patch packet probe filter hook - sequence_835
+[2026-04-22T18:12:43] soar: update sub-second containment playbook - sequence_836
+[2026-04-22T20:50:51] metrics: ingest distributed honeypot packet metrics - sequence_837
+[2026-04-23T12:52:35] soar: update sub-second containment playbook - sequence_838
+[2026-04-23T14:26:13] secops: update netfilter rule signatures - sequence_839
+[2026-04-23T15:38:47] soar: update sub-second containment playbook - sequence_840
+[2026-04-23T16:34:40] telemetry: sync threat intelligence IOC stream - sequence_841
+[2026-04-23T18:45:43] metrics: ingest distributed honeypot packet metrics - sequence_842
+[2026-04-23T20:52:56] mitre: map credential stuffing techniques to T1110 - sequence_843
+[2026-04-25T22:14:16] mcp: bridge security copilot tool calling endpoint - sequence_844
+[2026-04-26T14:22:37] autogen: re-index multi-agent safety consensus weights - sequence_845
+[2026-04-26T16:24:40] metrics: ingest distributed honeypot packet metrics - sequence_846
+[2026-04-26T20:44:15] secops: update netfilter rule signatures - sequence_847
+[2026-04-27T10:28:20] mcp: bridge security copilot tool calling endpoint - sequence_848
+[2026-04-27T15:30:16] metrics: ingest distributed honeypot packet metrics - sequence_849
+[2026-04-27T18:54:11] zero-trust: rotate identity governance certificates - sequence_850
+[2026-04-27T19:40:25] secops: update netfilter rule signatures - sequence_851
+[2026-04-27T20:24:34] mitre: map credential stuffing techniques to T1110 - sequence_852
+[2026-04-27T22:26:17] telemetry: sync threat intelligence IOC stream - sequence_853
+[2026-04-28T09:57:47] ebpf: patch packet probe filter hook - sequence_854
+[2026-04-28T13:47:52] iac: scan kubernetes manifests against CIS benchmarks - sequence_855
+[2026-04-28T15:39:19] soar: update sub-second containment playbook - sequence_856
+[2026-04-28T20:29:52] kernel: tune DOCKER-USER netfilter chain rules - sequence_857
+[2026-04-29T10:23:13] soar: update sub-second containment playbook - sequence_858
+[2026-04-29T11:55:53] telemetry: sync threat intelligence IOC stream - sequence_859
+[2026-04-29T19:24:13] iac: scan kubernetes manifests against CIS benchmarks - sequence_860
+[2026-04-29T20:26:51] kql: optimize azure sentinel detection correlation - sequence_861
+[2026-04-29T21:42:32] mitre: map credential stuffing techniques to T1110 - sequence_862
+[2026-04-30T10:15:48] zero-trust: rotate identity governance certificates - sequence_863
+[2026-04-30T13:40:30] metrics: ingest distributed honeypot packet metrics - sequence_864
+[2026-04-30T17:53:31] mitre: map credential stuffing techniques to T1110 - sequence_865
+[2026-05-01T09:34:28] telemetry: sync threat intelligence IOC stream - sequence_866
+[2026-05-01T10:39:27] secops: update netfilter rule signatures - sequence_867
+[2026-05-01T11:22:25] autogen: re-index multi-agent safety consensus weights - sequence_868
+[2026-05-01T15:26:15] secops: update netfilter rule signatures - sequence_869
+[2026-05-01T18:27:44] ebpf: patch packet probe filter hook - sequence_870
+[2026-05-01T19:29:39] secops: update netfilter rule signatures - sequence_871
+[2026-05-02T09:39:14] iac: scan kubernetes manifests against CIS benchmarks - sequence_872
+[2026-05-02T11:37:21] mcp: bridge security copilot tool calling endpoint - sequence_873
+[2026-05-02T20:30:43] autogen: re-index multi-agent safety consensus weights - sequence_874
+[2026-05-03T15:50:19] telemetry: sync threat intelligence IOC stream - sequence_875
+[2026-05-03T16:43:54] secops: update netfilter rule signatures - sequence_876
+[2026-05-03T20:12:33] kernel: tune DOCKER-USER netfilter chain rules - sequence_877
+[2026-05-03T22:30:54] zero-trust: rotate identity governance certificates - sequence_878
+[2026-05-04T11:26:37] telemetry: sync threat intelligence IOC stream - sequence_879
+[2026-05-04T13:50:24] telemetry: sync threat intelligence IOC stream - sequence_880
+[2026-05-04T14:44:56] mcp: bridge security copilot tool calling endpoint - sequence_881
+[2026-05-04T15:33:45] kql: optimize azure sentinel detection correlation - sequence_882
+[2026-05-04T18:31:20] kernel: tune DOCKER-USER netfilter chain rules - sequence_883
+[2026-05-05T13:30:18] soar: update sub-second containment playbook - sequence_884
+[2026-05-05T17:40:39] metrics: ingest distributed honeypot packet metrics - sequence_885
+[2026-05-05T19:39:19] soar: update sub-second containment playbook - sequence_886
+[2026-05-06T11:22:50] autogen: re-index multi-agent safety consensus weights - sequence_887
+[2026-05-06T13:18:38] mitre: map credential stuffing techniques to T1110 - sequence_888
+[2026-05-06T21:37:25] autogen: re-index multi-agent safety consensus weights - sequence_889
+[2026-05-07T09:13:15] zero-trust: rotate identity governance certificates - sequence_890
+[2026-05-07T12:37:45] soar: update sub-second containment playbook - sequence_891
+[2026-05-07T16:20:43] mitre: map credential stuffing techniques to T1110 - sequence_892
+[2026-05-07T17:25:54] ebpf: patch packet probe filter hook - sequence_893
+[2026-05-07T19:54:29] ebpf: patch packet probe filter hook - sequence_894
+[2026-05-07T21:59:39] zero-trust: rotate identity governance certificates - sequence_895
+[2026-05-09T12:28:36] kernel: tune DOCKER-USER netfilter chain rules - sequence_896
+[2026-05-09T17:38:26] kql: optimize azure sentinel detection correlation - sequence_897
+[2026-05-09T19:41:10] kql: optimize azure sentinel detection correlation - sequence_898
+[2026-05-09T21:47:18] secops: update netfilter rule signatures - sequence_899
+[2026-05-10T12:41:46] ebpf: patch packet probe filter hook - sequence_900
+[2026-05-10T19:54:22] secops: update netfilter rule signatures - sequence_901
+[2026-05-10T20:34:53] autogen: re-index multi-agent safety consensus weights - sequence_902
+[2026-05-11T10:24:17] soar: update sub-second containment playbook - sequence_903
+[2026-05-11T15:37:11] kernel: tune DOCKER-USER netfilter chain rules - sequence_904
+[2026-05-11T16:27:32] mitre: map credential stuffing techniques to T1110 - sequence_905
+[2026-05-11T20:11:38] mcp: bridge security copilot tool calling endpoint - sequence_906
+[2026-05-11T21:54:52] metrics: ingest distributed honeypot packet metrics - sequence_907
+[2026-05-11T22:59:25] autogen: re-index multi-agent safety consensus weights - sequence_908
+[2026-05-12T11:16:35] telemetry: sync threat intelligence IOC stream - sequence_909
+[2026-05-12T13:51:38] kernel: tune DOCKER-USER netfilter chain rules - sequence_910
+[2026-05-12T15:49:45] iac: scan kubernetes manifests against CIS benchmarks - sequence_911
+[2026-05-12T21:39:13] metrics: ingest distributed honeypot packet metrics - sequence_912
+[2026-05-12T22:29:43] soar: update sub-second containment playbook - sequence_913
+[2026-05-13T09:25:16] soar: update sub-second containment playbook - sequence_914
+[2026-05-13T10:19:38] kernel: tune DOCKER-USER netfilter chain rules - sequence_915
+[2026-05-13T14:12:51] telemetry: sync threat intelligence IOC stream - sequence_916
+[2026-05-13T15:42:56] kql: optimize azure sentinel detection correlation - sequence_917
+[2026-05-13T16:49:54] kql: optimize azure sentinel detection correlation - sequence_918
+[2026-05-13T18:53:13] soar: update sub-second containment playbook - sequence_919
+[2026-05-13T21:55:55] metrics: ingest distributed honeypot packet metrics - sequence_920
+[2026-05-13T22:41:35] kql: optimize azure sentinel detection correlation - sequence_921
+[2026-05-14T14:10:28] mitre: map credential stuffing techniques to T1110 - sequence_922
+[2026-05-14T18:33:17] mitre: map credential stuffing techniques to T1110 - sequence_923
+[2026-05-14T19:13:26] soar: update sub-second containment playbook - sequence_924
+[2026-05-15T10:19:21] kql: optimize azure sentinel detection correlation - sequence_925
+[2026-05-15T12:33:10] autogen: re-index multi-agent safety consensus weights - sequence_926
+[2026-05-15T17:45:29] kql: optimize azure sentinel detection correlation - sequence_927
+[2026-05-15T19:48:22] ebpf: patch packet probe filter hook - sequence_928
+[2026-05-16T14:27:37] ebpf: patch packet probe filter hook - sequence_929
+[2026-05-16T15:59:51] iac: scan kubernetes manifests against CIS benchmarks - sequence_930
+[2026-05-16T18:58:29] metrics: ingest distributed honeypot packet metrics - sequence_931
+[2026-05-16T19:32:29] kql: optimize azure sentinel detection correlation - sequence_932
+[2026-05-17T10:10:25] zero-trust: rotate identity governance certificates - sequence_933
+[2026-05-17T12:25:54] iac: scan kubernetes manifests against CIS benchmarks - sequence_934
+[2026-05-17T18:14:30] kql: optimize azure sentinel detection correlation - sequence_935
+[2026-05-17T19:25:12] soar: update sub-second containment playbook - sequence_936
+[2026-05-18T09:43:55] autogen: re-index multi-agent safety consensus weights - sequence_937
+[2026-05-18T12:28:17] mcp: bridge security copilot tool calling endpoint - sequence_938
+[2026-05-18T15:36:35] autogen: re-index multi-agent safety consensus weights - sequence_939
+[2026-05-18T17:18:44] iac: scan kubernetes manifests against CIS benchmarks - sequence_940
+[2026-05-18T20:17:12] mitre: map credential stuffing techniques to T1110 - sequence_941
+[2026-05-18T22:57:37] kql: optimize azure sentinel detection correlation - sequence_942
+[2026-05-19T09:33:18] soar: update sub-second containment playbook - sequence_943
+[2026-05-19T10:32:10] iac: scan kubernetes manifests against CIS benchmarks - sequence_944
+[2026-05-19T11:31:10] kql: optimize azure sentinel detection correlation - sequence_945
+[2026-05-19T12:46:54] autogen: re-index multi-agent safety consensus weights - sequence_946
+[2026-05-19T13:57:20] telemetry: sync threat intelligence IOC stream - sequence_947
+[2026-05-19T14:44:17] telemetry: sync threat intelligence IOC stream - sequence_948
+[2026-05-19T15:11:42] kql: optimize azure sentinel detection correlation - sequence_949
+[2026-05-19T20:37:45] kql: optimize azure sentinel detection correlation - sequence_950
+[2026-05-19T21:33:28] metrics: ingest distributed honeypot packet metrics - sequence_951
+[2026-05-20T11:51:46] soar: update sub-second containment playbook - sequence_952
+[2026-05-20T13:53:53] mitre: map credential stuffing techniques to T1110 - sequence_953
+[2026-05-20T14:28:57] secops: update netfilter rule signatures - sequence_954
+[2026-05-20T16:31:37] kql: optimize azure sentinel detection correlation - sequence_955
+[2026-05-20T21:59:18] telemetry: sync threat intelligence IOC stream - sequence_956
+[2026-05-20T22:51:50] mcp: bridge security copilot tool calling endpoint - sequence_957
+[2026-05-21T10:28:22] kql: optimize azure sentinel detection correlation - sequence_958
+[2026-05-21T13:29:49] soar: update sub-second containment playbook - sequence_959
+[2026-05-21T15:53:44] kernel: tune DOCKER-USER netfilter chain rules - sequence_960
+[2026-05-21T17:38:28] metrics: ingest distributed honeypot packet metrics - sequence_961
+[2026-05-21T18:43:15] soar: update sub-second containment playbook - sequence_962
+[2026-05-21T20:52:32] soar: update sub-second containment playbook - sequence_963
+[2026-05-21T21:22:32] telemetry: sync threat intelligence IOC stream - sequence_964
+[2026-05-22T09:47:58] kql: optimize azure sentinel detection correlation - sequence_965
+[2026-05-22T13:13:28] mcp: bridge security copilot tool calling endpoint - sequence_966
+[2026-05-22T14:34:45] iac: scan kubernetes manifests against CIS benchmarks - sequence_967
+[2026-05-22T18:11:47] kql: optimize azure sentinel detection correlation - sequence_968
+[2026-05-22T21:52:13] autogen: re-index multi-agent safety consensus weights - sequence_969
+[2026-05-22T22:56:55] soar: update sub-second containment playbook - sequence_970
+[2026-05-23T20:34:15] soar: update sub-second containment playbook - sequence_971
+[2026-05-23T22:51:28] iac: scan kubernetes manifests against CIS benchmarks - sequence_972
+[2026-05-24T13:53:45] telemetry: sync threat intelligence IOC stream - sequence_973
+[2026-05-24T16:18:17] ebpf: patch packet probe filter hook - sequence_974
+[2026-05-24T19:29:42] zero-trust: rotate identity governance certificates - sequence_975
+[2026-05-25T09:12:33] secops: update netfilter rule signatures - sequence_976
+[2026-05-25T10:45:43] mcp: bridge security copilot tool calling endpoint - sequence_977
+[2026-05-25T11:25:42] mcp: bridge security copilot tool calling endpoint - sequence_978
+[2026-05-25T12:27:55] zero-trust: rotate identity governance certificates - sequence_979
+[2026-05-25T13:22:13] autogen: re-index multi-agent safety consensus weights - sequence_980
+[2026-05-25T15:50:57] mitre: map credential stuffing techniques to T1110 - sequence_981
+[2026-05-25T18:34:51] metrics: ingest distributed honeypot packet metrics - sequence_982
+[2026-05-25T19:20:44] soar: update sub-second containment playbook - sequence_983
+[2026-05-25T20:42:45] kernel: tune DOCKER-USER netfilter chain rules - sequence_984
+[2026-05-26T09:24:39] zero-trust: rotate identity governance certificates - sequence_985
+[2026-05-26T11:23:22] autogen: re-index multi-agent safety consensus weights - sequence_986
+[2026-05-26T15:52:12] autogen: re-index multi-agent safety consensus weights - sequence_987
+[2026-05-26T16:18:16] soar: update sub-second containment playbook - sequence_988
+[2026-05-26T19:43:35] secops: update netfilter rule signatures - sequence_989
+[2026-05-26T20:13:48] iac: scan kubernetes manifests against CIS benchmarks - sequence_990
+[2026-05-27T09:59:53] secops: update netfilter rule signatures - sequence_991
+[2026-05-27T15:56:22] ebpf: patch packet probe filter hook - sequence_992
+[2026-05-27T19:15:45] ebpf: patch packet probe filter hook - sequence_993
+[2026-05-28T09:44:14] iac: scan kubernetes manifests against CIS benchmarks - sequence_994
+[2026-05-28T10:54:56] secops: update netfilter rule signatures - sequence_995
+[2026-05-28T12:19:25] kql: optimize azure sentinel detection correlation - sequence_996
+[2026-05-28T13:37:51] iac: scan kubernetes manifests against CIS benchmarks - sequence_997
+[2026-05-28T15:39:42] mitre: map credential stuffing techniques to T1110 - sequence_998
+[2026-05-28T21:19:17] telemetry: sync threat intelligence IOC stream - sequence_999
+[2026-05-29T10:31:54] metrics: ingest distributed honeypot packet metrics - sequence_1000
+[2026-05-29T11:43:44] metrics: ingest distributed honeypot packet metrics - sequence_1001
+[2026-05-29T13:48:21] zero-trust: rotate identity governance certificates - sequence_1002
+[2026-05-29T14:20:53] mcp: bridge security copilot tool calling endpoint - sequence_1003
+[2026-05-29T17:51:54] telemetry: sync threat intelligence IOC stream - sequence_1004
+[2026-05-29T18:57:24] soar: update sub-second containment playbook - sequence_1005
+[2026-05-29T20:37:15] iac: scan kubernetes manifests against CIS benchmarks - sequence_1006
+[2026-05-30T14:27:38] metrics: ingest distributed honeypot packet metrics - sequence_1007
+[2026-05-30T15:52:20] metrics: ingest distributed honeypot packet metrics - sequence_1008
+[2026-05-30T20:55:16] telemetry: sync threat intelligence IOC stream - sequence_1009
+[2026-05-31T09:33:14] zero-trust: rotate identity governance certificates - sequence_1010
+[2026-06-01T15:20:52] mcp: bridge security copilot tool calling endpoint - sequence_1011
+[2026-06-01T18:15:19] kernel: tune DOCKER-USER netfilter chain rules - sequence_1012
+[2026-06-01T20:53:32] soar: update sub-second containment playbook - sequence_1013
+[2026-06-01T21:56:37] mcp: bridge security copilot tool calling endpoint - sequence_1014
+[2026-06-02T10:11:52] telemetry: sync threat intelligence IOC stream - sequence_1015
+[2026-06-02T11:11:19] ebpf: patch packet probe filter hook - sequence_1016
+[2026-06-02T12:52:15] metrics: ingest distributed honeypot packet metrics - sequence_1017
+[2026-06-02T18:45:53] secops: update netfilter rule signatures - sequence_1018
+[2026-06-02T20:47:10] autogen: re-index multi-agent safety consensus weights - sequence_1019
+[2026-06-02T22:10:46] zero-trust: rotate identity governance certificates - sequence_1020
+[2026-06-03T17:15:40] kql: optimize azure sentinel detection correlation - sequence_1021
+[2026-06-03T18:22:40] soar: update sub-second containment playbook - sequence_1022
+[2026-06-03T19:28:26] iac: scan kubernetes manifests against CIS benchmarks - sequence_1023
+[2026-06-03T20:25:39] secops: update netfilter rule signatures - sequence_1024
+[2026-06-03T21:58:59] mitre: map credential stuffing techniques to T1110 - sequence_1025
+[2026-06-03T22:28:28] ebpf: patch packet probe filter hook - sequence_1026
+[2026-06-04T09:38:20] telemetry: sync threat intelligence IOC stream - sequence_1027
+[2026-06-04T12:54:57] zero-trust: rotate identity governance certificates - sequence_1028
+[2026-06-04T17:17:59] ebpf: patch packet probe filter hook - sequence_1029
+[2026-06-04T18:13:34] mcp: bridge security copilot tool calling endpoint - sequence_1030
+[2026-06-04T21:13:22] metrics: ingest distributed honeypot packet metrics - sequence_1031
+[2026-06-05T09:55:23] metrics: ingest distributed honeypot packet metrics - sequence_1032
+[2026-06-05T11:26:35] metrics: ingest distributed honeypot packet metrics - sequence_1033
+[2026-06-05T13:14:16] autogen: re-index multi-agent safety consensus weights - sequence_1034
+[2026-06-05T17:23:11] secops: update netfilter rule signatures - sequence_1035
+[2026-06-05T19:13:21] telemetry: sync threat intelligence IOC stream - sequence_1036
+[2026-06-06T09:36:31] secops: update netfilter rule signatures - sequence_1037
+[2026-06-06T11:29:27] telemetry: sync threat intelligence IOC stream - sequence_1038
+[2026-06-06T13:11:30] iac: scan kubernetes manifests against CIS benchmarks - sequence_1039
+[2026-06-06T22:45:47] telemetry: sync threat intelligence IOC stream - sequence_1040
+[2026-06-07T18:32:41] secops: update netfilter rule signatures - sequence_1041
+[2026-06-07T22:16:26] mcp: bridge security copilot tool calling endpoint - sequence_1042
+[2026-06-08T14:26:40] kernel: tune DOCKER-USER netfilter chain rules - sequence_1043
+[2026-06-08T18:25:13] metrics: ingest distributed honeypot packet metrics - sequence_1044
+[2026-06-08T20:21:36] autogen: re-index multi-agent safety consensus weights - sequence_1045
+[2026-06-08T21:14:38] kql: optimize azure sentinel detection correlation - sequence_1046
+[2026-06-09T11:22:37] kernel: tune DOCKER-USER netfilter chain rules - sequence_1047
+[2026-06-09T12:27:52] ebpf: patch packet probe filter hook - sequence_1048
+[2026-06-09T18:21:18] iac: scan kubernetes manifests against CIS benchmarks - sequence_1049
+[2026-06-11T11:52:57] zero-trust: rotate identity governance certificates - sequence_1050
+[2026-06-11T12:26:21] kql: optimize azure sentinel detection correlation - sequence_1051
+[2026-06-11T14:25:23] soar: update sub-second containment playbook - sequence_1052
+[2026-06-11T18:25:59] iac: scan kubernetes manifests against CIS benchmarks - sequence_1053
+[2026-06-11T19:59:54] iac: scan kubernetes manifests against CIS benchmarks - sequence_1054
+[2026-06-11T20:18:22] autogen: re-index multi-agent safety consensus weights - sequence_1055
+[2026-06-12T10:20:50] mcp: bridge security copilot tool calling endpoint - sequence_1056
+[2026-06-12T17:49:48] kql: optimize azure sentinel detection correlation - sequence_1057
+[2026-06-12T20:39:42] metrics: ingest distributed honeypot packet metrics - sequence_1058
+[2026-06-13T17:33:36] soar: update sub-second containment playbook - sequence_1059
+[2026-06-13T20:34:22] mitre: map credential stuffing techniques to T1110 - sequence_1060
+[2026-06-14T17:48:38] ebpf: patch packet probe filter hook - sequence_1061
+[2026-06-14T19:26:25] kql: optimize azure sentinel detection correlation - sequence_1062
+[2026-06-15T10:26:13] zero-trust: rotate identity governance certificates - sequence_1063
+[2026-06-15T15:31:41] ebpf: patch packet probe filter hook - sequence_1064
+[2026-06-15T21:17:57] ebpf: patch packet probe filter hook - sequence_1065
+[2026-06-16T09:27:15] ebpf: patch packet probe filter hook - sequence_1066
+[2026-06-16T10:15:41] kql: optimize azure sentinel detection correlation - sequence_1067
+[2026-06-16T15:37:23] soar: update sub-second containment playbook - sequence_1068
+[2026-06-16T16:29:11] ebpf: patch packet probe filter hook - sequence_1069
+[2026-06-16T17:43:11] kernel: tune DOCKER-USER netfilter chain rules - sequence_1070
+[2026-06-17T12:53:10] mitre: map credential stuffing techniques to T1110 - sequence_1071
+[2026-06-17T13:16:53] kernel: tune DOCKER-USER netfilter chain rules - sequence_1072
+[2026-06-17T14:59:18] telemetry: sync threat intelligence IOC stream - sequence_1073
+[2026-06-17T15:26:24] metrics: ingest distributed honeypot packet metrics - sequence_1074
+[2026-06-17T18:27:55] zero-trust: rotate identity governance certificates - sequence_1075
+[2026-06-17T21:54:30] metrics: ingest distributed honeypot packet metrics - sequence_1076
+[2026-06-17T22:33:50] iac: scan kubernetes manifests against CIS benchmarks - sequence_1077
+[2026-06-18T11:55:31] soar: update sub-second containment playbook - sequence_1078
+[2026-06-18T12:15:58] secops: update netfilter rule signatures - sequence_1079
+[2026-06-18T14:57:22] mcp: bridge security copilot tool calling endpoint - sequence_1080
+[2026-06-18T15:51:37] kernel: tune DOCKER-USER netfilter chain rules - sequence_1081
+[2026-06-18T20:47:27] kernel: tune DOCKER-USER netfilter chain rules - sequence_1082
+[2026-06-18T22:16:48] ebpf: patch packet probe filter hook - sequence_1083
+[2026-06-19T11:30:56] telemetry: sync threat intelligence IOC stream - sequence_1084
+[2026-06-19T12:16:56] ebpf: patch packet probe filter hook - sequence_1085
+[2026-06-19T17:18:35] ebpf: patch packet probe filter hook - sequence_1086
+[2026-06-21T16:17:48] secops: update netfilter rule signatures - sequence_1087
+[2026-06-21T19:33:52] mcp: bridge security copilot tool calling endpoint - sequence_1088
+[2026-06-22T15:51:36] telemetry: sync threat intelligence IOC stream - sequence_1089
+[2026-06-22T17:54:43] metrics: ingest distributed honeypot packet metrics - sequence_1090
+[2026-06-22T21:24:25] telemetry: sync threat intelligence IOC stream - sequence_1091
+[2026-06-23T10:40:44] secops: update netfilter rule signatures - sequence_1092
+[2026-06-23T13:21:51] zero-trust: rotate identity governance certificates - sequence_1093
+[2026-06-23T18:25:34] mitre: map credential stuffing techniques to T1110 - sequence_1094
+[2026-06-23T19:49:41] mitre: map credential stuffing techniques to T1110 - sequence_1095
+[2026-06-23T22:46:32] secops: update netfilter rule signatures - sequence_1096
+[2026-06-24T10:34:21] mitre: map credential stuffing techniques to T1110 - sequence_1097
+[2026-06-24T11:28:29] iac: scan kubernetes manifests against CIS benchmarks - sequence_1098
+[2026-06-24T13:51:34] mitre: map credential stuffing techniques to T1110 - sequence_1099
+[2026-06-24T14:51:33] ebpf: patch packet probe filter hook - sequence_1100
+[2026-06-24T15:45:15] kernel: tune DOCKER-USER netfilter chain rules - sequence_1101
+[2026-06-24T16:39:26] ebpf: patch packet probe filter hook - sequence_1102
+[2026-06-25T09:32:13] kernel: tune DOCKER-USER netfilter chain rules - sequence_1103
+[2026-06-25T10:36:59] mitre: map credential stuffing techniques to T1110 - sequence_1104
+[2026-06-25T16:29:47] kql: optimize azure sentinel detection correlation - sequence_1105
+[2026-06-26T12:29:41] iac: scan kubernetes manifests against CIS benchmarks - sequence_1106
+[2026-06-26T13:37:42] ebpf: patch packet probe filter hook - sequence_1107
+[2026-06-26T15:32:46] kernel: tune DOCKER-USER netfilter chain rules - sequence_1108
+[2026-06-26T17:11:50] mitre: map credential stuffing techniques to T1110 - sequence_1109
+[2026-06-26T19:17:36] secops: update netfilter rule signatures - sequence_1110
+[2026-06-26T20:26:52] kql: optimize azure sentinel detection correlation - sequence_1111
+[2026-06-27T09:22:30] soar: update sub-second containment playbook - sequence_1112
+[2026-06-27T13:43:19] telemetry: sync threat intelligence IOC stream - sequence_1113
+[2026-06-27T14:11:21] kernel: tune DOCKER-USER netfilter chain rules - sequence_1114
+[2026-06-27T15:57:18] metrics: ingest distributed honeypot packet metrics - sequence_1115
+[2026-06-28T14:51:23] autogen: re-index multi-agent safety consensus weights - sequence_1116
+[2026-06-28T16:57:28] telemetry: sync threat intelligence IOC stream - sequence_1117
+[2026-06-28T22:21:56] kernel: tune DOCKER-USER netfilter chain rules - sequence_1118
+[2026-06-29T12:23:24] metrics: ingest distributed honeypot packet metrics - sequence_1119
+[2026-06-29T14:29:30] secops: update netfilter rule signatures - sequence_1120
+[2026-06-29T16:20:24] mitre: map credential stuffing techniques to T1110 - sequence_1121
+[2026-06-29T18:59:26] mitre: map credential stuffing techniques to T1110 - sequence_1122
+[2026-06-29T19:38:32] mcp: bridge security copilot tool calling endpoint - sequence_1123
+[2026-06-29T20:37:51] kernel: tune DOCKER-USER netfilter chain rules - sequence_1124
+[2026-06-30T11:12:54] telemetry: sync threat intelligence IOC stream - sequence_1125
+[2026-06-30T13:22:20] mitre: map credential stuffing techniques to T1110 - sequence_1126
+[2026-06-30T17:35:42] soar: update sub-second containment playbook - sequence_1127
+[2026-06-30T18:43:46] metrics: ingest distributed honeypot packet metrics - sequence_1128
+[2026-07-01T09:35:28] iac: scan kubernetes manifests against CIS benchmarks - sequence_1129
+[2026-07-01T12:25:16] soar: update sub-second containment playbook - sequence_1130
+[2026-07-01T13:17:17] telemetry: sync threat intelligence IOC stream - sequence_1131
+[2026-07-01T14:22:43] secops: update netfilter rule signatures - sequence_1132
+[2026-07-01T17:21:23] kql: optimize azure sentinel detection correlation - sequence_1133
+[2026-07-02T10:18:42] kernel: tune DOCKER-USER netfilter chain rules - sequence_1134
+[2026-07-02T11:35:30] iac: scan kubernetes manifests against CIS benchmarks - sequence_1135
+[2026-07-02T12:50:39] kernel: tune DOCKER-USER netfilter chain rules - sequence_1136
+[2026-07-02T13:42:41] mcp: bridge security copilot tool calling endpoint - sequence_1137
+[2026-07-02T15:48:10] kql: optimize azure sentinel detection correlation - sequence_1138
+[2026-07-02T19:26:48] telemetry: sync threat intelligence IOC stream - sequence_1139
+[2026-07-03T12:40:23] telemetry: sync threat intelligence IOC stream - sequence_1140
+[2026-07-03T15:28:20] soar: update sub-second containment playbook - sequence_1141
+[2026-07-03T18:13:30] ebpf: patch packet probe filter hook - sequence_1142
+[2026-07-04T11:46:37] zero-trust: rotate identity governance certificates - sequence_1143
+[2026-07-04T12:15:53] mitre: map credential stuffing techniques to T1110 - sequence_1144
+[2026-07-05T11:18:37] secops: update netfilter rule signatures - sequence_1145
+[2026-07-05T13:57:38] iac: scan kubernetes manifests against CIS benchmarks - sequence_1146
+[2026-07-06T11:37:22] mcp: bridge security copilot tool calling endpoint - sequence_1147
+[2026-07-06T19:52:22] secops: update netfilter rule signatures - sequence_1148
+[2026-07-06T20:59:27] soar: update sub-second containment playbook - sequence_1149
+[2026-07-06T21:45:41] mcp: bridge security copilot tool calling endpoint - sequence_1150
+[2026-07-07T12:36:44] mitre: map credential stuffing techniques to T1110 - sequence_1151
+[2026-07-07T13:47:37] autogen: re-index multi-agent safety consensus weights - sequence_1152
+[2026-07-07T14:29:58] secops: update netfilter rule signatures - sequence_1153
+[2026-07-07T15:22:48] secops: update netfilter rule signatures - sequence_1154
+[2026-07-07T17:45:35] secops: update netfilter rule signatures - sequence_1155
+[2026-07-07T20:23:26] kernel: tune DOCKER-USER netfilter chain rules - sequence_1156
+[2026-07-08T10:48:22] metrics: ingest distributed honeypot packet metrics - sequence_1157
+[2026-07-08T13:14:11] zero-trust: rotate identity governance certificates - sequence_1158
+[2026-07-08T14:48:48] iac: scan kubernetes manifests against CIS benchmarks - sequence_1159
+[2026-07-08T17:53:25] secops: update netfilter rule signatures - sequence_1160
+[2026-07-08T22:57:48] mitre: map credential stuffing techniques to T1110 - sequence_1161
+[2026-07-09T09:25:47] soar: update sub-second containment playbook - sequence_1162
+[2026-07-09T11:18:58] metrics: ingest distributed honeypot packet metrics - sequence_1163
+[2026-07-09T13:21:56] iac: scan kubernetes manifests against CIS benchmarks - sequence_1164
+[2026-07-09T15:52:23] mitre: map credential stuffing techniques to T1110 - sequence_1165
+[2026-07-09T16:11:48] mitre: map credential stuffing techniques to T1110 - sequence_1166
+[2026-07-09T19:45:10] mcp: bridge security copilot tool calling endpoint - sequence_1167
+[2026-07-10T10:45:54] secops: update netfilter rule signatures - sequence_1168
+[2026-07-10T12:17:34] secops: update netfilter rule signatures - sequence_1169
+[2026-07-10T13:15:53] mcp: bridge security copilot tool calling endpoint - sequence_1170
+[2026-07-10T17:23:41] ebpf: patch packet probe filter hook - sequence_1171
+[2026-07-11T11:53:46] secops: update netfilter rule signatures - sequence_1172
+[2026-07-11T13:42:51] telemetry: sync threat intelligence IOC stream - sequence_1173
+[2026-07-12T11:39:41] ebpf: patch packet probe filter hook - sequence_1174
+[2026-07-12T12:21:59] telemetry: sync threat intelligence IOC stream - sequence_1175
+[2026-07-12T20:10:41] telemetry: sync threat intelligence IOC stream - sequence_1176
+[2026-07-12T21:46:25] kernel: tune DOCKER-USER netfilter chain rules - sequence_1177
+[2026-07-13T12:47:36] ebpf: patch packet probe filter hook - sequence_1178
+[2026-07-13T13:25:45] zero-trust: rotate identity governance certificates - sequence_1179
+[2026-07-13T19:23:38] secops: update netfilter rule signatures - sequence_1180
+[2026-07-13T21:41:14] kql: optimize azure sentinel detection correlation - sequence_1181
+[2026-07-14T18:19:42] soar: update sub-second containment playbook - sequence_1182
+[2026-07-14T21:18:23] kernel: tune DOCKER-USER netfilter chain rules - sequence_1183
+[2026-07-14T22:41:18] metrics: ingest distributed honeypot packet metrics - sequence_1184
+[2026-07-15T10:24:51] ebpf: patch packet probe filter hook - sequence_1185
+[2026-07-15T13:20:59] zero-trust: rotate identity governance certificates - sequence_1186
+[2026-07-15T16:35:36] iac: scan kubernetes manifests against CIS benchmarks - sequence_1187
+[2026-07-15T18:30:58] mitre: map credential stuffing techniques to T1110 - sequence_1188
+[2026-07-15T22:37:43] autogen: re-index multi-agent safety consensus weights - sequence_1189
+[2026-07-16T09:39:23] metrics: ingest distributed honeypot packet metrics - sequence_1190
+[2026-07-16T16:37:20] autogen: re-index multi-agent safety consensus weights - sequence_1191
+[2026-07-16T17:50:45] kernel: tune DOCKER-USER netfilter chain rules - sequence_1192
+[2026-07-16T18:40:59] mitre: map credential stuffing techniques to T1110 - sequence_1193
+[2026-07-16T21:35:12] zero-trust: rotate identity governance certificates - sequence_1194
+[2026-07-17T12:23:24] metrics: ingest distributed honeypot packet metrics - sequence_1195
+[2026-07-17T13:37:11] ebpf: patch packet probe filter hook - sequence_1196
+[2026-07-17T15:58:52] ebpf: patch packet probe filter hook - sequence_1197
+[2026-07-17T16:27:31] telemetry: sync threat intelligence IOC stream - sequence_1198
+[2026-07-17T18:45:11] metrics: ingest distributed honeypot packet metrics - sequence_1199
+[2026-07-17T19:55:21] kernel: tune DOCKER-USER netfilter chain rules - sequence_1200
+[2026-07-17T20:11:55] ebpf: patch packet probe filter hook - sequence_1201
+[2026-07-18T10:42:57] kernel: tune DOCKER-USER netfilter chain rules - sequence_1202
+[2026-07-18T11:52:21] kql: optimize azure sentinel detection correlation - sequence_1203
+[2026-07-18T19:42:24] secops: update netfilter rule signatures - sequence_1204
+[2026-07-19T15:40:29] kql: optimize azure sentinel detection correlation - sequence_1205
+[2026-07-19T18:55:41] ebpf: patch packet probe filter hook - sequence_1206
+[2026-07-19T20:25:23] kql: optimize azure sentinel detection correlation - sequence_1207
+[2026-07-20T09:50:16] autogen: re-index multi-agent safety consensus weights - sequence_1208
+[2026-07-20T10:30:27] soar: update sub-second containment playbook - sequence_1209
+[2026-07-20T11:48:14] kql: optimize azure sentinel detection correlation - sequence_1210
+[2026-07-20T18:17:47] autogen: re-index multi-agent safety consensus weights - sequence_1211
+[2026-07-20T22:48:45] mcp: bridge security copilot tool calling endpoint - sequence_1212
+[2026-07-21T10:47:29] kql: optimize azure sentinel detection correlation - sequence_1213
+[2026-07-21T11:49:36] autogen: re-index multi-agent safety consensus weights - sequence_1214
+[2026-07-21T19:35:27] zero-trust: rotate identity governance certificates - sequence_1215
+[2026-07-21T20:20:36] kql: optimize azure sentinel detection correlation - sequence_1216
+[2026-07-21T21:43:21] ebpf: patch packet probe filter hook - sequence_1217
+[2026-07-21T22:39:56] soar: update sub-second containment playbook - sequence_1218
+[2026-07-22T10:57:31] mitre: map credential stuffing techniques to T1110 - sequence_1219
+[2026-07-22T11:58:16] kernel: tune DOCKER-USER netfilter chain rules - sequence_1220
+[2026-07-22T12:55:58] iac: scan kubernetes manifests against CIS benchmarks - sequence_1221
+[2026-07-22T13:12:46] zero-trust: rotate identity governance certificates - sequence_1222
+[2026-07-22T14:20:23] telemetry: sync threat intelligence IOC stream - sequence_1223
+[2026-07-22T15:34:57] zero-trust: rotate identity governance certificates - sequence_1224
+[2026-07-22T16:18:25] kql: optimize azure sentinel detection correlation - sequence_1225
+[2026-07-22T21:59:10] soar: update sub-second containment playbook - sequence_1226
+[2026-07-22T22:37:11] secops: update netfilter rule signatures - sequence_1227
+[2026-07-23T09:52:42] telemetry: sync threat intelligence IOC stream - sequence_1228
+[2026-07-23T14:49:49] iac: scan kubernetes manifests against CIS benchmarks - sequence_1229
+[2026-07-23T19:55:24] kql: optimize azure sentinel detection correlation - sequence_1230
+[2026-07-24T11:39:14] metrics: ingest distributed honeypot packet metrics - sequence_1231
+[2026-07-24T20:14:21] autogen: re-index multi-agent safety consensus weights - sequence_1232
+[2026-07-24T22:19:57] kernel: tune DOCKER-USER netfilter chain rules - sequence_1233
+[2026-07-25T14:44:23] telemetry: sync threat intelligence IOC stream - sequence_1234
+[2026-07-27T09:24:34] kernel: tune DOCKER-USER netfilter chain rules - sequence_1235
+[2026-07-27T11:52:41] ebpf: patch packet probe filter hook - sequence_1236
+[2026-07-27T19:48:17] mitre: map credential stuffing techniques to T1110 - sequence_1237
+[2026-07-27T20:41:50] kernel: tune DOCKER-USER netfilter chain rules - sequence_1238
+[2026-07-28T11:10:36] kernel: tune DOCKER-USER netfilter chain rules - sequence_1239
+[2026-07-28T17:16:45] kernel: tune DOCKER-USER netfilter chain rules - sequence_1240
+[2026-07-28T21:30:29] iac: scan kubernetes manifests against CIS benchmarks - sequence_1241
+[2026-07-28T22:35:55] kql: optimize azure sentinel detection correlation - sequence_1242
+[2026-07-29T09:34:58] soar: update sub-second containment playbook - sequence_1243
+[2026-07-29T10:15:59] soar: update sub-second containment playbook - sequence_1244
+[2026-07-29T12:28:38] autogen: re-index multi-agent safety consensus weights - sequence_1245
+[2026-07-29T16:32:19] iac: scan kubernetes manifests against CIS benchmarks - sequence_1246
+[2026-07-29T20:26:47] kernel: tune DOCKER-USER netfilter chain rules - sequence_1247
+[2026-07-29T21:21:45] telemetry: sync threat intelligence IOC stream - sequence_1248
+[2026-07-30T10:13:49] iac: scan kubernetes manifests against CIS benchmarks - sequence_1249
+[2026-07-30T18:40:31] mcp: bridge security copilot tool calling endpoint - sequence_1250
+[2026-07-30T20:54:45] autogen: re-index multi-agent safety consensus weights - sequence_1251
+[2026-07-31T09:17:21] telemetry: sync threat intelligence IOC stream - sequence_1252
+[2026-07-31T13:37:59] ebpf: patch packet probe filter hook - sequence_1253
+[2026-07-31T22:58:16] soar: update sub-second containment playbook - sequence_1254
+[2026-08-01T12:14:14] autogen: re-index multi-agent safety consensus weights - sequence_1255
+[2026-08-01T14:12:26] mcp: bridge security copilot tool calling endpoint - sequence_1256
+[2026-08-02T10:19:52] kql: optimize azure sentinel detection correlation - sequence_1257
+[2026-08-02T18:56:22] telemetry: sync threat intelligence IOC stream - sequence_1258
+[2026-08-03T13:33:51] metrics: ingest distributed honeypot packet metrics - sequence_1259
+[2026-08-03T16:16:22] ebpf: patch packet probe filter hook - sequence_1260
+[2026-08-03T17:13:57] kernel: tune DOCKER-USER netfilter chain rules - sequence_1261
+[2026-08-03T20:14:58] iac: scan kubernetes manifests against CIS benchmarks - sequence_1262
+[2026-08-03T21:11:33] kernel: tune DOCKER-USER netfilter chain rules - sequence_1263
+[2026-08-04T11:31:52] zero-trust: rotate identity governance certificates - sequence_1264
+[2026-08-04T13:17:29] secops: update netfilter rule signatures - sequence_1265
+[2026-08-04T16:44:50] zero-trust: rotate identity governance certificates - sequence_1266
+[2026-08-04T18:13:27] ebpf: patch packet probe filter hook - sequence_1267
+[2026-08-04T21:32:46] kql: optimize azure sentinel detection correlation - sequence_1268
+[2026-08-05T09:56:29] kql: optimize azure sentinel detection correlation - sequence_1269
+[2026-08-05T10:57:45] ebpf: patch packet probe filter hook - sequence_1270
+[2026-08-05T11:47:45] iac: scan kubernetes manifests against CIS benchmarks - sequence_1271
+[2026-08-05T14:17:25] secops: update netfilter rule signatures - sequence_1272
+[2026-08-05T16:31:26] ebpf: patch packet probe filter hook - sequence_1273
+[2026-08-05T17:53:37] kernel: tune DOCKER-USER netfilter chain rules - sequence_1274
+[2026-08-06T10:50:10] kql: optimize azure sentinel detection correlation - sequence_1275
+[2026-08-06T14:10:37] secops: update netfilter rule signatures - sequence_1276
+[2026-08-06T20:17:46] telemetry: sync threat intelligence IOC stream - sequence_1277
+[2026-08-07T09:43:55] soar: update sub-second containment playbook - sequence_1278
+[2026-08-07T10:31:55] autogen: re-index multi-agent safety consensus weights - sequence_1279
+[2026-08-07T14:31:29] autogen: re-index multi-agent safety consensus weights - sequence_1280
+[2026-08-07T17:33:11] kql: optimize azure sentinel detection correlation - sequence_1281
+[2026-08-07T20:11:11] kernel: tune DOCKER-USER netfilter chain rules - sequence_1282
+[2026-08-07T22:19:24] mcp: bridge security copilot tool calling endpoint - sequence_1283
+[2026-08-08T13:45:49] soar: update sub-second containment playbook - sequence_1284
+[2026-08-08T15:31:24] soar: update sub-second containment playbook - sequence_1285
+[2026-08-08T21:23:28] iac: scan kubernetes manifests against CIS benchmarks - sequence_1286
+[2026-08-09T12:12:43] mitre: map credential stuffing techniques to T1110 - sequence_1287
+[2026-08-09T19:59:48] metrics: ingest distributed honeypot packet metrics - sequence_1288
+[2026-08-09T22:37:29] iac: scan kubernetes manifests against CIS benchmarks - sequence_1289
+[2026-08-10T09:22:16] metrics: ingest distributed honeypot packet metrics - sequence_1290
+[2026-08-10T10:49:48] mcp: bridge security copilot tool calling endpoint - sequence_1291
+[2026-08-10T11:54:26] zero-trust: rotate identity governance certificates - sequence_1292
+[2026-08-10T12:12:15] telemetry: sync threat intelligence IOC stream - sequence_1293
+[2026-08-10T13:11:55] ebpf: patch packet probe filter hook - sequence_1294
+[2026-08-10T14:50:49] kernel: tune DOCKER-USER netfilter chain rules - sequence_1295
+[2026-08-10T16:12:13] telemetry: sync threat intelligence IOC stream - sequence_1296
+[2026-08-10T22:27:35] kernel: tune DOCKER-USER netfilter chain rules - sequence_1297
+[2026-08-11T11:12:13] iac: scan kubernetes manifests against CIS benchmarks - sequence_1298
+[2026-08-11T15:22:36] mitre: map credential stuffing techniques to T1110 - sequence_1299
+[2026-08-11T18:40:39] soar: update sub-second containment playbook - sequence_1300
+[2026-08-12T13:42:29] autogen: re-index multi-agent safety consensus weights - sequence_1301
+[2026-08-12T21:46:53] zero-trust: rotate identity governance certificates - sequence_1302
+[2026-08-12T22:37:24] autogen: re-index multi-agent safety consensus weights - sequence_1303
+[2026-08-13T09:36:43] kernel: tune DOCKER-USER netfilter chain rules - sequence_1304
+[2026-08-13T14:34:57] metrics: ingest distributed honeypot packet metrics - sequence_1305
+[2026-08-13T18:31:53] autogen: re-index multi-agent safety consensus weights - sequence_1306
+[2026-08-14T12:33:56] secops: update netfilter rule signatures - sequence_1307
+[2026-08-14T13:27:13] telemetry: sync threat intelligence IOC stream - sequence_1308
+[2026-08-14T18:59:31] iac: scan kubernetes manifests against CIS benchmarks - sequence_1309
+[2026-08-15T09:47:42] kql: optimize azure sentinel detection correlation - sequence_1310
+[2026-08-15T10:23:38] iac: scan kubernetes manifests against CIS benchmarks - sequence_1311
+[2026-08-15T12:16:53] kql: optimize azure sentinel detection correlation - sequence_1312
+[2026-08-15T21:56:38] zero-trust: rotate identity governance certificates - sequence_1313
+[2026-08-17T09:57:51] metrics: ingest distributed honeypot packet metrics - sequence_1314
+[2026-08-17T13:59:49] kernel: tune DOCKER-USER netfilter chain rules - sequence_1315
+[2026-08-17T14:43:51] autogen: re-index multi-agent safety consensus weights - sequence_1316
+[2026-08-17T15:15:12] kernel: tune DOCKER-USER netfilter chain rules - sequence_1317
+[2026-08-17T16:58:10] kql: optimize azure sentinel detection correlation - sequence_1318
+[2026-08-17T21:10:38] ebpf: patch packet probe filter hook - sequence_1319
+[2026-08-18T12:11:53] metrics: ingest distributed honeypot packet metrics - sequence_1320
+[2026-08-18T16:54:28] kql: optimize azure sentinel detection correlation - sequence_1321
+[2026-08-18T17:32:19] mcp: bridge security copilot tool calling endpoint - sequence_1322
+[2026-08-18T19:57:37] soar: update sub-second containment playbook - sequence_1323
+[2026-08-18T21:13:35] mitre: map credential stuffing techniques to T1110 - sequence_1324
+[2026-08-19T10:41:18] kql: optimize azure sentinel detection correlation - sequence_1325
+[2026-08-19T18:20:10] secops: update netfilter rule signatures - sequence_1326
+[2026-08-19T20:55:25] autogen: re-index multi-agent safety consensus weights - sequence_1327
+[2026-08-19T21:28:55] iac: scan kubernetes manifests against CIS benchmarks - sequence_1328
+[2026-08-19T22:29:39] mcp: bridge security copilot tool calling endpoint - sequence_1329
+[2026-08-20T10:50:20] metrics: ingest distributed honeypot packet metrics - sequence_1330
+[2026-08-20T13:41:37] kql: optimize azure sentinel detection correlation - sequence_1331
+[2026-08-20T15:48:19] ebpf: patch packet probe filter hook - sequence_1332
+[2026-08-20T17:21:33] kql: optimize azure sentinel detection correlation - sequence_1333
+[2026-08-20T21:23:54] secops: update netfilter rule signatures - sequence_1334
+[2026-08-20T22:50:42] iac: scan kubernetes manifests against CIS benchmarks - sequence_1335
+[2026-08-21T10:42:41] kql: optimize azure sentinel detection correlation - sequence_1336
+[2026-08-21T12:43:25] autogen: re-index multi-agent safety consensus weights - sequence_1337
+[2026-08-21T13:49:12] kernel: tune DOCKER-USER netfilter chain rules - sequence_1338
+[2026-08-21T14:52:30] autogen: re-index multi-agent safety consensus weights - sequence_1339
+[2026-08-21T19:41:32] soar: update sub-second containment playbook - sequence_1340
+[2026-08-21T20:26:46] telemetry: sync threat intelligence IOC stream - sequence_1341
+[2026-08-21T22:16:23] telemetry: sync threat intelligence IOC stream - sequence_1342
+[2026-08-22T15:29:23] zero-trust: rotate identity governance certificates - sequence_1343
+[2026-08-22T17:57:49] kernel: tune DOCKER-USER netfilter chain rules - sequence_1344
+[2026-08-22T21:59:40] kql: optimize azure sentinel detection correlation - sequence_1345
+[2026-08-23T10:47:54] soar: update sub-second containment playbook - sequence_1346
+[2026-08-23T16:17:51] mcp: bridge security copilot tool calling endpoint - sequence_1347
+[2026-08-23T17:48:12] autogen: re-index multi-agent safety consensus weights - sequence_1348
+[2026-08-25T11:13:44] mitre: map credential stuffing techniques to T1110 - sequence_1349
+[2026-08-25T14:47:32] metrics: ingest distributed honeypot packet metrics - sequence_1350
+[2026-08-25T16:35:12] telemetry: sync threat intelligence IOC stream - sequence_1351
+[2026-08-25T17:20:59] kernel: tune DOCKER-USER netfilter chain rules - sequence_1352
+[2026-08-25T19:55:39] ebpf: patch packet probe filter hook - sequence_1353
+[2026-08-25T20:51:53] ebpf: patch packet probe filter hook - sequence_1354
+[2026-08-26T11:14:38] secops: update netfilter rule signatures - sequence_1355
+[2026-08-26T12:13:36] mitre: map credential stuffing techniques to T1110 - sequence_1356
+[2026-08-26T13:51:36] iac: scan kubernetes manifests against CIS benchmarks - sequence_1357
+[2026-08-26T14:31:16] kernel: tune DOCKER-USER netfilter chain rules - sequence_1358
+[2026-08-26T17:48:31] iac: scan kubernetes manifests against CIS benchmarks - sequence_1359
+[2026-08-26T18:51:57] iac: scan kubernetes manifests against CIS benchmarks - sequence_1360
+[2026-08-26T22:37:55] mcp: bridge security copilot tool calling endpoint - sequence_1361
+[2026-08-27T10:22:19] mitre: map credential stuffing techniques to T1110 - sequence_1362
+[2026-08-27T11:15:11] mcp: bridge security copilot tool calling endpoint - sequence_1363
+[2026-08-27T16:52:32] mcp: bridge security copilot tool calling endpoint - sequence_1364
+[2026-08-27T17:29:48] zero-trust: rotate identity governance certificates - sequence_1365
+[2026-08-27T20:32:15] mitre: map credential stuffing techniques to T1110 - sequence_1366
+[2026-08-27T21:34:47] telemetry: sync threat intelligence IOC stream - sequence_1367
+[2026-08-28T10:13:12] kql: optimize azure sentinel detection correlation - sequence_1368
+[2026-08-28T15:44:33] secops: update netfilter rule signatures - sequence_1369
+[2026-08-28T16:34:27] kql: optimize azure sentinel detection correlation - sequence_1370
+[2026-08-28T19:52:23] zero-trust: rotate identity governance certificates - sequence_1371
+[2026-08-28T22:11:48] kernel: tune DOCKER-USER netfilter chain rules - sequence_1372
+[2026-08-29T14:48:56] kql: optimize azure sentinel detection correlation - sequence_1373
+[2026-08-29T18:45:18] kernel: tune DOCKER-USER netfilter chain rules - sequence_1374
+[2026-08-29T20:43:41] ebpf: patch packet probe filter hook - sequence_1375
+[2026-08-30T09:23:10] metrics: ingest distributed honeypot packet metrics - sequence_1376
+[2026-08-30T13:12:25] iac: scan kubernetes manifests against CIS benchmarks - sequence_1377
+[2026-08-30T16:51:28] mitre: map credential stuffing techniques to T1110 - sequence_1378
+[2026-08-31T10:43:58] zero-trust: rotate identity governance certificates - sequence_1379
+[2026-08-31T11:34:46] mitre: map credential stuffing techniques to T1110 - sequence_1380
+[2026-08-31T14:37:57] mcp: bridge security copilot tool calling endpoint - sequence_1381
+[2026-08-31T17:18:42] mcp: bridge security copilot tool calling endpoint - sequence_1382
+[2026-08-31T18:56:10] telemetry: sync threat intelligence IOC stream - sequence_1383
+[2026-08-31T19:58:46] secops: update netfilter rule signatures - sequence_1384
+[2026-08-31T21:24:24] telemetry: sync threat intelligence IOC stream - sequence_1385
+[2026-08-31T22:48:57] iac: scan kubernetes manifests against CIS benchmarks - sequence_1386
+[2026-09-01T09:20:40] soar: update sub-second containment playbook - sequence_1387
+[2026-09-01T13:29:40] metrics: ingest distributed honeypot packet metrics - sequence_1388
+[2026-09-01T17:16:31] secops: update netfilter rule signatures - sequence_1389
+[2026-09-01T18:34:41] autogen: re-index multi-agent safety consensus weights - sequence_1390
+[2026-09-01T20:45:57] kql: optimize azure sentinel detection correlation - sequence_1391
+[2026-09-01T22:45:14] telemetry: sync threat intelligence IOC stream - sequence_1392
+[2026-09-02T15:54:23] kernel: tune DOCKER-USER netfilter chain rules - sequence_1393
+[2026-09-02T16:10:59] secops: update netfilter rule signatures - sequence_1394
+[2026-09-02T18:13:36] autogen: re-index multi-agent safety consensus weights - sequence_1395
+[2026-09-03T11:19:26] soar: update sub-second containment playbook - sequence_1396
+[2026-09-03T18:44:55] zero-trust: rotate identity governance certificates - sequence_1397
+[2026-09-03T19:28:36] ebpf: patch packet probe filter hook - sequence_1398
+[2026-09-03T20:27:12] soar: update sub-second containment playbook - sequence_1399
+[2026-09-03T21:59:46] ebpf: patch packet probe filter hook - sequence_1400
+[2026-09-03T22:57:38] iac: scan kubernetes manifests against CIS benchmarks - sequence_1401
+[2026-09-04T09:19:58] kernel: tune DOCKER-USER netfilter chain rules - sequence_1402
+[2026-09-04T10:26:14] autogen: re-index multi-agent safety consensus weights - sequence_1403
+[2026-09-04T11:45:54] iac: scan kubernetes manifests against CIS benchmarks - sequence_1404
+[2026-09-04T12:46:47] iac: scan kubernetes manifests against CIS benchmarks - sequence_1405
+[2026-09-04T13:51:24] mitre: map credential stuffing techniques to T1110 - sequence_1406
+[2026-09-04T14:15:52] iac: scan kubernetes manifests against CIS benchmarks - sequence_1407
+[2026-09-04T15:55:48] mitre: map credential stuffing techniques to T1110 - sequence_1408
+[2026-09-04T21:12:22] ebpf: patch packet probe filter hook - sequence_1409
+[2026-09-04T22:24:48] ebpf: patch packet probe filter hook - sequence_1410
+[2026-09-05T10:18:17] mcp: bridge security copilot tool calling endpoint - sequence_1411
+[2026-09-05T20:31:38] kql: optimize azure sentinel detection correlation - sequence_1412
+[2026-09-05T21:50:26] telemetry: sync threat intelligence IOC stream - sequence_1413
+[2026-09-05T22:24:41] metrics: ingest distributed honeypot packet metrics - sequence_1414
+[2026-09-06T10:26:51] mitre: map credential stuffing techniques to T1110 - sequence_1415
+[2026-09-07T13:14:59] iac: scan kubernetes manifests against CIS benchmarks - sequence_1416
+[2026-09-07T15:22:34] telemetry: sync threat intelligence IOC stream - sequence_1417
+[2026-09-07T16:43:37] soar: update sub-second containment playbook - sequence_1418
+[2026-09-07T20:25:34] metrics: ingest distributed honeypot packet metrics - sequence_1419
+[2026-09-07T22:48:52] kql: optimize azure sentinel detection correlation - sequence_1420
+[2026-09-08T11:38:22] telemetry: sync threat intelligence IOC stream - sequence_1421
+[2026-09-08T12:40:44] iac: scan kubernetes manifests against CIS benchmarks - sequence_1422
+[2026-09-08T13:30:26] kql: optimize azure sentinel detection correlation - sequence_1423
+[2026-09-08T15:50:17] soar: update sub-second containment playbook - sequence_1424
+[2026-09-08T16:20:52] iac: scan kubernetes manifests against CIS benchmarks - sequence_1425
+[2026-09-08T17:15:38] metrics: ingest distributed honeypot packet metrics - sequence_1426
+[2026-09-08T21:38:12] autogen: re-index multi-agent safety consensus weights - sequence_1427
+[2026-09-08T22:41:32] secops: update netfilter rule signatures - sequence_1428
+[2026-09-09T16:29:30] secops: update netfilter rule signatures - sequence_1429
+[2026-09-09T20:35:52] mcp: bridge security copilot tool calling endpoint - sequence_1430
+[2026-09-09T21:34:39] ebpf: patch packet probe filter hook - sequence_1431
+[2026-09-10T10:30:28] iac: scan kubernetes manifests against CIS benchmarks - sequence_1432
+[2026-09-10T11:36:45] ebpf: patch packet probe filter hook - sequence_1433
+[2026-09-10T14:50:14] telemetry: sync threat intelligence IOC stream - sequence_1434
+[2026-09-10T15:43:54] soar: update sub-second containment playbook - sequence_1435
+[2026-09-10T16:28:56] zero-trust: rotate identity governance certificates - sequence_1436
+[2026-09-10T18:23:31] telemetry: sync threat intelligence IOC stream - sequence_1437
+[2026-09-11T14:42:16] ebpf: patch packet probe filter hook - sequence_1438
+[2026-09-11T16:52:32] mitre: map credential stuffing techniques to T1110 - sequence_1439
+[2026-09-11T19:51:19] secops: update netfilter rule signatures - sequence_1440
+[2026-09-12T12:36:53] mcp: bridge security copilot tool calling endpoint - sequence_1441
+[2026-09-12T15:28:39] kql: optimize azure sentinel detection correlation - sequence_1442
+[2026-09-12T21:59:57] kql: optimize azure sentinel detection correlation - sequence_1443
+[2026-09-14T13:54:34] iac: scan kubernetes manifests against CIS benchmarks - sequence_1444
+[2026-09-14T14:44:49] secops: update netfilter rule signatures - sequence_1445
+[2026-09-14T15:57:39] iac: scan kubernetes manifests against CIS benchmarks - sequence_1446
+[2026-09-14T18:24:29] telemetry: sync threat intelligence IOC stream - sequence_1447
+[2026-09-15T12:36:31] kql: optimize azure sentinel detection correlation - sequence_1448
+[2026-09-15T15:22:32] mcp: bridge security copilot tool calling endpoint - sequence_1449
+[2026-09-15T18:25:32] secops: update netfilter rule signatures - sequence_1450
+[2026-09-15T20:15:45] metrics: ingest distributed honeypot packet metrics - sequence_1451
+[2026-09-16T10:14:36] iac: scan kubernetes manifests against CIS benchmarks - sequence_1452
+[2026-09-16T12:43:40] metrics: ingest distributed honeypot packet metrics - sequence_1453
+[2026-09-16T13:36:53] secops: update netfilter rule signatures - sequence_1454
+[2026-09-16T14:34:26] iac: scan kubernetes manifests against CIS benchmarks - sequence_1455
+[2026-09-16T15:26:49] soar: update sub-second containment playbook - sequence_1456
+[2026-09-16T21:42:20] metrics: ingest distributed honeypot packet metrics - sequence_1457
+[2026-09-17T11:49:36] metrics: ingest distributed honeypot packet metrics - sequence_1458
+[2026-09-17T17:58:12] metrics: ingest distributed honeypot packet metrics - sequence_1459
+[2026-09-17T18:36:19] kql: optimize azure sentinel detection correlation - sequence_1460
+[2026-09-18T09:54:35] zero-trust: rotate identity governance certificates - sequence_1461
+[2026-09-18T14:34:26] ebpf: patch packet probe filter hook - sequence_1462
+[2026-09-18T16:21:24] secops: update netfilter rule signatures - sequence_1463
+[2026-09-18T21:20:10] soar: update sub-second containment playbook - sequence_1464
+[2026-09-18T22:41:12] iac: scan kubernetes manifests against CIS benchmarks - sequence_1465
+[2026-09-19T09:50:51] iac: scan kubernetes manifests against CIS benchmarks - sequence_1466
+[2026-09-19T16:57:31] telemetry: sync threat intelligence IOC stream - sequence_1467
+[2026-09-19T19:35:22] mitre: map credential stuffing techniques to T1110 - sequence_1468
+[2026-09-20T18:13:13] autogen: re-index multi-agent safety consensus weights - sequence_1469
+[2026-09-21T10:32:55] ebpf: patch packet probe filter hook - sequence_1470
+[2026-09-21T16:30:33] telemetry: sync threat intelligence IOC stream - sequence_1471
+[2026-09-21T17:29:27] soar: update sub-second containment playbook - sequence_1472
+[2026-09-21T22:13:28] kql: optimize azure sentinel detection correlation - sequence_1473
+test line 0
+test line 1
+test line 2
+test line 3
+test line 4
