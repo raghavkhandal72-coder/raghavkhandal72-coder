@@ -1492,3 +1492,4 @@ test line 4
 [2026-09-25 22:20:02 UTC] mcp: validate tool calling endpoints for security copilot (seq_18211)
 [2026-09-26 08:35:25 UTC] mcp: validate tool calling endpoints for security copilot (seq_11812)
 [2026-09-26 14:58:15 UTC] mitre: correlate suspicious credential stuffing attempts to T1110 (seq_26175)
+[2026-09-26 21:57:30 UTC] secops: refresh Linux netfilter rule signatures against brute-force (seq_21420)
