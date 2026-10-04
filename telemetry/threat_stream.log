@@ -1513,3 +1513,4 @@ test line 4
 [2026-10-03 09:08:41 UTC] kql: optimize Azure Sentinel detection correlation queries (seq_20301)
 [2026-10-03 15:08:30 UTC] kql: optimize Azure Sentinel detection correlation queries (seq_8639)
 [2026-10-03 22:07:30 UTC] mcp: validate tool calling endpoints for security copilot (seq_30319)
+[2026-10-04 09:47:08 UTC] secops: refresh Linux netfilter rule signatures against brute-force (seq_4866)
