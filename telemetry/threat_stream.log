@@ -1516,3 +1516,4 @@ test line 4
 [2026-10-04 09:47:08 UTC] secops: refresh Linux netfilter rule signatures against brute-force (seq_4866)
 [2026-10-04 15:48:12 UTC] mitre: correlate suspicious credential stuffing attempts to T1110 (seq_9625)
 [2026-10-04 22:20:05 UTC] kql: optimize Azure Sentinel detection correlation queries (seq_24601)
+[2026-10-05 10:25:46 UTC] ebpf: update kernel packet probe filter tracepoint hooks (seq_27632)
