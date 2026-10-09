@@ -1527,3 +1527,4 @@ test line 4
 [2026-10-08 10:34:18 UTC] ebpf: update kernel packet probe filter tracepoint hooks (seq_16766)
 [2026-10-08 17:52:25 UTC] soar: execute automated sub-second containment playbook (seq_24134)
 [2026-10-08 23:44:34 UTC] soar: execute automated sub-second containment playbook (seq_23808)
+[2026-10-09 10:32:57 UTC] mitre: correlate suspicious credential stuffing attempts to T1110 (seq_31647)
