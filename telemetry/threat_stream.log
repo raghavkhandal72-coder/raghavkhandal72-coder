@@ -1538,3 +1538,4 @@ test line 4
 [2026-10-11 22:54:24 UTC] telemetry: sync threat intelligence IOC stream from AbuseIPDB (seq_14827)
 [2026-10-12 10:48:32 UTC] kernel: inspect DOCKER-USER netfilter chain quarantine metrics (seq_15433)
 [2026-10-12 20:17:28 UTC] metrics: ingest distributed honeypot TCP/UDP packet logs (seq_25308)
+[2026-10-13 10:35:12 UTC] mitre: correlate suspicious credential stuffing attempts to T1110 (seq_2328)
