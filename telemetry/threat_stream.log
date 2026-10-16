@@ -1547,3 +1547,4 @@ test line 4
 [2026-10-15 08:17:42 UTC] secops: refresh Linux netfilter rule signatures against brute-force (seq_918)
 [2026-10-15 15:35:38 UTC] mcp: validate tool calling endpoints for security copilot (seq_1628)
 [2026-10-15 22:17:24 UTC] metrics: ingest distributed honeypot TCP/UDP packet logs (seq_1336)
+[2026-10-16 08:10:22 UTC] kql: optimize Azure Sentinel detection correlation queries (seq_23378)
