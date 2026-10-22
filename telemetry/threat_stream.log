@@ -1565,3 +1565,4 @@ test line 4
 [2026-10-21 08:33:56 UTC] kernel: inspect DOCKER-USER netfilter chain quarantine metrics (seq_16924)
 [2026-10-21 15:57:22 UTC] telemetry: sync threat intelligence IOC stream from AbuseIPDB (seq_18335)
 [2026-10-21 22:20:53 UTC] metrics: ingest distributed honeypot TCP/UDP packet logs (seq_5817)
+[2026-10-22 08:36:03 UTC] secops: refresh Linux netfilter rule signatures against brute-force (seq_1407)
