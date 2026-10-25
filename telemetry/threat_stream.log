@@ -1574,3 +1574,4 @@ test line 4
 [2026-10-24 08:07:14 UTC] kql: optimize Azure Sentinel detection correlation queries (seq_5121)
 [2026-10-24 14:32:34 UTC] secops: refresh Linux netfilter rule signatures against brute-force (seq_9724)
 [2026-10-24 21:36:19 UTC] iac: audit kubernetes & terraform configurations against CIS (seq_28383)
+[2026-10-25 08:24:27 UTC] telemetry: sync threat intelligence IOC stream from AbuseIPDB (seq_17542)
