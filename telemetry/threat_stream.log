@@ -1578,3 +1578,4 @@ test line 4
 [2026-10-25 14:56:48 UTC] iac: audit kubernetes & terraform configurations against CIS (seq_18849)
 [2026-10-25 21:47:10 UTC] secops: refresh Linux netfilter rule signatures against brute-force (seq_1680)
 [2026-10-26 08:54:23 UTC] telemetry: sync threat intelligence IOC stream from AbuseIPDB (seq_6182)
+[2026-10-26 17:22:45 UTC] mitre: correlate suspicious credential stuffing attempts to T1110 (seq_4789)
