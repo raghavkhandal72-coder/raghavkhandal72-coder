@@ -1592,3 +1592,4 @@ test line 4
 [2026-10-30 09:59:53 UTC] kql: optimize Azure Sentinel detection correlation queries (seq_8733)
 [2026-10-30 17:00:19 UTC] kernel: inspect DOCKER-USER netfilter chain quarantine metrics (seq_21416)
 [2026-10-30 22:58:15 UTC] mitre: correlate suspicious credential stuffing attempts to T1110 (seq_11628)
+[2026-10-31 09:38:25 UTC] iac: audit kubernetes & terraform configurations against CIS (seq_23510)
