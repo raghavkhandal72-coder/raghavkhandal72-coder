@@ -1595,3 +1595,4 @@ test line 4
 [2026-10-31 09:38:25 UTC] iac: audit kubernetes & terraform configurations against CIS (seq_23510)
 [2026-10-31 16:05:42 UTC] kernel: inspect DOCKER-USER netfilter chain quarantine metrics (seq_11010)
 [2026-10-31 22:29:17 UTC] secops: refresh Linux netfilter rule signatures against brute-force (seq_25503)
+[2026-11-01 10:26:51 UTC] telemetry: sync threat intelligence IOC stream from AbuseIPDB (seq_22009)
