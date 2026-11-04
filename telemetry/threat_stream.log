@@ -1604,3 +1604,4 @@ test line 4
 [2026-11-03 18:26:54 UTC] ebpf: update kernel packet probe filter tracepoint hooks (seq_8203)
 [2026-11-03 23:58:58 UTC] autogen: re-weight multi-agent security consensus scoring (seq_17776)
 [2026-11-04 10:54:23 UTC] telemetry: sync threat intelligence IOC stream from AbuseIPDB (seq_31022)
+[2026-11-04 18:37:57 UTC] secops: refresh Linux netfilter rule signatures against brute-force (seq_14699)
