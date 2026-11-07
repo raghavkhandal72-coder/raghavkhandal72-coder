@@ -1612,3 +1612,4 @@ test line 4
 [2026-11-06 10:51:44 UTC] mitre: correlate suspicious credential stuffing attempts to T1110 (seq_15842)
 [2026-11-06 17:57:07 UTC] secops: refresh Linux netfilter rule signatures against brute-force (seq_18645)
 [2026-11-06 23:43:14 UTC] mitre: correlate suspicious credential stuffing attempts to T1110 (seq_25320)
+[2026-11-07 10:07:08 UTC] soar: execute automated sub-second containment playbook (seq_25611)
