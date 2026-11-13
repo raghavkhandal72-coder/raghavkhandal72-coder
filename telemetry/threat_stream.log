@@ -1629,3 +1629,4 @@ test line 4
 [2026-11-12 11:07:31 UTC] telemetry: sync threat intelligence IOC stream from AbuseIPDB (seq_23911)
 [2026-11-12 18:55:11 UTC] kernel: inspect DOCKER-USER netfilter chain quarantine metrics (seq_9526)
 [2026-11-13 00:23:04 UTC] iac: audit kubernetes & terraform configurations against CIS (seq_32500)
+[2026-11-13 10:57:41 UTC] kql: optimize Azure Sentinel detection correlation queries (seq_3037)
