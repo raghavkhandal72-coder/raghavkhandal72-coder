@@ -1630,3 +1630,4 @@ test line 4
 [2026-11-12 18:55:11 UTC] kernel: inspect DOCKER-USER netfilter chain quarantine metrics (seq_9526)
 [2026-11-13 00:23:04 UTC] iac: audit kubernetes & terraform configurations against CIS (seq_32500)
 [2026-11-13 10:57:41 UTC] kql: optimize Azure Sentinel detection correlation queries (seq_3037)
+[2026-11-13 18:31:06 UTC] ebpf: update kernel packet probe filter tracepoint hooks (seq_796)
