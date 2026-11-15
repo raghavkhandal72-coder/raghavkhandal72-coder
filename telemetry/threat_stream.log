@@ -1635,3 +1635,4 @@ test line 4
 [2026-11-14 10:24:38 UTC] soar: execute automated sub-second containment playbook (seq_8569)
 [2026-11-14 17:07:14 UTC] mitre: correlate suspicious credential stuffing attempts to T1110 (seq_21013)
 [2026-11-14 22:58:16 UTC] mitre: correlate suspicious credential stuffing attempts to T1110 (seq_934)
+[2026-11-15 10:51:58 UTC] telemetry: sync threat intelligence IOC stream from AbuseIPDB (seq_15373)
