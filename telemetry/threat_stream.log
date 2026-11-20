@@ -1645,3 +1645,4 @@ test line 4
 [2026-11-18 11:40:40 UTC] soar: execute automated sub-second containment playbook (seq_20103)
 [2026-11-19 01:12:27 UTC] soar: execute automated sub-second containment playbook (seq_23198)
 [2026-11-19 11:38:31 UTC] iac: audit kubernetes & terraform configurations against CIS (seq_1422)
+[2026-11-20 01:15:35 UTC] telemetry: sync threat intelligence IOC stream from AbuseIPDB (seq_2050)
