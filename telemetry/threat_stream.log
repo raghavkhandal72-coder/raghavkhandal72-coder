@@ -1657,3 +1657,4 @@ test line 4
 [2026-11-24 04:17:10 UTC] mitre: correlate suspicious credential stuffing attempts to T1110 (seq_31387)
 [2026-11-24 21:10:51 UTC] soar: execute automated sub-second containment playbook (seq_3808)
 [2026-11-25 12:53:33 UTC] kql: optimize Azure Sentinel detection correlation queries (seq_30686)
+[2026-11-26 02:12:03 UTC] kql: optimize Azure Sentinel detection correlation queries (seq_14373)
